@@ -49,4 +49,6 @@ Then open the URL Streamlit prints (usually http://localhost:8501).
 | Quantity | Units sold |
 | Unit Price | Price per unit |
 | Revenue | Total revenue for the order |
+## Live Dashboard
 
+[View Live Dashboard](https://sales-revenue-dashboard-74pcrffdwsxytj5rjkleve.streamlit.app/)
