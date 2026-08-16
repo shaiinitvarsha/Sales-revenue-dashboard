@@ -1,0 +1,2730 @@
+Order ID,Date,Customer ID,Product,Category,Region,Quantity,Unit Price,Revenue
+5000,2024-09-01,CUST1037,Non-Stick Pan Set,Home & Kitchen,North,2,2299,4598
+5001,2024-09-01,CUST1259,Sports Cap,Apparel,North,4,399,1596
+5002,2024-09-01,CUST1214,Wireless Earbuds,Electronics,West,2,1499,2998
+5003,2024-09-01,CUST1030,Air Fryer,Home & Kitchen,West,2,4499,8998
+5004,2024-09-02,CUST1025,USB-C Hub,Electronics,West,4,1299,5196
+5005,2024-09-02,CUST1148,USB-C Hub,Electronics,South,7,1299,9093
+5006,2024-09-02,CUST1292,Electric Kettle,Home & Kitchen,North,5,999,4995
+5007,2024-09-03,CUST1190,USB-C Hub,Electronics,South,2,1299,2598
+5008,2024-09-03,CUST1316,USB-C Hub,Electronics,North,4,1299,5196
+5009,2024-09-03,CUST1397,LED Desk Lamp,Office Supplies,West,6,1199,7194
+5010,2024-09-04,CUST1127,Desk Organizer,Office Supplies,East,3,799,2397
+5011,2024-09-04,CUST1268,Air Fryer,Home & Kitchen,East,8,4499,35992
+5012,2024-09-04,CUST1311,Winter Jacket,Apparel,East,2,3299,6598
+5013,2024-09-04,CUST1084,USB-C Hub,Electronics,West,6,1299,7794
+5014,2024-09-04,CUST1020,Non-Stick Pan Set,Home & Kitchen,West,2,2299,4598
+5015,2024-09-05,CUST1296,Cotton T-Shirt,Apparel,West,8,599,4792
+5016,2024-09-05,CUST1242,Wireless Earbuds,Electronics,East,2,1499,2998
+5017,2024-09-05,CUST1145,Smart Watch,Electronics,West,7,3499,24493
+5018,2024-09-05,CUST1181,Running Shoes,Apparel,West,3,2499,7497
+5019,2024-09-06,CUST1393,Notebook Pack,Office Supplies,South,5,249,1245
+5020,2024-09-06,CUST1200,Coffee Maker,Home & Kitchen,West,8,2999,23992
+5021,2024-09-07,CUST1281,Non-Stick Pan Set,Home & Kitchen,West,5,2299,11495
+5022,2024-09-07,CUST1361,Non-Stick Pan Set,Home & Kitchen,East,7,2299,16093
+5023,2024-09-08,CUST1042,Ergonomic Chair,Office Supplies,South,3,6999,20997
+5024,2024-09-08,CUST1006,Coffee Maker,Home & Kitchen,South,8,2999,23992
+5025,2024-09-08,CUST1002,Blender,Home & Kitchen,East,3,1799,5397
+5026,2024-09-08,CUST1312,LED Desk Lamp,Office Supplies,East,6,1199,7194
+5027,2024-09-09,CUST1203,Laptop Stand,Electronics,West,7,899,6293
+5028,2024-09-09,CUST1324,Notebook Pack,Office Supplies,West,7,249,1743
+5029,2024-09-09,CUST1106,Bluetooth Speaker,Electronics,North,8,1999,15992
+5030,2024-09-10,CUST1052,Smart Watch,Electronics,North,1,3499,3499
+5031,2024-09-10,CUST1186,Electric Kettle,Home & Kitchen,North,1,999,999
+5032,2024-09-10,CUST1076,Bluetooth Speaker,Electronics,West,5,1999,9995
+5033,2024-09-11,CUST1059,Winter Jacket,Apparel,North,8,3299,26392
+5034,2024-09-11,CUST1159,Whiteboard,Office Supplies,West,2,1499,2998
+5035,2024-09-11,CUST1379,Air Fryer,Home & Kitchen,East,5,4499,22495
+5036,2024-09-11,CUST1105,Ergonomic Chair,Office Supplies,North,6,6999,41994
+5037,2024-09-12,CUST1329,USB-C Hub,Electronics,East,2,1299,2598
+5038,2024-09-12,CUST1085,Sports Cap,Apparel,East,6,399,2394
+5039,2024-09-12,CUST1325,Electric Kettle,Home & Kitchen,East,4,999,3996
+5040,2024-09-13,CUST1102,Non-Stick Pan Set,Home & Kitchen,South,8,2299,18392
+5041,2024-09-13,CUST1143,Running Shoes,Apparel,North,8,2499,19992
+5042,2024-09-13,CUST1228,Denim Jacket,Apparel,East,6,1999,11994
+5043,2024-09-14,CUST1116,Bluetooth Speaker,Electronics,North,8,1999,15992
+5044,2024-09-14,CUST1247,Blender,Home & Kitchen,South,1,1799,1799
+5045,2024-09-14,CUST1338,Desk Organizer,Office Supplies,North,2,799,1598
+5046,2024-09-14,CUST1091,Ergonomic Chair,Office Supplies,West,7,6999,48993
+5047,2024-09-15,CUST1205,Laptop Stand,Electronics,West,2,899,1798
+5048,2024-09-15,CUST1014,Coffee Maker,Home & Kitchen,South,3,2999,8997
+5049,2024-09-15,CUST1336,Ergonomic Chair,Office Supplies,West,6,6999,41994
+5050,2024-09-15,CUST1010,Electric Kettle,Home & Kitchen,South,1,999,999
+5051,2024-09-16,CUST1108,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+5052,2024-09-16,CUST1256,Denim Jacket,Apparel,East,4,1999,7996
+5053,2024-09-17,CUST1067,Sports Cap,Apparel,West,1,399,399
+5054,2024-09-17,CUST1256,Winter Jacket,Apparel,West,3,3299,9897
+5055,2024-09-17,CUST1225,Electric Kettle,Home & Kitchen,North,3,999,2997
+5056,2024-09-17,CUST1072,Bluetooth Speaker,Electronics,South,8,1999,15992
+5057,2024-09-18,CUST1397,Smart Watch,Electronics,West,2,3499,6998
+5058,2024-09-18,CUST1141,Bluetooth Speaker,Electronics,South,1,1999,1999
+5059,2024-09-19,CUST1389,LED Desk Lamp,Office Supplies,North,2,1199,2398
+5060,2024-09-19,CUST1354,Desk Organizer,Office Supplies,South,5,799,3995
+5061,2024-09-20,CUST1357,LED Desk Lamp,Office Supplies,South,5,1199,5995
+5062,2024-09-20,CUST1213,Non-Stick Pan Set,Home & Kitchen,South,2,2299,4598
+5063,2024-09-20,CUST1037,Whiteboard,Office Supplies,East,4,1499,5996
+5064,2024-09-20,CUST1342,Notebook Pack,Office Supplies,South,5,249,1245
+5065,2024-09-20,CUST1073,Bluetooth Speaker,Electronics,East,5,1999,9995
+5066,2024-09-21,CUST1203,Ergonomic Chair,Office Supplies,North,8,6999,55992
+5067,2024-09-21,CUST1361,Coffee Maker,Home & Kitchen,South,7,2999,20993
+5068,2024-09-21,CUST1100,Desk Organizer,Office Supplies,West,6,799,4794
+5069,2024-09-22,CUST1173,Smart Watch,Electronics,North,8,3499,27992
+5070,2024-09-22,CUST1169,Notebook Pack,Office Supplies,West,5,249,1245
+5071,2024-09-22,CUST1053,Wireless Earbuds,Electronics,South,2,1499,2998
+5072,2024-09-22,CUST1398,Cotton T-Shirt,Apparel,North,3,599,1797
+5073,2024-09-23,CUST1207,Non-Stick Pan Set,Home & Kitchen,East,3,2299,6897
+5074,2024-09-23,CUST1142,Desk Organizer,Office Supplies,North,1,799,799
+5075,2024-09-23,CUST1137,Non-Stick Pan Set,Home & Kitchen,North,1,2299,2299
+5076,2024-09-23,CUST1311,Smart Watch,Electronics,North,4,3499,13996
+5077,2024-09-24,CUST1005,Running Shoes,Apparel,West,6,2499,14994
+5078,2024-09-24,CUST1022,Desk Organizer,Office Supplies,South,4,799,3196
+5079,2024-09-25,CUST1092,Blender,Home & Kitchen,North,4,1799,7196
+5080,2024-09-25,CUST1148,Cotton T-Shirt,Apparel,South,8,599,4792
+5081,2024-09-26,CUST1128,Cotton T-Shirt,Apparel,North,1,599,599
+5082,2024-09-26,CUST1263,Wireless Earbuds,Electronics,South,8,1499,11992
+5083,2024-09-26,CUST1337,Non-Stick Pan Set,Home & Kitchen,North,7,2299,16093
+5084,2024-09-27,CUST1352,LED Desk Lamp,Office Supplies,East,4,1199,4796
+5085,2024-09-27,CUST1361,Blender,Home & Kitchen,South,3,1799,5397
+5086,2024-09-27,CUST1066,Desk Organizer,Office Supplies,North,1,799,799
+5087,2024-09-27,CUST1083,Smart Watch,Electronics,West,1,3499,3499
+5088,2024-09-27,CUST1306,Laptop Stand,Electronics,East,4,899,3596
+5089,2024-09-28,CUST1080,Laptop Stand,Electronics,South,5,899,4495
+5090,2024-09-28,CUST1186,Notebook Pack,Office Supplies,East,6,249,1494
+5091,2024-09-28,CUST1158,Denim Jacket,Apparel,North,4,1999,7996
+5092,2024-09-28,CUST1171,Denim Jacket,Apparel,North,7,1999,13993
+5093,2024-09-29,CUST1127,Desk Organizer,Office Supplies,South,1,799,799
+5094,2024-09-29,CUST1073,Smart Watch,Electronics,North,7,3499,24493
+5095,2024-09-30,CUST1155,Notebook Pack,Office Supplies,East,4,249,996
+5096,2024-09-30,CUST1336,USB-C Hub,Electronics,South,7,1299,9093
+5097,2024-10-01,CUST1370,Ergonomic Chair,Office Supplies,East,3,6999,20997
+5098,2024-10-01,CUST1375,USB-C Hub,Electronics,West,3,1299,3897
+5099,2024-10-01,CUST1043,USB-C Hub,Electronics,South,1,1299,1299
+5100,2024-10-01,CUST1053,Bluetooth Speaker,Electronics,East,7,1999,13993
+5101,2024-10-02,CUST1250,Wireless Earbuds,Electronics,South,5,1499,7495
+5102,2024-10-02,CUST1383,Laptop Stand,Electronics,North,2,899,1798
+5103,2024-10-02,CUST1038,Laptop Stand,Electronics,East,5,899,4495
+5104,2024-10-02,CUST1378,Coffee Maker,Home & Kitchen,South,8,2999,23992
+5105,2024-10-02,CUST1245,Whiteboard,Office Supplies,North,5,1499,7495
+5106,2024-10-03,CUST1169,Air Fryer,Home & Kitchen,South,5,4499,22495
+5107,2024-10-03,CUST1006,Sports Cap,Apparel,South,8,399,3192
+5108,2024-10-04,CUST1354,Desk Organizer,Office Supplies,North,4,799,3196
+5109,2024-10-04,CUST1237,Desk Organizer,Office Supplies,East,8,799,6392
+5110,2024-10-05,CUST1159,USB-C Hub,Electronics,South,2,1299,2598
+5111,2024-10-05,CUST1234,Notebook Pack,Office Supplies,East,2,249,498
+5112,2024-10-05,CUST1107,Desk Organizer,Office Supplies,West,4,799,3196
+5113,2024-10-05,CUST1072,USB-C Hub,Electronics,North,5,1299,6495
+5114,2024-10-05,CUST1057,Denim Jacket,Apparel,East,6,1999,11994
+5115,2024-10-06,CUST1012,Whiteboard,Office Supplies,West,3,1499,4497
+5116,2024-10-06,CUST1207,Laptop Stand,Electronics,West,5,899,4495
+5117,2024-10-06,CUST1192,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+5118,2024-10-07,CUST1384,Running Shoes,Apparel,East,6,2499,14994
+5119,2024-10-07,CUST1365,Notebook Pack,Office Supplies,South,1,249,249
+5120,2024-10-08,CUST1201,Cotton T-Shirt,Apparel,North,7,599,4193
+5121,2024-10-08,CUST1386,Smart Watch,Electronics,West,5,3499,17495
+5122,2024-10-08,CUST1026,Smart Watch,Electronics,North,5,3499,17495
+5123,2024-10-08,CUST1223,Coffee Maker,Home & Kitchen,East,6,2999,17994
+5124,2024-10-09,CUST1389,Winter Jacket,Apparel,North,7,3299,23093
+5125,2024-10-09,CUST1374,Air Fryer,Home & Kitchen,North,7,4499,31493
+5126,2024-10-09,CUST1329,LED Desk Lamp,Office Supplies,South,5,1199,5995
+5127,2024-10-10,CUST1087,USB-C Hub,Electronics,South,8,1299,10392
+5128,2024-10-10,CUST1152,Desk Organizer,Office Supplies,East,5,799,3995
+5129,2024-10-10,CUST1154,Winter Jacket,Apparel,South,8,3299,26392
+5130,2024-10-10,CUST1329,Notebook Pack,Office Supplies,South,3,249,747
+5131,2024-10-10,CUST1281,Bluetooth Speaker,Electronics,West,4,1999,7996
+5132,2024-10-11,CUST1071,Winter Jacket,Apparel,West,4,3299,13196
+5133,2024-10-11,CUST1175,Air Fryer,Home & Kitchen,South,2,4499,8998
+5134,2024-10-11,CUST1132,Denim Jacket,Apparel,East,4,1999,7996
+5135,2024-10-11,CUST1211,Laptop Stand,Electronics,West,4,899,3596
+5136,2024-10-11,CUST1385,Desk Organizer,Office Supplies,East,1,799,799
+5137,2024-10-12,CUST1064,Sports Cap,Apparel,East,4,399,1596
+5138,2024-10-12,CUST1196,Smart Watch,Electronics,South,7,3499,24493
+5139,2024-10-12,CUST1011,Whiteboard,Office Supplies,East,3,1499,4497
+5140,2024-10-12,CUST1300,Laptop Stand,Electronics,West,8,899,7192
+5141,2024-10-12,CUST1270,Wireless Earbuds,Electronics,West,8,1499,11992
+5142,2024-10-13,CUST1079,Air Fryer,Home & Kitchen,South,3,4499,13497
+5143,2024-10-13,CUST1282,Laptop Stand,Electronics,North,1,899,899
+5144,2024-10-13,CUST1291,Bluetooth Speaker,Electronics,South,1,1999,1999
+5145,2024-10-13,CUST1270,Denim Jacket,Apparel,East,7,1999,13993
+5146,2024-10-13,CUST1153,Wireless Earbuds,Electronics,North,4,1499,5996
+5147,2024-10-14,CUST1005,Denim Jacket,Apparel,North,5,1999,9995
+5148,2024-10-14,CUST1330,Desk Organizer,Office Supplies,East,4,799,3196
+5149,2024-10-14,CUST1280,LED Desk Lamp,Office Supplies,South,4,1199,4796
+5150,2024-10-14,CUST1028,Laptop Stand,Electronics,East,1,899,899
+5151,2024-10-14,CUST1041,Non-Stick Pan Set,Home & Kitchen,West,5,2299,11495
+5152,2024-10-15,CUST1252,Desk Organizer,Office Supplies,South,1,799,799
+5153,2024-10-15,CUST1349,Winter Jacket,Apparel,East,7,3299,23093
+5154,2024-10-15,CUST1378,Air Fryer,Home & Kitchen,East,2,4499,8998
+5155,2024-10-16,CUST1392,Ergonomic Chair,Office Supplies,East,4,6999,27996
+5156,2024-10-16,CUST1135,Non-Stick Pan Set,Home & Kitchen,South,5,2299,11495
+5157,2024-10-16,CUST1312,USB-C Hub,Electronics,West,3,1299,3897
+5158,2024-10-17,CUST1304,Whiteboard,Office Supplies,North,3,1499,4497
+5159,2024-10-17,CUST1012,Notebook Pack,Office Supplies,South,3,249,747
+5160,2024-10-17,CUST1094,Notebook Pack,Office Supplies,North,7,249,1743
+5161,2024-10-18,CUST1084,Running Shoes,Apparel,North,6,2499,14994
+5162,2024-10-18,CUST1016,Coffee Maker,Home & Kitchen,West,5,2999,14995
+5163,2024-10-18,CUST1226,Desk Organizer,Office Supplies,East,3,799,2397
+5164,2024-10-18,CUST1143,Wireless Earbuds,Electronics,North,2,1499,2998
+5165,2024-10-18,CUST1287,Winter Jacket,Apparel,North,4,3299,13196
+5166,2024-10-19,CUST1044,Cotton T-Shirt,Apparel,West,1,599,599
+5167,2024-10-19,CUST1277,Ergonomic Chair,Office Supplies,East,8,6999,55992
+5168,2024-10-19,CUST1377,Blender,Home & Kitchen,East,8,1799,14392
+5169,2024-10-19,CUST1320,Laptop Stand,Electronics,South,7,899,6293
+5170,2024-10-19,CUST1237,Laptop Stand,Electronics,North,2,899,1798
+5171,2024-10-20,CUST1310,Denim Jacket,Apparel,North,6,1999,11994
+5172,2024-10-20,CUST1315,Cotton T-Shirt,Apparel,East,1,599,599
+5173,2024-10-21,CUST1001,Cotton T-Shirt,Apparel,East,2,599,1198
+5174,2024-10-21,CUST1243,Bluetooth Speaker,Electronics,North,8,1999,15992
+5175,2024-10-21,CUST1252,Desk Organizer,Office Supplies,West,3,799,2397
+5176,2024-10-21,CUST1378,Ergonomic Chair,Office Supplies,North,5,6999,34995
+5177,2024-10-22,CUST1235,Blender,Home & Kitchen,East,6,1799,10794
+5178,2024-10-22,CUST1200,USB-C Hub,Electronics,South,3,1299,3897
+5179,2024-10-22,CUST1332,Non-Stick Pan Set,Home & Kitchen,North,1,2299,2299
+5180,2024-10-23,CUST1053,Denim Jacket,Apparel,West,2,1999,3998
+5181,2024-10-23,CUST1106,Sports Cap,Apparel,North,2,399,798
+5182,2024-10-23,CUST1088,Whiteboard,Office Supplies,West,4,1499,5996
+5183,2024-10-23,CUST1317,Non-Stick Pan Set,Home & Kitchen,West,4,2299,9196
+5184,2024-10-23,CUST1143,Smart Watch,Electronics,East,5,3499,17495
+5185,2024-10-24,CUST1224,Cotton T-Shirt,Apparel,South,4,599,2396
+5186,2024-10-24,CUST1078,Coffee Maker,Home & Kitchen,South,5,2999,14995
+5187,2024-10-24,CUST1202,Blender,Home & Kitchen,North,5,1799,8995
+5188,2024-10-24,CUST1332,Electric Kettle,Home & Kitchen,South,2,999,1998
+5189,2024-10-25,CUST1243,Wireless Earbuds,Electronics,North,4,1499,5996
+5190,2024-10-25,CUST1150,Desk Organizer,Office Supplies,North,4,799,3196
+5191,2024-10-25,CUST1307,Wireless Earbuds,Electronics,South,4,1499,5996
+5192,2024-10-25,CUST1229,Smart Watch,Electronics,South,5,3499,17495
+5193,2024-10-25,CUST1111,Wireless Earbuds,Electronics,East,1,1499,1499
+5194,2024-10-26,CUST1104,Denim Jacket,Apparel,North,5,1999,9995
+5195,2024-10-26,CUST1005,USB-C Hub,Electronics,South,6,1299,7794
+5196,2024-10-26,CUST1317,Desk Organizer,Office Supplies,South,5,799,3995
+5197,2024-10-26,CUST1253,Bluetooth Speaker,Electronics,North,8,1999,15992
+5198,2024-10-27,CUST1339,Notebook Pack,Office Supplies,West,3,249,747
+5199,2024-10-27,CUST1356,Bluetooth Speaker,Electronics,West,5,1999,9995
+5200,2024-10-28,CUST1026,Cotton T-Shirt,Apparel,West,5,599,2995
+5201,2024-10-28,CUST1009,Winter Jacket,Apparel,West,6,3299,19794
+5202,2024-10-28,CUST1104,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+5203,2024-10-28,CUST1058,Ergonomic Chair,Office Supplies,West,2,6999,13998
+5204,2024-10-28,CUST1235,LED Desk Lamp,Office Supplies,East,3,1199,3597
+5205,2024-10-29,CUST1328,Wireless Earbuds,Electronics,South,7,1499,10493
+5206,2024-10-29,CUST1377,USB-C Hub,Electronics,East,3,1299,3897
+5207,2024-10-29,CUST1082,Blender,Home & Kitchen,East,3,1799,5397
+5208,2024-10-30,CUST1385,Laptop Stand,Electronics,West,4,899,3596
+5209,2024-10-30,CUST1247,Denim Jacket,Apparel,North,6,1999,11994
+5210,2024-10-31,CUST1327,Notebook Pack,Office Supplies,South,4,249,996
+5211,2024-10-31,CUST1242,LED Desk Lamp,Office Supplies,South,3,1199,3597
+5212,2024-11-01,CUST1196,Laptop Stand,Electronics,South,6,899,5394
+5213,2024-11-01,CUST1371,Bluetooth Speaker,Electronics,South,4,1999,7996
+5214,2024-11-01,CUST1341,USB-C Hub,Electronics,North,6,1299,7794
+5215,2024-11-01,CUST1281,Laptop Stand,Electronics,West,5,899,4495
+5216,2024-11-02,CUST1217,Sports Cap,Apparel,South,7,399,2793
+5217,2024-11-02,CUST1091,Winter Jacket,Apparel,West,1,3299,3299
+5218,2024-11-02,CUST1238,USB-C Hub,Electronics,West,4,1299,5196
+5219,2024-11-02,CUST1091,LED Desk Lamp,Office Supplies,West,8,1199,9592
+5220,2024-11-02,CUST1065,Notebook Pack,Office Supplies,North,6,249,1494
+5221,2024-11-02,CUST1226,Desk Organizer,Office Supplies,North,1,799,799
+5222,2024-11-02,CUST1375,Bluetooth Speaker,Electronics,North,6,1999,11994
+5223,2024-11-03,CUST1334,USB-C Hub,Electronics,West,3,1299,3897
+5224,2024-11-03,CUST1099,Wireless Earbuds,Electronics,North,3,1499,4497
+5225,2024-11-03,CUST1351,Desk Organizer,Office Supplies,South,4,799,3196
+5226,2024-11-04,CUST1081,Sports Cap,Apparel,East,6,399,2394
+5227,2024-11-04,CUST1130,Winter Jacket,Apparel,South,8,3299,26392
+5228,2024-11-04,CUST1315,Electric Kettle,Home & Kitchen,East,4,999,3996
+5229,2024-11-05,CUST1093,Running Shoes,Apparel,South,7,2499,17493
+5230,2024-11-05,CUST1192,Blender,Home & Kitchen,East,3,1799,5397
+5231,2024-11-05,CUST1325,Running Shoes,Apparel,North,6,2499,14994
+5232,2024-11-05,CUST1129,LED Desk Lamp,Office Supplies,North,7,1199,8393
+5233,2024-11-05,CUST1188,Cotton T-Shirt,Apparel,West,3,599,1797
+5234,2024-11-06,CUST1117,Running Shoes,Apparel,West,3,2499,7497
+5235,2024-11-06,CUST1158,Smart Watch,Electronics,East,6,3499,20994
+5236,2024-11-06,CUST1076,Wireless Earbuds,Electronics,South,5,1499,7495
+5237,2024-11-06,CUST1024,Whiteboard,Office Supplies,East,3,1499,4497
+5238,2024-11-06,CUST1011,Ergonomic Chair,Office Supplies,North,1,6999,6999
+5239,2024-11-07,CUST1267,Cotton T-Shirt,Apparel,North,6,599,3594
+5240,2024-11-07,CUST1301,Non-Stick Pan Set,Home & Kitchen,East,3,2299,6897
+5241,2024-11-07,CUST1081,Blender,Home & Kitchen,West,3,1799,5397
+5242,2024-11-08,CUST1049,Coffee Maker,Home & Kitchen,West,2,2999,5998
+5243,2024-11-08,CUST1135,Blender,Home & Kitchen,West,1,1799,1799
+5244,2024-11-08,CUST1304,USB-C Hub,Electronics,East,8,1299,10392
+5245,2024-11-09,CUST1022,Coffee Maker,Home & Kitchen,North,1,2999,2999
+5246,2024-11-09,CUST1121,Laptop Stand,Electronics,South,3,899,2697
+5247,2024-11-09,CUST1313,Wireless Earbuds,Electronics,North,4,1499,5996
+5248,2024-11-09,CUST1265,Non-Stick Pan Set,Home & Kitchen,South,7,2299,16093
+5249,2024-11-09,CUST1032,Electric Kettle,Home & Kitchen,East,5,999,4995
+5250,2024-11-09,CUST1192,Laptop Stand,Electronics,North,7,899,6293
+5251,2024-11-09,CUST1089,Notebook Pack,Office Supplies,West,4,249,996
+5252,2024-11-10,CUST1063,Denim Jacket,Apparel,North,6,1999,11994
+5253,2024-11-10,CUST1325,Running Shoes,Apparel,East,7,2499,17493
+5254,2024-11-10,CUST1043,Cotton T-Shirt,Apparel,South,1,599,599
+5255,2024-11-11,CUST1081,Denim Jacket,Apparel,South,6,1999,11994
+5256,2024-11-11,CUST1307,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+5257,2024-11-11,CUST1241,LED Desk Lamp,Office Supplies,West,1,1199,1199
+5258,2024-11-11,CUST1292,Laptop Stand,Electronics,South,5,899,4495
+5259,2024-11-12,CUST1289,LED Desk Lamp,Office Supplies,North,3,1199,3597
+5260,2024-11-12,CUST1057,Air Fryer,Home & Kitchen,North,2,4499,8998
+5261,2024-11-12,CUST1358,Blender,Home & Kitchen,South,1,1799,1799
+5262,2024-11-12,CUST1354,Wireless Earbuds,Electronics,South,1,1499,1499
+5263,2024-11-13,CUST1102,Wireless Earbuds,Electronics,East,2,1499,2998
+5264,2024-11-13,CUST1105,Notebook Pack,Office Supplies,South,4,249,996
+5265,2024-11-13,CUST1385,Wireless Earbuds,Electronics,North,2,1499,2998
+5266,2024-11-14,CUST1050,Notebook Pack,Office Supplies,South,4,249,996
+5267,2024-11-14,CUST1216,Cotton T-Shirt,Apparel,East,5,599,2995
+5268,2024-11-14,CUST1144,Smart Watch,Electronics,East,1,3499,3499
+5269,2024-11-14,CUST1147,Cotton T-Shirt,Apparel,West,1,599,599
+5270,2024-11-14,CUST1265,Notebook Pack,Office Supplies,West,2,249,498
+5271,2024-11-15,CUST1365,Notebook Pack,Office Supplies,South,2,249,498
+5272,2024-11-15,CUST1000,Denim Jacket,Apparel,West,4,1999,7996
+5273,2024-11-15,CUST1178,Running Shoes,Apparel,North,8,2499,19992
+5274,2024-11-15,CUST1253,Laptop Stand,Electronics,South,6,899,5394
+5275,2024-11-15,CUST1145,Sports Cap,Apparel,South,4,399,1596
+5276,2024-11-16,CUST1325,Ergonomic Chair,Office Supplies,North,2,6999,13998
+5277,2024-11-16,CUST1321,LED Desk Lamp,Office Supplies,North,6,1199,7194
+5278,2024-11-16,CUST1202,Running Shoes,Apparel,West,2,2499,4998
+5279,2024-11-16,CUST1105,Notebook Pack,Office Supplies,East,5,249,1245
+5280,2024-11-17,CUST1194,LED Desk Lamp,Office Supplies,South,4,1199,4796
+5281,2024-11-17,CUST1178,Ergonomic Chair,Office Supplies,North,6,6999,41994
+5282,2024-11-17,CUST1086,Non-Stick Pan Set,Home & Kitchen,East,8,2299,18392
+5283,2024-11-17,CUST1064,Desk Organizer,Office Supplies,South,6,799,4794
+5284,2024-11-17,CUST1136,Ergonomic Chair,Office Supplies,South,5,6999,34995
+5285,2024-11-18,CUST1308,Coffee Maker,Home & Kitchen,East,6,2999,17994
+5286,2024-11-18,CUST1096,Coffee Maker,Home & Kitchen,East,5,2999,14995
+5287,2024-11-18,CUST1100,Bluetooth Speaker,Electronics,North,7,1999,13993
+5288,2024-11-18,CUST1375,Coffee Maker,Home & Kitchen,East,5,2999,14995
+5289,2024-11-19,CUST1326,Denim Jacket,Apparel,North,2,1999,3998
+5290,2024-11-19,CUST1237,Denim Jacket,Apparel,West,1,1999,1999
+5291,2024-11-19,CUST1355,Laptop Stand,Electronics,West,4,899,3596
+5292,2024-11-19,CUST1072,Winter Jacket,Apparel,North,5,3299,16495
+5293,2024-11-19,CUST1220,Notebook Pack,Office Supplies,South,7,249,1743
+5294,2024-11-19,CUST1347,Electric Kettle,Home & Kitchen,South,3,999,2997
+5295,2024-11-19,CUST1160,Laptop Stand,Electronics,West,5,899,4495
+5296,2024-11-20,CUST1365,Ergonomic Chair,Office Supplies,West,3,6999,20997
+5297,2024-11-20,CUST1233,Winter Jacket,Apparel,West,1,3299,3299
+5298,2024-11-20,CUST1335,LED Desk Lamp,Office Supplies,South,6,1199,7194
+5299,2024-11-21,CUST1019,Whiteboard,Office Supplies,North,5,1499,7495
+5300,2024-11-21,CUST1265,Coffee Maker,Home & Kitchen,South,6,2999,17994
+5301,2024-11-21,CUST1277,USB-C Hub,Electronics,West,4,1299,5196
+5302,2024-11-22,CUST1210,Smart Watch,Electronics,East,8,3499,27992
+5303,2024-11-22,CUST1263,Coffee Maker,Home & Kitchen,West,2,2999,5998
+5304,2024-11-22,CUST1140,Running Shoes,Apparel,East,7,2499,17493
+5305,2024-11-22,CUST1038,Notebook Pack,Office Supplies,North,7,249,1743
+5306,2024-11-22,CUST1055,Desk Organizer,Office Supplies,East,4,799,3196
+5307,2024-11-22,CUST1200,Winter Jacket,Apparel,South,8,3299,26392
+5308,2024-11-22,CUST1397,Coffee Maker,Home & Kitchen,South,2,2999,5998
+5309,2024-11-23,CUST1074,LED Desk Lamp,Office Supplies,South,6,1199,7194
+5310,2024-11-23,CUST1389,Whiteboard,Office Supplies,East,3,1499,4497
+5311,2024-11-23,CUST1136,Desk Organizer,Office Supplies,South,7,799,5593
+5312,2024-11-23,CUST1246,Winter Jacket,Apparel,South,1,3299,3299
+5313,2024-11-24,CUST1164,Denim Jacket,Apparel,East,8,1999,15992
+5314,2024-11-24,CUST1337,Whiteboard,Office Supplies,North,6,1499,8994
+5315,2024-11-24,CUST1029,Blender,Home & Kitchen,West,2,1799,3598
+5316,2024-11-24,CUST1324,Denim Jacket,Apparel,East,1,1999,1999
+5317,2024-11-24,CUST1335,Bluetooth Speaker,Electronics,North,5,1999,9995
+5318,2024-11-25,CUST1119,USB-C Hub,Electronics,South,3,1299,3897
+5319,2024-11-25,CUST1106,Desk Organizer,Office Supplies,South,7,799,5593
+5320,2024-11-25,CUST1342,Electric Kettle,Home & Kitchen,North,5,999,4995
+5321,2024-11-25,CUST1271,Non-Stick Pan Set,Home & Kitchen,South,2,2299,4598
+5322,2024-11-25,CUST1135,Notebook Pack,Office Supplies,North,7,249,1743
+5323,2024-11-26,CUST1285,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+5324,2024-11-26,CUST1358,Whiteboard,Office Supplies,South,8,1499,11992
+5325,2024-11-26,CUST1276,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+5326,2024-11-26,CUST1356,Blender,Home & Kitchen,West,8,1799,14392
+5327,2024-11-27,CUST1214,Desk Organizer,Office Supplies,West,2,799,1598
+5328,2024-11-27,CUST1010,Blender,Home & Kitchen,North,1,1799,1799
+5329,2024-11-27,CUST1248,Running Shoes,Apparel,West,3,2499,7497
+5330,2024-11-27,CUST1320,Bluetooth Speaker,Electronics,West,3,1999,5997
+5331,2024-11-27,CUST1174,Running Shoes,Apparel,East,8,2499,19992
+5332,2024-11-28,CUST1216,Winter Jacket,Apparel,East,5,3299,16495
+5333,2024-11-28,CUST1181,Smart Watch,Electronics,East,8,3499,27992
+5334,2024-11-28,CUST1259,Desk Organizer,Office Supplies,East,6,799,4794
+5335,2024-11-28,CUST1169,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+5336,2024-11-29,CUST1020,Denim Jacket,Apparel,North,7,1999,13993
+5337,2024-11-29,CUST1204,LED Desk Lamp,Office Supplies,North,5,1199,5995
+5338,2024-11-29,CUST1097,Wireless Earbuds,Electronics,North,8,1499,11992
+5339,2024-11-29,CUST1315,USB-C Hub,Electronics,West,3,1299,3897
+5340,2024-11-29,CUST1341,Bluetooth Speaker,Electronics,North,8,1999,15992
+5341,2024-11-29,CUST1018,Air Fryer,Home & Kitchen,South,7,4499,31493
+5342,2024-11-30,CUST1158,Smart Watch,Electronics,South,5,3499,17495
+5343,2024-11-30,CUST1017,Denim Jacket,Apparel,West,6,1999,11994
+5344,2024-11-30,CUST1254,Laptop Stand,Electronics,North,1,899,899
+5345,2024-12-01,CUST1228,LED Desk Lamp,Office Supplies,West,2,1199,2398
+5346,2024-12-01,CUST1243,Laptop Stand,Electronics,South,7,899,6293
+5347,2024-12-01,CUST1108,Wireless Earbuds,Electronics,West,3,1499,4497
+5348,2024-12-02,CUST1350,Notebook Pack,Office Supplies,North,2,249,498
+5349,2024-12-02,CUST1066,Bluetooth Speaker,Electronics,North,8,1999,15992
+5350,2024-12-02,CUST1230,Smart Watch,Electronics,South,3,3499,10497
+5351,2024-12-03,CUST1150,Denim Jacket,Apparel,North,8,1999,15992
+5352,2024-12-03,CUST1367,Desk Organizer,Office Supplies,North,1,799,799
+5353,2024-12-03,CUST1333,Wireless Earbuds,Electronics,North,2,1499,2998
+5354,2024-12-04,CUST1249,Cotton T-Shirt,Apparel,South,1,599,599
+5355,2024-12-04,CUST1240,Cotton T-Shirt,Apparel,West,3,599,1797
+5356,2024-12-04,CUST1330,Air Fryer,Home & Kitchen,East,3,4499,13497
+5357,2024-12-04,CUST1398,Whiteboard,Office Supplies,West,8,1499,11992
+5358,2024-12-04,CUST1149,Sports Cap,Apparel,East,5,399,1995
+5359,2024-12-04,CUST1310,USB-C Hub,Electronics,East,1,1299,1299
+5360,2024-12-04,CUST1299,Electric Kettle,Home & Kitchen,East,7,999,6993
+5361,2024-12-05,CUST1308,Whiteboard,Office Supplies,West,4,1499,5996
+5362,2024-12-05,CUST1164,Desk Organizer,Office Supplies,North,5,799,3995
+5363,2024-12-05,CUST1300,Winter Jacket,Apparel,South,1,3299,3299
+5364,2024-12-05,CUST1140,Denim Jacket,Apparel,South,8,1999,15992
+5365,2024-12-06,CUST1195,USB-C Hub,Electronics,West,4,1299,5196
+5366,2024-12-06,CUST1346,Blender,Home & Kitchen,North,7,1799,12593
+5367,2024-12-06,CUST1300,Ergonomic Chair,Office Supplies,East,1,6999,6999
+5368,2024-12-06,CUST1274,Whiteboard,Office Supplies,North,6,1499,8994
+5369,2024-12-06,CUST1296,Bluetooth Speaker,Electronics,West,5,1999,9995
+5370,2024-12-06,CUST1096,Winter Jacket,Apparel,South,4,3299,13196
+5371,2024-12-07,CUST1185,Bluetooth Speaker,Electronics,East,6,1999,11994
+5372,2024-12-07,CUST1126,LED Desk Lamp,Office Supplies,South,1,1199,1199
+5373,2024-12-07,CUST1190,Desk Organizer,Office Supplies,North,8,799,6392
+5374,2024-12-07,CUST1305,Bluetooth Speaker,Electronics,East,1,1999,1999
+5375,2024-12-08,CUST1048,Sports Cap,Apparel,North,1,399,399
+5376,2024-12-08,CUST1300,Electric Kettle,Home & Kitchen,West,4,999,3996
+5377,2024-12-08,CUST1049,Cotton T-Shirt,Apparel,West,8,599,4792
+5378,2024-12-08,CUST1173,Blender,Home & Kitchen,North,4,1799,7196
+5379,2024-12-08,CUST1014,Non-Stick Pan Set,Home & Kitchen,North,1,2299,2299
+5380,2024-12-08,CUST1361,USB-C Hub,Electronics,East,8,1299,10392
+5381,2024-12-09,CUST1061,USB-C Hub,Electronics,West,2,1299,2598
+5382,2024-12-09,CUST1328,Cotton T-Shirt,Apparel,South,2,599,1198
+5383,2024-12-09,CUST1081,Ergonomic Chair,Office Supplies,West,6,6999,41994
+5384,2024-12-09,CUST1019,Coffee Maker,Home & Kitchen,South,5,2999,14995
+5385,2024-12-09,CUST1024,Running Shoes,Apparel,North,5,2499,12495
+5386,2024-12-09,CUST1074,Notebook Pack,Office Supplies,North,6,249,1494
+5387,2024-12-09,CUST1301,Bluetooth Speaker,Electronics,East,8,1999,15992
+5388,2024-12-10,CUST1131,Desk Organizer,Office Supplies,East,7,799,5593
+5389,2024-12-10,CUST1194,Smart Watch,Electronics,West,3,3499,10497
+5390,2024-12-10,CUST1346,Ergonomic Chair,Office Supplies,South,1,6999,6999
+5391,2024-12-11,CUST1112,Air Fryer,Home & Kitchen,South,2,4499,8998
+5392,2024-12-11,CUST1049,Denim Jacket,Apparel,West,7,1999,13993
+5393,2024-12-11,CUST1173,Wireless Earbuds,Electronics,West,6,1499,8994
+5394,2024-12-11,CUST1321,Non-Stick Pan Set,Home & Kitchen,North,6,2299,13794
+5395,2024-12-11,CUST1376,Blender,Home & Kitchen,South,1,1799,1799
+5396,2024-12-11,CUST1224,Non-Stick Pan Set,Home & Kitchen,South,3,2299,6897
+5397,2024-12-11,CUST1126,Winter Jacket,Apparel,West,3,3299,9897
+5398,2024-12-12,CUST1171,Sports Cap,Apparel,East,3,399,1197
+5399,2024-12-12,CUST1162,Winter Jacket,Apparel,North,8,3299,26392
+5400,2024-12-12,CUST1262,Notebook Pack,Office Supplies,South,1,249,249
+5401,2024-12-13,CUST1131,Desk Organizer,Office Supplies,North,4,799,3196
+5402,2024-12-13,CUST1122,Winter Jacket,Apparel,East,4,3299,13196
+5403,2024-12-13,CUST1212,Laptop Stand,Electronics,East,3,899,2697
+5404,2024-12-13,CUST1327,Smart Watch,Electronics,South,1,3499,3499
+5405,2024-12-14,CUST1226,Sports Cap,Apparel,South,1,399,399
+5406,2024-12-14,CUST1222,Denim Jacket,Apparel,East,1,1999,1999
+5407,2024-12-14,CUST1292,Ergonomic Chair,Office Supplies,East,3,6999,20997
+5408,2024-12-14,CUST1364,Coffee Maker,Home & Kitchen,South,3,2999,8997
+5409,2024-12-14,CUST1044,Electric Kettle,Home & Kitchen,North,8,999,7992
+5410,2024-12-14,CUST1070,Denim Jacket,Apparel,South,4,1999,7996
+5411,2024-12-14,CUST1033,Denim Jacket,Apparel,North,7,1999,13993
+5412,2024-12-15,CUST1327,Cotton T-Shirt,Apparel,East,8,599,4792
+5413,2024-12-15,CUST1390,Wireless Earbuds,Electronics,West,8,1499,11992
+5414,2024-12-15,CUST1095,Blender,Home & Kitchen,South,6,1799,10794
+5415,2024-12-16,CUST1182,Blender,Home & Kitchen,North,8,1799,14392
+5416,2024-12-16,CUST1365,Wireless Earbuds,Electronics,East,4,1499,5996
+5417,2024-12-16,CUST1149,Winter Jacket,Apparel,North,2,3299,6598
+5418,2024-12-17,CUST1271,LED Desk Lamp,Office Supplies,North,3,1199,3597
+5419,2024-12-17,CUST1114,Bluetooth Speaker,Electronics,North,3,1999,5997
+5420,2024-12-17,CUST1128,Air Fryer,Home & Kitchen,East,1,4499,4499
+5421,2024-12-17,CUST1133,Wireless Earbuds,Electronics,South,1,1499,1499
+5422,2024-12-17,CUST1359,LED Desk Lamp,Office Supplies,South,8,1199,9592
+5423,2024-12-17,CUST1367,Smart Watch,Electronics,North,3,3499,10497
+5424,2024-12-17,CUST1238,Smart Watch,Electronics,North,8,3499,27992
+5425,2024-12-18,CUST1207,Wireless Earbuds,Electronics,North,3,1499,4497
+5426,2024-12-18,CUST1342,Coffee Maker,Home & Kitchen,South,8,2999,23992
+5427,2024-12-18,CUST1325,Ergonomic Chair,Office Supplies,North,7,6999,48993
+5428,2024-12-18,CUST1202,LED Desk Lamp,Office Supplies,North,1,1199,1199
+5429,2024-12-18,CUST1123,Cotton T-Shirt,Apparel,West,6,599,3594
+5430,2024-12-18,CUST1205,LED Desk Lamp,Office Supplies,East,1,1199,1199
+5431,2024-12-19,CUST1216,Blender,Home & Kitchen,South,1,1799,1799
+5432,2024-12-19,CUST1035,Running Shoes,Apparel,South,6,2499,14994
+5433,2024-12-19,CUST1115,Ergonomic Chair,Office Supplies,North,3,6999,20997
+5434,2024-12-19,CUST1324,Whiteboard,Office Supplies,West,1,1499,1499
+5435,2024-12-19,CUST1347,Wireless Earbuds,Electronics,East,5,1499,7495
+5436,2024-12-19,CUST1128,USB-C Hub,Electronics,North,2,1299,2598
+5437,2024-12-20,CUST1147,Ergonomic Chair,Office Supplies,North,2,6999,13998
+5438,2024-12-20,CUST1061,Cotton T-Shirt,Apparel,South,1,599,599
+5439,2024-12-20,CUST1302,Running Shoes,Apparel,West,3,2499,7497
+5440,2024-12-21,CUST1150,USB-C Hub,Electronics,South,7,1299,9093
+5441,2024-12-21,CUST1376,Cotton T-Shirt,Apparel,South,2,599,1198
+5442,2024-12-21,CUST1332,Winter Jacket,Apparel,South,7,3299,23093
+5443,2024-12-21,CUST1235,Electric Kettle,Home & Kitchen,East,5,999,4995
+5444,2024-12-21,CUST1015,Whiteboard,Office Supplies,East,4,1499,5996
+5445,2024-12-21,CUST1262,Denim Jacket,Apparel,South,7,1999,13993
+5446,2024-12-21,CUST1083,Notebook Pack,Office Supplies,East,4,249,996
+5447,2024-12-22,CUST1145,Winter Jacket,Apparel,East,4,3299,13196
+5448,2024-12-22,CUST1081,Running Shoes,Apparel,North,2,2499,4998
+5449,2024-12-22,CUST1264,Winter Jacket,Apparel,North,7,3299,23093
+5450,2024-12-22,CUST1266,Desk Organizer,Office Supplies,North,4,799,3196
+5451,2024-12-22,CUST1342,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+5452,2024-12-22,CUST1265,Coffee Maker,Home & Kitchen,East,2,2999,5998
+5453,2024-12-23,CUST1052,Denim Jacket,Apparel,West,1,1999,1999
+5454,2024-12-23,CUST1254,LED Desk Lamp,Office Supplies,North,7,1199,8393
+5455,2024-12-23,CUST1318,Non-Stick Pan Set,Home & Kitchen,East,2,2299,4598
+5456,2024-12-23,CUST1147,Whiteboard,Office Supplies,West,6,1499,8994
+5457,2024-12-23,CUST1269,Cotton T-Shirt,Apparel,West,7,599,4193
+5458,2024-12-23,CUST1194,Running Shoes,Apparel,West,8,2499,19992
+5459,2024-12-23,CUST1074,Denim Jacket,Apparel,East,7,1999,13993
+5460,2024-12-24,CUST1165,Air Fryer,Home & Kitchen,East,4,4499,17996
+5461,2024-12-24,CUST1005,Denim Jacket,Apparel,West,1,1999,1999
+5462,2024-12-24,CUST1153,Smart Watch,Electronics,West,5,3499,17495
+5463,2024-12-24,CUST1199,LED Desk Lamp,Office Supplies,West,8,1199,9592
+5464,2024-12-24,CUST1231,Running Shoes,Apparel,East,1,2499,2499
+5465,2024-12-24,CUST1050,USB-C Hub,Electronics,South,7,1299,9093
+5466,2024-12-24,CUST1332,Sports Cap,Apparel,West,3,399,1197
+5467,2024-12-25,CUST1225,Whiteboard,Office Supplies,West,6,1499,8994
+5468,2024-12-25,CUST1162,Bluetooth Speaker,Electronics,East,6,1999,11994
+5469,2024-12-25,CUST1056,Smart Watch,Electronics,South,5,3499,17495
+5470,2024-12-25,CUST1323,Sports Cap,Apparel,West,3,399,1197
+5471,2024-12-26,CUST1211,Electric Kettle,Home & Kitchen,South,3,999,2997
+5472,2024-12-26,CUST1180,USB-C Hub,Electronics,North,1,1299,1299
+5473,2024-12-26,CUST1157,Notebook Pack,Office Supplies,North,1,249,249
+5474,2024-12-26,CUST1300,Winter Jacket,Apparel,North,1,3299,3299
+5475,2024-12-26,CUST1254,Bluetooth Speaker,Electronics,South,5,1999,9995
+5476,2024-12-26,CUST1210,Electric Kettle,Home & Kitchen,South,2,999,1998
+5477,2024-12-27,CUST1014,Electric Kettle,Home & Kitchen,North,2,999,1998
+5478,2024-12-27,CUST1239,Bluetooth Speaker,Electronics,West,7,1999,13993
+5479,2024-12-27,CUST1073,Wireless Earbuds,Electronics,East,4,1499,5996
+5480,2024-12-27,CUST1016,Cotton T-Shirt,Apparel,South,5,599,2995
+5481,2024-12-28,CUST1230,Smart Watch,Electronics,South,7,3499,24493
+5482,2024-12-28,CUST1202,Wireless Earbuds,Electronics,South,1,1499,1499
+5483,2024-12-28,CUST1127,Notebook Pack,Office Supplies,South,4,249,996
+5484,2024-12-29,CUST1161,Electric Kettle,Home & Kitchen,South,1,999,999
+5485,2024-12-29,CUST1308,Desk Organizer,Office Supplies,West,5,799,3995
+5486,2024-12-29,CUST1346,Notebook Pack,Office Supplies,South,7,249,1743
+5487,2024-12-30,CUST1364,Desk Organizer,Office Supplies,West,8,799,6392
+5488,2024-12-30,CUST1088,Bluetooth Speaker,Electronics,North,3,1999,5997
+5489,2024-12-30,CUST1003,Winter Jacket,Apparel,South,5,3299,16495
+5490,2024-12-30,CUST1058,LED Desk Lamp,Office Supplies,East,6,1199,7194
+5491,2024-12-31,CUST1063,Winter Jacket,Apparel,North,7,3299,23093
+5492,2024-12-31,CUST1198,Sports Cap,Apparel,South,4,399,1596
+5493,2024-12-31,CUST1121,Desk Organizer,Office Supplies,East,7,799,5593
+5494,2024-12-31,CUST1174,Smart Watch,Electronics,North,3,3499,10497
+5495,2024-12-31,CUST1100,Coffee Maker,Home & Kitchen,North,5,2999,14995
+5496,2024-12-31,CUST1239,Electric Kettle,Home & Kitchen,West,4,999,3996
+5497,2024-12-31,CUST1110,Blender,Home & Kitchen,East,7,1799,12593
+5498,2025-01-01,CUST1258,Blender,Home & Kitchen,West,4,1799,7196
+5499,2025-01-01,CUST1361,Non-Stick Pan Set,Home & Kitchen,South,5,2299,11495
+5500,2025-01-01,CUST1273,LED Desk Lamp,Office Supplies,East,4,1199,4796
+5501,2025-01-01,CUST1064,LED Desk Lamp,Office Supplies,South,2,1199,2398
+5502,2025-01-01,CUST1376,USB-C Hub,Electronics,East,7,1299,9093
+5503,2025-01-02,CUST1199,Blender,Home & Kitchen,North,2,1799,3598
+5504,2025-01-02,CUST1096,Coffee Maker,Home & Kitchen,East,2,2999,5998
+5505,2025-01-03,CUST1098,Sports Cap,Apparel,East,2,399,798
+5506,2025-01-03,CUST1147,Running Shoes,Apparel,South,3,2499,7497
+5507,2025-01-04,CUST1237,Cotton T-Shirt,Apparel,West,3,599,1797
+5508,2025-01-04,CUST1187,Denim Jacket,Apparel,North,6,1999,11994
+5509,2025-01-04,CUST1127,Notebook Pack,Office Supplies,West,7,249,1743
+5510,2025-01-04,CUST1149,Running Shoes,Apparel,South,2,2499,4998
+5511,2025-01-04,CUST1364,Sports Cap,Apparel,South,1,399,399
+5512,2025-01-05,CUST1220,USB-C Hub,Electronics,South,4,1299,5196
+5513,2025-01-05,CUST1378,Denim Jacket,Apparel,West,1,1999,1999
+5514,2025-01-05,CUST1291,Denim Jacket,Apparel,South,8,1999,15992
+5515,2025-01-05,CUST1000,Winter Jacket,Apparel,East,2,3299,6598
+5516,2025-01-05,CUST1125,Running Shoes,Apparel,North,2,2499,4998
+5517,2025-01-06,CUST1383,Denim Jacket,Apparel,East,2,1999,3998
+5518,2025-01-06,CUST1143,Whiteboard,Office Supplies,South,2,1499,2998
+5519,2025-01-07,CUST1354,Whiteboard,Office Supplies,East,8,1499,11992
+5520,2025-01-07,CUST1344,Bluetooth Speaker,Electronics,West,3,1999,5997
+5521,2025-01-07,CUST1359,Ergonomic Chair,Office Supplies,North,5,6999,34995
+5522,2025-01-07,CUST1399,Electric Kettle,Home & Kitchen,South,4,999,3996
+5523,2025-01-08,CUST1183,Air Fryer,Home & Kitchen,South,6,4499,26994
+5524,2025-01-08,CUST1325,Notebook Pack,Office Supplies,South,5,249,1245
+5525,2025-01-08,CUST1343,Coffee Maker,Home & Kitchen,West,8,2999,23992
+5526,2025-01-08,CUST1263,Coffee Maker,Home & Kitchen,North,8,2999,23992
+5527,2025-01-09,CUST1362,Cotton T-Shirt,Apparel,South,3,599,1797
+5528,2025-01-09,CUST1280,Blender,Home & Kitchen,North,7,1799,12593
+5529,2025-01-09,CUST1392,Coffee Maker,Home & Kitchen,West,7,2999,20993
+5530,2025-01-10,CUST1184,Smart Watch,Electronics,North,8,3499,27992
+5531,2025-01-10,CUST1143,Air Fryer,Home & Kitchen,North,5,4499,22495
+5532,2025-01-10,CUST1229,Air Fryer,Home & Kitchen,East,2,4499,8998
+5533,2025-01-11,CUST1291,Winter Jacket,Apparel,West,6,3299,19794
+5534,2025-01-11,CUST1023,Denim Jacket,Apparel,North,1,1999,1999
+5535,2025-01-11,CUST1382,Whiteboard,Office Supplies,North,6,1499,8994
+5536,2025-01-12,CUST1250,Laptop Stand,Electronics,West,4,899,3596
+5537,2025-01-12,CUST1046,Running Shoes,Apparel,East,5,2499,12495
+5538,2025-01-12,CUST1070,Denim Jacket,Apparel,North,1,1999,1999
+5539,2025-01-12,CUST1151,Laptop Stand,Electronics,South,6,899,5394
+5540,2025-01-13,CUST1380,Air Fryer,Home & Kitchen,East,6,4499,26994
+5541,2025-01-13,CUST1163,Ergonomic Chair,Office Supplies,East,4,6999,27996
+5542,2025-01-13,CUST1129,Denim Jacket,Apparel,East,4,1999,7996
+5543,2025-01-14,CUST1025,Wireless Earbuds,Electronics,West,4,1499,5996
+5544,2025-01-14,CUST1374,Whiteboard,Office Supplies,West,3,1499,4497
+5545,2025-01-15,CUST1083,Bluetooth Speaker,Electronics,South,3,1999,5997
+5546,2025-01-15,CUST1020,Whiteboard,Office Supplies,North,8,1499,11992
+5547,2025-01-15,CUST1370,Ergonomic Chair,Office Supplies,South,6,6999,41994
+5548,2025-01-15,CUST1073,Wireless Earbuds,Electronics,West,5,1499,7495
+5549,2025-01-16,CUST1173,USB-C Hub,Electronics,West,2,1299,2598
+5550,2025-01-16,CUST1371,Notebook Pack,Office Supplies,South,3,249,747
+5551,2025-01-17,CUST1288,Running Shoes,Apparel,West,6,2499,14994
+5552,2025-01-17,CUST1277,Non-Stick Pan Set,Home & Kitchen,North,6,2299,13794
+5553,2025-01-17,CUST1205,Whiteboard,Office Supplies,South,2,1499,2998
+5554,2025-01-17,CUST1289,Smart Watch,Electronics,East,7,3499,24493
+5555,2025-01-17,CUST1153,Winter Jacket,Apparel,South,6,3299,19794
+5556,2025-01-18,CUST1353,Coffee Maker,Home & Kitchen,West,2,2999,5998
+5557,2025-01-18,CUST1284,Electric Kettle,Home & Kitchen,East,7,999,6993
+5558,2025-01-19,CUST1202,Electric Kettle,Home & Kitchen,West,5,999,4995
+5559,2025-01-19,CUST1103,Bluetooth Speaker,Electronics,South,2,1999,3998
+5560,2025-01-19,CUST1096,Blender,Home & Kitchen,North,5,1799,8995
+5561,2025-01-19,CUST1115,Ergonomic Chair,Office Supplies,West,2,6999,13998
+5562,2025-01-20,CUST1068,Notebook Pack,Office Supplies,West,2,249,498
+5563,2025-01-20,CUST1278,Laptop Stand,Electronics,West,3,899,2697
+5564,2025-01-21,CUST1191,Notebook Pack,Office Supplies,South,1,249,249
+5565,2025-01-21,CUST1190,Ergonomic Chair,Office Supplies,North,1,6999,6999
+5566,2025-01-21,CUST1235,USB-C Hub,Electronics,South,5,1299,6495
+5567,2025-01-22,CUST1318,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+5568,2025-01-22,CUST1187,Smart Watch,Electronics,South,6,3499,20994
+5569,2025-01-23,CUST1190,Running Shoes,Apparel,South,6,2499,14994
+5570,2025-01-23,CUST1051,Notebook Pack,Office Supplies,East,6,249,1494
+5571,2025-01-24,CUST1130,Wireless Earbuds,Electronics,South,6,1499,8994
+5572,2025-01-24,CUST1297,Non-Stick Pan Set,Home & Kitchen,North,8,2299,18392
+5573,2025-01-24,CUST1056,Wireless Earbuds,Electronics,West,2,1499,2998
+5574,2025-01-24,CUST1283,Denim Jacket,Apparel,South,5,1999,9995
+5575,2025-01-25,CUST1275,Electric Kettle,Home & Kitchen,East,5,999,4995
+5576,2025-01-25,CUST1175,Notebook Pack,Office Supplies,North,3,249,747
+5577,2025-01-25,CUST1016,LED Desk Lamp,Office Supplies,West,1,1199,1199
+5578,2025-01-25,CUST1243,Bluetooth Speaker,Electronics,West,3,1999,5997
+5579,2025-01-25,CUST1312,Whiteboard,Office Supplies,South,2,1499,2998
+5580,2025-01-26,CUST1159,Sports Cap,Apparel,South,3,399,1197
+5581,2025-01-26,CUST1184,Bluetooth Speaker,Electronics,South,8,1999,15992
+5582,2025-01-26,CUST1198,Sports Cap,Apparel,West,6,399,2394
+5583,2025-01-26,CUST1296,Running Shoes,Apparel,East,8,2499,19992
+5584,2025-01-27,CUST1235,Air Fryer,Home & Kitchen,South,1,4499,4499
+5585,2025-01-27,CUST1196,Coffee Maker,Home & Kitchen,East,5,2999,14995
+5586,2025-01-27,CUST1182,USB-C Hub,Electronics,East,3,1299,3897
+5587,2025-01-27,CUST1102,USB-C Hub,Electronics,North,7,1299,9093
+5588,2025-01-28,CUST1072,Cotton T-Shirt,Apparel,South,2,599,1198
+5589,2025-01-28,CUST1260,Cotton T-Shirt,Apparel,East,4,599,2396
+5590,2025-01-29,CUST1360,Desk Organizer,Office Supplies,North,6,799,4794
+5591,2025-01-29,CUST1124,Winter Jacket,Apparel,East,4,3299,13196
+5592,2025-01-29,CUST1105,Denim Jacket,Apparel,South,1,1999,1999
+5593,2025-01-29,CUST1202,Whiteboard,Office Supplies,West,5,1499,7495
+5594,2025-01-30,CUST1368,Bluetooth Speaker,Electronics,East,5,1999,9995
+5595,2025-01-30,CUST1037,Sports Cap,Apparel,East,4,399,1596
+5596,2025-01-30,CUST1155,USB-C Hub,Electronics,South,6,1299,7794
+5597,2025-01-31,CUST1248,Winter Jacket,Apparel,North,6,3299,19794
+5598,2025-01-31,CUST1279,Blender,Home & Kitchen,East,1,1799,1799
+5599,2025-01-31,CUST1360,Blender,Home & Kitchen,South,1,1799,1799
+5600,2025-01-31,CUST1229,Air Fryer,Home & Kitchen,West,4,4499,17996
+5601,2025-01-31,CUST1100,Sports Cap,Apparel,North,4,399,1596
+5602,2025-02-01,CUST1040,Electric Kettle,Home & Kitchen,North,2,999,1998
+5603,2025-02-01,CUST1096,Denim Jacket,Apparel,North,5,1999,9995
+5604,2025-02-02,CUST1164,Running Shoes,Apparel,South,6,2499,14994
+5605,2025-02-02,CUST1312,Laptop Stand,Electronics,West,6,899,5394
+5606,2025-02-03,CUST1044,Laptop Stand,Electronics,North,6,899,5394
+5607,2025-02-03,CUST1131,LED Desk Lamp,Office Supplies,West,8,1199,9592
+5608,2025-02-03,CUST1288,Wireless Earbuds,Electronics,East,6,1499,8994
+5609,2025-02-04,CUST1080,LED Desk Lamp,Office Supplies,East,2,1199,2398
+5610,2025-02-04,CUST1073,Bluetooth Speaker,Electronics,South,2,1999,3998
+5611,2025-02-05,CUST1275,Winter Jacket,Apparel,East,3,3299,9897
+5612,2025-02-05,CUST1364,Denim Jacket,Apparel,East,8,1999,15992
+5613,2025-02-05,CUST1286,Smart Watch,Electronics,West,5,3499,17495
+5614,2025-02-05,CUST1067,Sports Cap,Apparel,East,5,399,1995
+5615,2025-02-06,CUST1077,Notebook Pack,Office Supplies,East,4,249,996
+5616,2025-02-06,CUST1319,Notebook Pack,Office Supplies,North,3,249,747
+5617,2025-02-07,CUST1284,USB-C Hub,Electronics,South,3,1299,3897
+5618,2025-02-07,CUST1377,Sports Cap,Apparel,East,3,399,1197
+5619,2025-02-08,CUST1179,Electric Kettle,Home & Kitchen,North,4,999,3996
+5620,2025-02-08,CUST1325,Whiteboard,Office Supplies,South,6,1499,8994
+5621,2025-02-08,CUST1165,Whiteboard,Office Supplies,South,1,1499,1499
+5622,2025-02-09,CUST1345,Wireless Earbuds,Electronics,West,6,1499,8994
+5623,2025-02-09,CUST1209,Bluetooth Speaker,Electronics,West,7,1999,13993
+5624,2025-02-10,CUST1134,Smart Watch,Electronics,North,7,3499,24493
+5625,2025-02-10,CUST1104,Coffee Maker,Home & Kitchen,East,6,2999,17994
+5626,2025-02-10,CUST1255,Desk Organizer,Office Supplies,East,4,799,3196
+5627,2025-02-11,CUST1153,Desk Organizer,Office Supplies,South,5,799,3995
+5628,2025-02-11,CUST1248,Smart Watch,Electronics,North,4,3499,13996
+5629,2025-02-11,CUST1108,Blender,Home & Kitchen,West,1,1799,1799
+5630,2025-02-12,CUST1093,Running Shoes,Apparel,West,7,2499,17493
+5631,2025-02-12,CUST1057,Blender,Home & Kitchen,North,3,1799,5397
+5632,2025-02-12,CUST1077,Bluetooth Speaker,Electronics,East,6,1999,11994
+5633,2025-02-13,CUST1046,Non-Stick Pan Set,Home & Kitchen,West,7,2299,16093
+5634,2025-02-13,CUST1016,Winter Jacket,Apparel,East,4,3299,13196
+5635,2025-02-14,CUST1258,Wireless Earbuds,Electronics,South,4,1499,5996
+5636,2025-02-14,CUST1024,Notebook Pack,Office Supplies,North,6,249,1494
+5637,2025-02-14,CUST1249,Wireless Earbuds,Electronics,North,3,1499,4497
+5638,2025-02-15,CUST1350,Bluetooth Speaker,Electronics,South,3,1999,5997
+5639,2025-02-15,CUST1254,USB-C Hub,Electronics,East,2,1299,2598
+5640,2025-02-15,CUST1374,Denim Jacket,Apparel,South,2,1999,3998
+5641,2025-02-15,CUST1135,Denim Jacket,Apparel,North,5,1999,9995
+5642,2025-02-15,CUST1260,Wireless Earbuds,Electronics,South,1,1499,1499
+5643,2025-02-16,CUST1166,Cotton T-Shirt,Apparel,North,1,599,599
+5644,2025-02-16,CUST1280,LED Desk Lamp,Office Supplies,East,6,1199,7194
+5645,2025-02-16,CUST1216,Desk Organizer,Office Supplies,West,6,799,4794
+5646,2025-02-16,CUST1198,Whiteboard,Office Supplies,South,7,1499,10493
+5647,2025-02-16,CUST1122,Ergonomic Chair,Office Supplies,North,5,6999,34995
+5648,2025-02-17,CUST1044,Coffee Maker,Home & Kitchen,North,1,2999,2999
+5649,2025-02-17,CUST1350,Laptop Stand,Electronics,East,8,899,7192
+5650,2025-02-17,CUST1242,Winter Jacket,Apparel,North,8,3299,26392
+5651,2025-02-17,CUST1120,Sports Cap,Apparel,West,7,399,2793
+5652,2025-02-17,CUST1269,Running Shoes,Apparel,West,5,2499,12495
+5653,2025-02-18,CUST1313,USB-C Hub,Electronics,South,5,1299,6495
+5654,2025-02-18,CUST1267,Winter Jacket,Apparel,East,8,3299,26392
+5655,2025-02-18,CUST1387,Coffee Maker,Home & Kitchen,North,6,2999,17994
+5656,2025-02-18,CUST1187,Electric Kettle,Home & Kitchen,South,4,999,3996
+5657,2025-02-19,CUST1327,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+5658,2025-02-19,CUST1219,Winter Jacket,Apparel,East,2,3299,6598
+5659,2025-02-19,CUST1192,Ergonomic Chair,Office Supplies,East,2,6999,13998
+5660,2025-02-20,CUST1231,Sports Cap,Apparel,East,2,399,798
+5661,2025-02-20,CUST1228,Winter Jacket,Apparel,East,2,3299,6598
+5662,2025-02-20,CUST1388,Whiteboard,Office Supplies,South,3,1499,4497
+5663,2025-02-20,CUST1250,Bluetooth Speaker,Electronics,East,4,1999,7996
+5664,2025-02-21,CUST1009,Winter Jacket,Apparel,East,4,3299,13196
+5665,2025-02-21,CUST1029,USB-C Hub,Electronics,East,3,1299,3897
+5666,2025-02-21,CUST1165,Sports Cap,Apparel,East,5,399,1995
+5667,2025-02-21,CUST1046,Blender,Home & Kitchen,West,8,1799,14392
+5668,2025-02-22,CUST1148,Coffee Maker,Home & Kitchen,West,6,2999,17994
+5669,2025-02-22,CUST1187,Laptop Stand,Electronics,West,1,899,899
+5670,2025-02-23,CUST1180,Whiteboard,Office Supplies,East,4,1499,5996
+5671,2025-02-23,CUST1316,LED Desk Lamp,Office Supplies,South,4,1199,4796
+5672,2025-02-23,CUST1168,Running Shoes,Apparel,South,2,2499,4998
+5673,2025-02-23,CUST1201,Laptop Stand,Electronics,West,7,899,6293
+5674,2025-02-24,CUST1236,Wireless Earbuds,Electronics,West,7,1499,10493
+5675,2025-02-24,CUST1033,Whiteboard,Office Supplies,South,8,1499,11992
+5676,2025-02-24,CUST1262,Whiteboard,Office Supplies,South,1,1499,1499
+5677,2025-02-24,CUST1277,Coffee Maker,Home & Kitchen,West,1,2999,2999
+5678,2025-02-24,CUST1393,Sports Cap,Apparel,East,7,399,2793
+5679,2025-02-25,CUST1039,Wireless Earbuds,Electronics,South,1,1499,1499
+5680,2025-02-25,CUST1385,Laptop Stand,Electronics,North,4,899,3596
+5681,2025-02-25,CUST1364,Notebook Pack,Office Supplies,South,6,249,1494
+5682,2025-02-25,CUST1298,Notebook Pack,Office Supplies,West,3,249,747
+5683,2025-02-25,CUST1164,Notebook Pack,Office Supplies,South,6,249,1494
+5684,2025-02-26,CUST1266,Bluetooth Speaker,Electronics,East,5,1999,9995
+5685,2025-02-26,CUST1130,Smart Watch,Electronics,West,5,3499,17495
+5686,2025-02-26,CUST1348,LED Desk Lamp,Office Supplies,West,1,1199,1199
+5687,2025-02-27,CUST1223,Denim Jacket,Apparel,West,5,1999,9995
+5688,2025-02-27,CUST1026,Denim Jacket,Apparel,South,4,1999,7996
+5689,2025-02-27,CUST1363,Winter Jacket,Apparel,West,3,3299,9897
+5690,2025-02-27,CUST1233,Cotton T-Shirt,Apparel,South,1,599,599
+5691,2025-02-28,CUST1209,USB-C Hub,Electronics,North,6,1299,7794
+5692,2025-02-28,CUST1224,Smart Watch,Electronics,South,5,3499,17495
+5693,2025-02-28,CUST1207,Coffee Maker,Home & Kitchen,West,8,2999,23992
+5694,2025-02-28,CUST1092,Coffee Maker,Home & Kitchen,North,7,2999,20993
+5695,2025-03-01,CUST1305,Bluetooth Speaker,Electronics,North,8,1999,15992
+5696,2025-03-01,CUST1255,Air Fryer,Home & Kitchen,South,4,4499,17996
+5697,2025-03-02,CUST1074,Electric Kettle,Home & Kitchen,South,4,999,3996
+5698,2025-03-02,CUST1103,Laptop Stand,Electronics,North,2,899,1798
+5699,2025-03-02,CUST1337,Laptop Stand,Electronics,South,5,899,4495
+5700,2025-03-02,CUST1029,Whiteboard,Office Supplies,South,3,1499,4497
+5701,2025-03-03,CUST1388,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+5702,2025-03-03,CUST1158,Sports Cap,Apparel,South,5,399,1995
+5703,2025-03-04,CUST1200,Coffee Maker,Home & Kitchen,South,1,2999,2999
+5704,2025-03-04,CUST1328,Winter Jacket,Apparel,South,5,3299,16495
+5705,2025-03-04,CUST1101,Electric Kettle,Home & Kitchen,North,8,999,7992
+5706,2025-03-04,CUST1170,Coffee Maker,Home & Kitchen,West,7,2999,20993
+5707,2025-03-05,CUST1336,Smart Watch,Electronics,North,4,3499,13996
+5708,2025-03-05,CUST1178,Smart Watch,Electronics,West,1,3499,3499
+5709,2025-03-06,CUST1143,Bluetooth Speaker,Electronics,West,5,1999,9995
+5710,2025-03-06,CUST1240,Bluetooth Speaker,Electronics,South,5,1999,9995
+5711,2025-03-06,CUST1016,Electric Kettle,Home & Kitchen,East,2,999,1998
+5712,2025-03-06,CUST1077,Smart Watch,Electronics,South,5,3499,17495
+5713,2025-03-06,CUST1179,Bluetooth Speaker,Electronics,East,8,1999,15992
+5714,2025-03-07,CUST1091,Blender,Home & Kitchen,East,2,1799,3598
+5715,2025-03-07,CUST1048,Running Shoes,Apparel,West,2,2499,4998
+5716,2025-03-07,CUST1236,Electric Kettle,Home & Kitchen,West,1,999,999
+5717,2025-03-07,CUST1211,Wireless Earbuds,Electronics,North,3,1499,4497
+5718,2025-03-07,CUST1039,LED Desk Lamp,Office Supplies,East,6,1199,7194
+5719,2025-03-08,CUST1169,Denim Jacket,Apparel,North,1,1999,1999
+5720,2025-03-08,CUST1133,Desk Organizer,Office Supplies,South,2,799,1598
+5721,2025-03-08,CUST1078,Bluetooth Speaker,Electronics,North,8,1999,15992
+5722,2025-03-09,CUST1125,Smart Watch,Electronics,West,3,3499,10497
+5723,2025-03-09,CUST1187,USB-C Hub,Electronics,East,4,1299,5196
+5724,2025-03-09,CUST1065,Winter Jacket,Apparel,South,4,3299,13196
+5725,2025-03-09,CUST1054,Air Fryer,Home & Kitchen,North,1,4499,4499
+5726,2025-03-10,CUST1384,Coffee Maker,Home & Kitchen,North,3,2999,8997
+5727,2025-03-10,CUST1217,Blender,Home & Kitchen,North,7,1799,12593
+5728,2025-03-10,CUST1043,Smart Watch,Electronics,North,4,3499,13996
+5729,2025-03-10,CUST1125,Coffee Maker,Home & Kitchen,North,2,2999,5998
+5730,2025-03-10,CUST1110,Running Shoes,Apparel,North,3,2499,7497
+5731,2025-03-11,CUST1303,Running Shoes,Apparel,West,3,2499,7497
+5732,2025-03-11,CUST1208,Smart Watch,Electronics,West,1,3499,3499
+5733,2025-03-11,CUST1375,Bluetooth Speaker,Electronics,South,3,1999,5997
+5734,2025-03-11,CUST1104,Blender,Home & Kitchen,South,4,1799,7196
+5735,2025-03-12,CUST1245,Running Shoes,Apparel,North,1,2499,2499
+5736,2025-03-12,CUST1035,LED Desk Lamp,Office Supplies,East,2,1199,2398
+5737,2025-03-12,CUST1210,Air Fryer,Home & Kitchen,East,2,4499,8998
+5738,2025-03-13,CUST1069,Non-Stick Pan Set,Home & Kitchen,West,5,2299,11495
+5739,2025-03-13,CUST1348,Running Shoes,Apparel,West,3,2499,7497
+5740,2025-03-13,CUST1382,Whiteboard,Office Supplies,East,2,1499,2998
+5741,2025-03-13,CUST1122,Smart Watch,Electronics,South,4,3499,13996
+5742,2025-03-14,CUST1200,Non-Stick Pan Set,Home & Kitchen,North,7,2299,16093
+5743,2025-03-14,CUST1044,Winter Jacket,Apparel,West,4,3299,13196
+5744,2025-03-14,CUST1156,Sports Cap,Apparel,West,1,399,399
+5745,2025-03-14,CUST1056,Winter Jacket,Apparel,North,8,3299,26392
+5746,2025-03-14,CUST1234,Whiteboard,Office Supplies,East,3,1499,4497
+5747,2025-03-15,CUST1201,Air Fryer,Home & Kitchen,East,8,4499,35992
+5748,2025-03-15,CUST1045,Smart Watch,Electronics,East,5,3499,17495
+5749,2025-03-15,CUST1338,Non-Stick Pan Set,Home & Kitchen,West,4,2299,9196
+5750,2025-03-15,CUST1192,Bluetooth Speaker,Electronics,North,3,1999,5997
+5751,2025-03-16,CUST1185,Cotton T-Shirt,Apparel,South,3,599,1797
+5752,2025-03-16,CUST1157,Blender,Home & Kitchen,West,8,1799,14392
+5753,2025-03-16,CUST1083,Sports Cap,Apparel,South,7,399,2793
+5754,2025-03-16,CUST1053,Wireless Earbuds,Electronics,South,4,1499,5996
+5755,2025-03-16,CUST1377,LED Desk Lamp,Office Supplies,East,6,1199,7194
+5756,2025-03-17,CUST1341,Ergonomic Chair,Office Supplies,East,7,6999,48993
+5757,2025-03-17,CUST1227,USB-C Hub,Electronics,East,5,1299,6495
+5758,2025-03-18,CUST1267,Cotton T-Shirt,Apparel,West,1,599,599
+5759,2025-03-18,CUST1354,Whiteboard,Office Supplies,East,1,1499,1499
+5760,2025-03-18,CUST1229,Wireless Earbuds,Electronics,West,5,1499,7495
+5761,2025-03-18,CUST1017,Electric Kettle,Home & Kitchen,West,6,999,5994
+5762,2025-03-19,CUST1073,Air Fryer,Home & Kitchen,East,4,4499,17996
+5763,2025-03-19,CUST1382,Laptop Stand,Electronics,South,5,899,4495
+5764,2025-03-19,CUST1215,Blender,Home & Kitchen,North,7,1799,12593
+5765,2025-03-19,CUST1363,Laptop Stand,Electronics,West,6,899,5394
+5766,2025-03-19,CUST1294,Cotton T-Shirt,Apparel,South,8,599,4792
+5767,2025-03-20,CUST1264,Denim Jacket,Apparel,South,1,1999,1999
+5768,2025-03-20,CUST1348,Blender,Home & Kitchen,South,5,1799,8995
+5769,2025-03-21,CUST1355,Winter Jacket,Apparel,East,3,3299,9897
+5770,2025-03-21,CUST1101,Cotton T-Shirt,Apparel,West,6,599,3594
+5771,2025-03-22,CUST1185,Notebook Pack,Office Supplies,East,7,249,1743
+5772,2025-03-22,CUST1136,Winter Jacket,Apparel,West,2,3299,6598
+5773,2025-03-22,CUST1256,Electric Kettle,Home & Kitchen,West,7,999,6993
+5774,2025-03-22,CUST1077,Blender,Home & Kitchen,North,5,1799,8995
+5775,2025-03-22,CUST1385,LED Desk Lamp,Office Supplies,West,2,1199,2398
+5776,2025-03-23,CUST1271,Desk Organizer,Office Supplies,West,5,799,3995
+5777,2025-03-23,CUST1394,Smart Watch,Electronics,West,1,3499,3499
+5778,2025-03-23,CUST1181,USB-C Hub,Electronics,East,6,1299,7794
+5779,2025-03-23,CUST1280,Denim Jacket,Apparel,North,2,1999,3998
+5780,2025-03-24,CUST1330,Smart Watch,Electronics,South,3,3499,10497
+5781,2025-03-24,CUST1380,Laptop Stand,Electronics,West,6,899,5394
+5782,2025-03-24,CUST1172,Whiteboard,Office Supplies,West,6,1499,8994
+5783,2025-03-24,CUST1342,Coffee Maker,Home & Kitchen,West,5,2999,14995
+5784,2025-03-24,CUST1349,Coffee Maker,Home & Kitchen,East,2,2999,5998
+5785,2025-03-25,CUST1293,USB-C Hub,Electronics,North,4,1299,5196
+5786,2025-03-25,CUST1293,Whiteboard,Office Supplies,South,5,1499,7495
+5787,2025-03-25,CUST1343,Coffee Maker,Home & Kitchen,South,4,2999,11996
+5788,2025-03-25,CUST1380,Smart Watch,Electronics,North,7,3499,24493
+5789,2025-03-25,CUST1313,Denim Jacket,Apparel,West,5,1999,9995
+5790,2025-03-26,CUST1114,Sports Cap,Apparel,South,5,399,1995
+5791,2025-03-26,CUST1184,Smart Watch,Electronics,North,1,3499,3499
+5792,2025-03-27,CUST1001,Smart Watch,Electronics,South,8,3499,27992
+5793,2025-03-27,CUST1257,Non-Stick Pan Set,Home & Kitchen,East,1,2299,2299
+5794,2025-03-28,CUST1056,Wireless Earbuds,Electronics,West,8,1499,11992
+5795,2025-03-28,CUST1169,Blender,Home & Kitchen,East,4,1799,7196
+5796,2025-03-28,CUST1144,Electric Kettle,Home & Kitchen,South,1,999,999
+5797,2025-03-28,CUST1258,Coffee Maker,Home & Kitchen,North,5,2999,14995
+5798,2025-03-28,CUST1322,Desk Organizer,Office Supplies,North,5,799,3995
+5799,2025-03-29,CUST1262,Laptop Stand,Electronics,West,7,899,6293
+5800,2025-03-29,CUST1272,Air Fryer,Home & Kitchen,East,6,4499,26994
+5801,2025-03-30,CUST1220,Laptop Stand,Electronics,South,8,899,7192
+5802,2025-03-30,CUST1315,Ergonomic Chair,Office Supplies,East,4,6999,27996
+5803,2025-03-30,CUST1144,Laptop Stand,Electronics,South,4,899,3596
+5804,2025-03-30,CUST1224,USB-C Hub,Electronics,North,4,1299,5196
+5805,2025-03-31,CUST1382,Denim Jacket,Apparel,East,1,1999,1999
+5806,2025-03-31,CUST1105,Wireless Earbuds,Electronics,East,7,1499,10493
+5807,2025-03-31,CUST1285,USB-C Hub,Electronics,East,6,1299,7794
+5808,2025-04-01,CUST1053,Cotton T-Shirt,Apparel,East,1,599,599
+5809,2025-04-01,CUST1015,Blender,Home & Kitchen,West,8,1799,14392
+5810,2025-04-01,CUST1078,Smart Watch,Electronics,North,6,3499,20994
+5811,2025-04-02,CUST1163,Notebook Pack,Office Supplies,East,8,249,1992
+5812,2025-04-02,CUST1260,Air Fryer,Home & Kitchen,East,7,4499,31493
+5813,2025-04-02,CUST1336,Blender,Home & Kitchen,East,1,1799,1799
+5814,2025-04-02,CUST1396,Blender,Home & Kitchen,West,7,1799,12593
+5815,2025-04-02,CUST1070,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+5816,2025-04-03,CUST1014,Electric Kettle,Home & Kitchen,West,1,999,999
+5817,2025-04-03,CUST1104,Laptop Stand,Electronics,North,2,899,1798
+5818,2025-04-04,CUST1248,Sports Cap,Apparel,West,4,399,1596
+5819,2025-04-04,CUST1181,Bluetooth Speaker,Electronics,South,7,1999,13993
+5820,2025-04-04,CUST1102,Wireless Earbuds,Electronics,South,8,1499,11992
+5821,2025-04-04,CUST1389,LED Desk Lamp,Office Supplies,West,2,1199,2398
+5822,2025-04-05,CUST1333,Ergonomic Chair,Office Supplies,West,4,6999,27996
+5823,2025-04-05,CUST1060,Whiteboard,Office Supplies,South,8,1499,11992
+5824,2025-04-06,CUST1002,Bluetooth Speaker,Electronics,South,7,1999,13993
+5825,2025-04-06,CUST1048,Air Fryer,Home & Kitchen,South,4,4499,17996
+5826,2025-04-06,CUST1024,Wireless Earbuds,Electronics,West,7,1499,10493
+5827,2025-04-06,CUST1284,Coffee Maker,Home & Kitchen,North,7,2999,20993
+5828,2025-04-06,CUST1239,Running Shoes,Apparel,South,1,2499,2499
+5829,2025-04-07,CUST1073,Wireless Earbuds,Electronics,South,3,1499,4497
+5830,2025-04-07,CUST1001,Running Shoes,Apparel,West,2,2499,4998
+5831,2025-04-07,CUST1257,USB-C Hub,Electronics,North,2,1299,2598
+5832,2025-04-07,CUST1234,USB-C Hub,Electronics,East,7,1299,9093
+5833,2025-04-07,CUST1012,USB-C Hub,Electronics,South,3,1299,3897
+5834,2025-04-08,CUST1343,Air Fryer,Home & Kitchen,South,7,4499,31493
+5835,2025-04-08,CUST1279,USB-C Hub,Electronics,North,6,1299,7794
+5836,2025-04-08,CUST1051,Wireless Earbuds,Electronics,South,2,1499,2998
+5837,2025-04-08,CUST1158,Cotton T-Shirt,Apparel,East,5,599,2995
+5838,2025-04-08,CUST1393,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+5839,2025-04-09,CUST1058,Wireless Earbuds,Electronics,North,4,1499,5996
+5840,2025-04-09,CUST1312,Whiteboard,Office Supplies,West,4,1499,5996
+5841,2025-04-10,CUST1343,Wireless Earbuds,Electronics,North,3,1499,4497
+5842,2025-04-10,CUST1316,Notebook Pack,Office Supplies,South,5,249,1245
+5843,2025-04-11,CUST1153,Denim Jacket,Apparel,East,6,1999,11994
+5844,2025-04-11,CUST1048,Smart Watch,Electronics,West,3,3499,10497
+5845,2025-04-11,CUST1390,Ergonomic Chair,Office Supplies,West,6,6999,41994
+5846,2025-04-11,CUST1211,Denim Jacket,Apparel,North,1,1999,1999
+5847,2025-04-11,CUST1168,Denim Jacket,Apparel,East,1,1999,1999
+5848,2025-04-12,CUST1053,Running Shoes,Apparel,South,1,2499,2499
+5849,2025-04-12,CUST1187,Winter Jacket,Apparel,East,2,3299,6598
+5850,2025-04-12,CUST1108,Laptop Stand,Electronics,South,1,899,899
+5851,2025-04-13,CUST1331,LED Desk Lamp,Office Supplies,North,4,1199,4796
+5852,2025-04-13,CUST1365,Blender,Home & Kitchen,North,5,1799,8995
+5853,2025-04-13,CUST1312,Notebook Pack,Office Supplies,South,8,249,1992
+5854,2025-04-14,CUST1174,Winter Jacket,Apparel,South,5,3299,16495
+5855,2025-04-14,CUST1328,Wireless Earbuds,Electronics,South,5,1499,7495
+5856,2025-04-14,CUST1355,Air Fryer,Home & Kitchen,North,7,4499,31493
+5857,2025-04-15,CUST1274,Wireless Earbuds,Electronics,North,1,1499,1499
+5858,2025-04-15,CUST1072,Smart Watch,Electronics,North,2,3499,6998
+5859,2025-04-15,CUST1393,LED Desk Lamp,Office Supplies,East,8,1199,9592
+5860,2025-04-15,CUST1155,Air Fryer,Home & Kitchen,East,7,4499,31493
+5861,2025-04-16,CUST1235,Non-Stick Pan Set,Home & Kitchen,North,6,2299,13794
+5862,2025-04-16,CUST1198,Denim Jacket,Apparel,North,4,1999,7996
+5863,2025-04-16,CUST1343,Bluetooth Speaker,Electronics,East,6,1999,11994
+5864,2025-04-16,CUST1097,Sports Cap,Apparel,North,2,399,798
+5865,2025-04-16,CUST1338,Bluetooth Speaker,Electronics,East,5,1999,9995
+5866,2025-04-17,CUST1049,Bluetooth Speaker,Electronics,West,1,1999,1999
+5867,2025-04-17,CUST1291,Desk Organizer,Office Supplies,North,4,799,3196
+5868,2025-04-17,CUST1007,Wireless Earbuds,Electronics,East,5,1499,7495
+5869,2025-04-18,CUST1070,Cotton T-Shirt,Apparel,South,6,599,3594
+5870,2025-04-18,CUST1085,Cotton T-Shirt,Apparel,East,2,599,1198
+5871,2025-04-18,CUST1389,Coffee Maker,Home & Kitchen,East,7,2999,20993
+5872,2025-04-19,CUST1390,Coffee Maker,Home & Kitchen,South,7,2999,20993
+5873,2025-04-19,CUST1134,Denim Jacket,Apparel,West,1,1999,1999
+5874,2025-04-20,CUST1120,Laptop Stand,Electronics,East,5,899,4495
+5875,2025-04-20,CUST1249,Laptop Stand,Electronics,West,2,899,1798
+5876,2025-04-21,CUST1047,LED Desk Lamp,Office Supplies,West,7,1199,8393
+5877,2025-04-21,CUST1088,Laptop Stand,Electronics,West,4,899,3596
+5878,2025-04-22,CUST1097,Notebook Pack,Office Supplies,North,2,249,498
+5879,2025-04-22,CUST1240,Cotton T-Shirt,Apparel,West,4,599,2396
+5880,2025-04-22,CUST1036,Sports Cap,Apparel,North,4,399,1596
+5881,2025-04-22,CUST1056,Ergonomic Chair,Office Supplies,West,1,6999,6999
+5882,2025-04-22,CUST1122,LED Desk Lamp,Office Supplies,North,3,1199,3597
+5883,2025-04-23,CUST1244,Air Fryer,Home & Kitchen,North,5,4499,22495
+5884,2025-04-23,CUST1038,Whiteboard,Office Supplies,South,8,1499,11992
+5885,2025-04-23,CUST1143,Running Shoes,Apparel,South,6,2499,14994
+5886,2025-04-23,CUST1246,Wireless Earbuds,Electronics,West,5,1499,7495
+5887,2025-04-24,CUST1329,USB-C Hub,Electronics,North,8,1299,10392
+5888,2025-04-24,CUST1395,USB-C Hub,Electronics,South,8,1299,10392
+5889,2025-04-24,CUST1198,Blender,Home & Kitchen,South,6,1799,10794
+5890,2025-04-25,CUST1008,Denim Jacket,Apparel,South,8,1999,15992
+5891,2025-04-25,CUST1018,Laptop Stand,Electronics,South,5,899,4495
+5892,2025-04-26,CUST1383,Coffee Maker,Home & Kitchen,East,6,2999,17994
+5893,2025-04-26,CUST1012,Air Fryer,Home & Kitchen,West,3,4499,13497
+5894,2025-04-26,CUST1119,Smart Watch,Electronics,West,2,3499,6998
+5895,2025-04-26,CUST1344,Desk Organizer,Office Supplies,West,4,799,3196
+5896,2025-04-26,CUST1103,Coffee Maker,Home & Kitchen,West,5,2999,14995
+5897,2025-04-27,CUST1016,Denim Jacket,Apparel,East,7,1999,13993
+5898,2025-04-27,CUST1342,Blender,Home & Kitchen,West,1,1799,1799
+5899,2025-04-27,CUST1000,Denim Jacket,Apparel,South,3,1999,5997
+5900,2025-04-27,CUST1243,Sports Cap,Apparel,West,7,399,2793
+5901,2025-04-27,CUST1287,Blender,Home & Kitchen,South,2,1799,3598
+5902,2025-04-28,CUST1267,Ergonomic Chair,Office Supplies,South,3,6999,20997
+5903,2025-04-28,CUST1119,Running Shoes,Apparel,South,7,2499,17493
+5904,2025-04-28,CUST1209,Air Fryer,Home & Kitchen,West,5,4499,22495
+5905,2025-04-28,CUST1364,Coffee Maker,Home & Kitchen,East,7,2999,20993
+5906,2025-04-29,CUST1008,Laptop Stand,Electronics,North,5,899,4495
+5907,2025-04-29,CUST1070,Smart Watch,Electronics,South,7,3499,24493
+5908,2025-04-30,CUST1228,Desk Organizer,Office Supplies,North,4,799,3196
+5909,2025-04-30,CUST1267,LED Desk Lamp,Office Supplies,East,4,1199,4796
+5910,2025-05-01,CUST1292,USB-C Hub,Electronics,East,7,1299,9093
+5911,2025-05-01,CUST1210,Blender,Home & Kitchen,South,6,1799,10794
+5912,2025-05-01,CUST1319,Running Shoes,Apparel,North,8,2499,19992
+5913,2025-05-01,CUST1227,Blender,Home & Kitchen,North,8,1799,14392
+5914,2025-05-01,CUST1166,Denim Jacket,Apparel,West,4,1999,7996
+5915,2025-05-02,CUST1205,Bluetooth Speaker,Electronics,West,3,1999,5997
+5916,2025-05-02,CUST1194,Blender,Home & Kitchen,East,8,1799,14392
+5917,2025-05-02,CUST1327,Denim Jacket,Apparel,South,4,1999,7996
+5918,2025-05-02,CUST1261,Running Shoes,Apparel,North,3,2499,7497
+5919,2025-05-02,CUST1330,LED Desk Lamp,Office Supplies,West,2,1199,2398
+5920,2025-05-03,CUST1176,Desk Organizer,Office Supplies,East,7,799,5593
+5921,2025-05-03,CUST1354,Denim Jacket,Apparel,West,1,1999,1999
+5922,2025-05-03,CUST1059,Non-Stick Pan Set,Home & Kitchen,East,5,2299,11495
+5923,2025-05-03,CUST1189,Coffee Maker,Home & Kitchen,South,5,2999,14995
+5924,2025-05-03,CUST1307,Denim Jacket,Apparel,North,8,1999,15992
+5925,2025-05-04,CUST1371,Air Fryer,Home & Kitchen,West,5,4499,22495
+5926,2025-05-04,CUST1088,Wireless Earbuds,Electronics,North,2,1499,2998
+5927,2025-05-05,CUST1089,Bluetooth Speaker,Electronics,South,5,1999,9995
+5928,2025-05-05,CUST1058,Air Fryer,Home & Kitchen,North,2,4499,8998
+5929,2025-05-05,CUST1240,Bluetooth Speaker,Electronics,South,6,1999,11994
+5930,2025-05-06,CUST1213,Cotton T-Shirt,Apparel,East,8,599,4792
+5931,2025-05-06,CUST1042,Cotton T-Shirt,Apparel,North,5,599,2995
+5932,2025-05-07,CUST1319,Running Shoes,Apparel,North,1,2499,2499
+5933,2025-05-07,CUST1174,Denim Jacket,Apparel,East,8,1999,15992
+5934,2025-05-07,CUST1384,Coffee Maker,Home & Kitchen,North,3,2999,8997
+5935,2025-05-08,CUST1117,Desk Organizer,Office Supplies,North,5,799,3995
+5936,2025-05-08,CUST1033,Laptop Stand,Electronics,North,3,899,2697
+5937,2025-05-08,CUST1118,Non-Stick Pan Set,Home & Kitchen,West,2,2299,4598
+5938,2025-05-08,CUST1070,LED Desk Lamp,Office Supplies,West,1,1199,1199
+5939,2025-05-08,CUST1055,Electric Kettle,Home & Kitchen,South,8,999,7992
+5940,2025-05-09,CUST1267,Sports Cap,Apparel,West,6,399,2394
+5941,2025-05-09,CUST1370,Wireless Earbuds,Electronics,South,1,1499,1499
+5942,2025-05-09,CUST1108,Electric Kettle,Home & Kitchen,East,8,999,7992
+5943,2025-05-10,CUST1339,Coffee Maker,Home & Kitchen,East,5,2999,14995
+5944,2025-05-10,CUST1115,Coffee Maker,Home & Kitchen,North,8,2999,23992
+5945,2025-05-10,CUST1161,Cotton T-Shirt,Apparel,West,5,599,2995
+5946,2025-05-11,CUST1025,Running Shoes,Apparel,East,6,2499,14994
+5947,2025-05-11,CUST1322,Coffee Maker,Home & Kitchen,South,4,2999,11996
+5948,2025-05-12,CUST1061,Bluetooth Speaker,Electronics,East,6,1999,11994
+5949,2025-05-12,CUST1397,LED Desk Lamp,Office Supplies,East,2,1199,2398
+5950,2025-05-12,CUST1223,Wireless Earbuds,Electronics,West,8,1499,11992
+5951,2025-05-12,CUST1230,Smart Watch,Electronics,South,6,3499,20994
+5952,2025-05-12,CUST1273,Whiteboard,Office Supplies,East,8,1499,11992
+5953,2025-05-13,CUST1044,Wireless Earbuds,Electronics,West,5,1499,7495
+5954,2025-05-13,CUST1032,Air Fryer,Home & Kitchen,South,8,4499,35992
+5955,2025-05-13,CUST1384,Smart Watch,Electronics,North,6,3499,20994
+5956,2025-05-13,CUST1074,LED Desk Lamp,Office Supplies,North,7,1199,8393
+5957,2025-05-14,CUST1393,Wireless Earbuds,Electronics,East,3,1499,4497
+5958,2025-05-14,CUST1083,Wireless Earbuds,Electronics,East,7,1499,10493
+5959,2025-05-15,CUST1391,Coffee Maker,Home & Kitchen,West,7,2999,20993
+5960,2025-05-15,CUST1124,Cotton T-Shirt,Apparel,North,8,599,4792
+5961,2025-05-15,CUST1379,Wireless Earbuds,Electronics,East,7,1499,10493
+5962,2025-05-16,CUST1388,Coffee Maker,Home & Kitchen,East,8,2999,23992
+5963,2025-05-16,CUST1383,Ergonomic Chair,Office Supplies,South,4,6999,27996
+5964,2025-05-16,CUST1126,Notebook Pack,Office Supplies,East,1,249,249
+5965,2025-05-16,CUST1356,Sports Cap,Apparel,West,3,399,1197
+5966,2025-05-16,CUST1373,Cotton T-Shirt,Apparel,South,6,599,3594
+5967,2025-05-17,CUST1118,Notebook Pack,Office Supplies,North,6,249,1494
+5968,2025-05-17,CUST1019,Smart Watch,Electronics,North,6,3499,20994
+5969,2025-05-17,CUST1187,Blender,Home & Kitchen,East,5,1799,8995
+5970,2025-05-18,CUST1145,Winter Jacket,Apparel,West,2,3299,6598
+5971,2025-05-18,CUST1387,Air Fryer,Home & Kitchen,West,4,4499,17996
+5972,2025-05-18,CUST1157,Bluetooth Speaker,Electronics,South,5,1999,9995
+5973,2025-05-18,CUST1157,Winter Jacket,Apparel,West,3,3299,9897
+5974,2025-05-19,CUST1088,Running Shoes,Apparel,East,6,2499,14994
+5975,2025-05-19,CUST1280,Electric Kettle,Home & Kitchen,North,8,999,7992
+5976,2025-05-19,CUST1383,Winter Jacket,Apparel,West,4,3299,13196
+5977,2025-05-20,CUST1051,Denim Jacket,Apparel,North,2,1999,3998
+5978,2025-05-20,CUST1116,Running Shoes,Apparel,North,6,2499,14994
+5979,2025-05-20,CUST1254,USB-C Hub,Electronics,North,1,1299,1299
+5980,2025-05-20,CUST1159,Non-Stick Pan Set,Home & Kitchen,West,8,2299,18392
+5981,2025-05-21,CUST1163,Sports Cap,Apparel,West,6,399,2394
+5982,2025-05-21,CUST1307,Cotton T-Shirt,Apparel,North,2,599,1198
+5983,2025-05-21,CUST1006,Whiteboard,Office Supplies,West,4,1499,5996
+5984,2025-05-21,CUST1277,Coffee Maker,Home & Kitchen,East,6,2999,17994
+5985,2025-05-21,CUST1236,USB-C Hub,Electronics,North,7,1299,9093
+5986,2025-05-22,CUST1094,Non-Stick Pan Set,Home & Kitchen,North,5,2299,11495
+5987,2025-05-22,CUST1381,Running Shoes,Apparel,South,1,2499,2499
+5988,2025-05-23,CUST1194,Winter Jacket,Apparel,South,2,3299,6598
+5989,2025-05-23,CUST1154,Ergonomic Chair,Office Supplies,East,6,6999,41994
+5990,2025-05-23,CUST1342,Non-Stick Pan Set,Home & Kitchen,North,3,2299,6897
+5991,2025-05-24,CUST1332,Coffee Maker,Home & Kitchen,North,2,2999,5998
+5992,2025-05-24,CUST1106,Running Shoes,Apparel,North,1,2499,2499
+5993,2025-05-24,CUST1079,Electric Kettle,Home & Kitchen,West,4,999,3996
+5994,2025-05-24,CUST1015,Coffee Maker,Home & Kitchen,West,7,2999,20993
+5995,2025-05-24,CUST1309,Electric Kettle,Home & Kitchen,East,5,999,4995
+5996,2025-05-25,CUST1027,Ergonomic Chair,Office Supplies,West,2,6999,13998
+5997,2025-05-25,CUST1383,Smart Watch,Electronics,South,4,3499,13996
+5998,2025-05-25,CUST1118,Denim Jacket,Apparel,South,3,1999,5997
+5999,2025-05-26,CUST1139,Laptop Stand,Electronics,South,7,899,6293
+6000,2025-05-26,CUST1226,Laptop Stand,Electronics,North,2,899,1798
+6001,2025-05-26,CUST1072,USB-C Hub,Electronics,West,6,1299,7794
+6002,2025-05-27,CUST1209,Coffee Maker,Home & Kitchen,East,4,2999,11996
+6003,2025-05-27,CUST1209,Coffee Maker,Home & Kitchen,South,6,2999,17994
+6004,2025-05-27,CUST1082,Desk Organizer,Office Supplies,East,4,799,3196
+6005,2025-05-27,CUST1098,Notebook Pack,Office Supplies,South,6,249,1494
+6006,2025-05-27,CUST1094,USB-C Hub,Electronics,East,7,1299,9093
+6007,2025-05-28,CUST1242,LED Desk Lamp,Office Supplies,West,5,1199,5995
+6008,2025-05-28,CUST1241,LED Desk Lamp,Office Supplies,South,3,1199,3597
+6009,2025-05-28,CUST1180,Coffee Maker,Home & Kitchen,North,7,2999,20993
+6010,2025-05-28,CUST1181,Laptop Stand,Electronics,North,7,899,6293
+6011,2025-05-28,CUST1330,Cotton T-Shirt,Apparel,West,3,599,1797
+6012,2025-05-29,CUST1181,Wireless Earbuds,Electronics,West,7,1499,10493
+6013,2025-05-29,CUST1080,LED Desk Lamp,Office Supplies,East,1,1199,1199
+6014,2025-05-29,CUST1167,Blender,Home & Kitchen,West,4,1799,7196
+6015,2025-05-29,CUST1333,Denim Jacket,Apparel,West,3,1999,5997
+6016,2025-05-29,CUST1013,Running Shoes,Apparel,South,6,2499,14994
+6017,2025-05-30,CUST1186,Whiteboard,Office Supplies,East,1,1499,1499
+6018,2025-05-30,CUST1327,Sports Cap,Apparel,East,8,399,3192
+6019,2025-05-30,CUST1198,Smart Watch,Electronics,East,5,3499,17495
+6020,2025-05-30,CUST1034,Smart Watch,Electronics,West,6,3499,20994
+6021,2025-05-30,CUST1147,Smart Watch,Electronics,East,8,3499,27992
+6022,2025-05-31,CUST1098,Notebook Pack,Office Supplies,North,4,249,996
+6023,2025-05-31,CUST1159,Bluetooth Speaker,Electronics,South,4,1999,7996
+6024,2025-05-31,CUST1135,Air Fryer,Home & Kitchen,West,2,4499,8998
+6025,2025-06-01,CUST1395,Electric Kettle,Home & Kitchen,North,3,999,2997
+6026,2025-06-01,CUST1383,Ergonomic Chair,Office Supplies,North,8,6999,55992
+6027,2025-06-02,CUST1305,Notebook Pack,Office Supplies,South,3,249,747
+6028,2025-06-02,CUST1028,Running Shoes,Apparel,North,3,2499,7497
+6029,2025-06-02,CUST1167,Wireless Earbuds,Electronics,North,3,1499,4497
+6030,2025-06-02,CUST1054,Laptop Stand,Electronics,South,3,899,2697
+6031,2025-06-02,CUST1344,Electric Kettle,Home & Kitchen,East,4,999,3996
+6032,2025-06-03,CUST1200,Laptop Stand,Electronics,East,7,899,6293
+6033,2025-06-03,CUST1247,Winter Jacket,Apparel,South,1,3299,3299
+6034,2025-06-03,CUST1077,Coffee Maker,Home & Kitchen,South,6,2999,17994
+6035,2025-06-03,CUST1225,Laptop Stand,Electronics,North,1,899,899
+6036,2025-06-04,CUST1338,Notebook Pack,Office Supplies,East,7,249,1743
+6037,2025-06-04,CUST1254,Air Fryer,Home & Kitchen,South,3,4499,13497
+6038,2025-06-04,CUST1256,Ergonomic Chair,Office Supplies,North,1,6999,6999
+6039,2025-06-04,CUST1291,Winter Jacket,Apparel,South,7,3299,23093
+6040,2025-06-04,CUST1296,Desk Organizer,Office Supplies,West,3,799,2397
+6041,2025-06-05,CUST1108,Ergonomic Chair,Office Supplies,East,1,6999,6999
+6042,2025-06-05,CUST1312,Cotton T-Shirt,Apparel,East,6,599,3594
+6043,2025-06-05,CUST1140,Electric Kettle,Home & Kitchen,West,2,999,1998
+6044,2025-06-05,CUST1219,Notebook Pack,Office Supplies,South,2,249,498
+6045,2025-06-06,CUST1360,Sports Cap,Apparel,West,1,399,399
+6046,2025-06-06,CUST1052,USB-C Hub,Electronics,South,7,1299,9093
+6047,2025-06-06,CUST1226,Running Shoes,Apparel,West,5,2499,12495
+6048,2025-06-06,CUST1049,Laptop Stand,Electronics,East,1,899,899
+6049,2025-06-06,CUST1033,Desk Organizer,Office Supplies,South,5,799,3995
+6050,2025-06-07,CUST1393,Denim Jacket,Apparel,West,5,1999,9995
+6051,2025-06-07,CUST1349,Desk Organizer,Office Supplies,West,8,799,6392
+6052,2025-06-07,CUST1347,Wireless Earbuds,Electronics,South,5,1499,7495
+6053,2025-06-07,CUST1180,USB-C Hub,Electronics,South,7,1299,9093
+6054,2025-06-08,CUST1227,Sports Cap,Apparel,North,8,399,3192
+6055,2025-06-08,CUST1017,Wireless Earbuds,Electronics,North,4,1499,5996
+6056,2025-06-08,CUST1367,LED Desk Lamp,Office Supplies,West,2,1199,2398
+6057,2025-06-09,CUST1069,Sports Cap,Apparel,South,2,399,798
+6058,2025-06-09,CUST1172,Electric Kettle,Home & Kitchen,East,3,999,2997
+6059,2025-06-09,CUST1114,Coffee Maker,Home & Kitchen,West,5,2999,14995
+6060,2025-06-09,CUST1082,Running Shoes,Apparel,South,5,2499,12495
+6061,2025-06-10,CUST1108,LED Desk Lamp,Office Supplies,West,2,1199,2398
+6062,2025-06-10,CUST1349,Whiteboard,Office Supplies,East,1,1499,1499
+6063,2025-06-11,CUST1271,Non-Stick Pan Set,Home & Kitchen,West,4,2299,9196
+6064,2025-06-11,CUST1283,Denim Jacket,Apparel,North,6,1999,11994
+6065,2025-06-11,CUST1240,Ergonomic Chair,Office Supplies,South,8,6999,55992
+6066,2025-06-11,CUST1050,Desk Organizer,Office Supplies,East,8,799,6392
+6067,2025-06-11,CUST1048,Denim Jacket,Apparel,East,6,1999,11994
+6068,2025-06-12,CUST1298,Bluetooth Speaker,Electronics,West,5,1999,9995
+6069,2025-06-12,CUST1160,Winter Jacket,Apparel,South,1,3299,3299
+6070,2025-06-12,CUST1063,Denim Jacket,Apparel,West,5,1999,9995
+6071,2025-06-12,CUST1246,Desk Organizer,Office Supplies,East,4,799,3196
+6072,2025-06-12,CUST1309,Blender,Home & Kitchen,South,4,1799,7196
+6073,2025-06-13,CUST1215,Denim Jacket,Apparel,North,1,1999,1999
+6074,2025-06-13,CUST1105,Electric Kettle,Home & Kitchen,North,2,999,1998
+6075,2025-06-13,CUST1051,Air Fryer,Home & Kitchen,East,4,4499,17996
+6076,2025-06-13,CUST1218,Smart Watch,Electronics,North,2,3499,6998
+6077,2025-06-14,CUST1263,Sports Cap,Apparel,North,7,399,2793
+6078,2025-06-14,CUST1006,Sports Cap,Apparel,South,4,399,1596
+6079,2025-06-14,CUST1107,Coffee Maker,Home & Kitchen,North,2,2999,5998
+6080,2025-06-14,CUST1345,Sports Cap,Apparel,East,7,399,2793
+6081,2025-06-15,CUST1056,Wireless Earbuds,Electronics,West,5,1499,7495
+6082,2025-06-15,CUST1338,Non-Stick Pan Set,Home & Kitchen,East,1,2299,2299
+6083,2025-06-15,CUST1319,Wireless Earbuds,Electronics,West,7,1499,10493
+6084,2025-06-15,CUST1282,Blender,Home & Kitchen,East,3,1799,5397
+6085,2025-06-15,CUST1278,Cotton T-Shirt,Apparel,East,3,599,1797
+6086,2025-06-16,CUST1056,Coffee Maker,Home & Kitchen,South,2,2999,5998
+6087,2025-06-16,CUST1286,Blender,Home & Kitchen,North,8,1799,14392
+6088,2025-06-16,CUST1372,Whiteboard,Office Supplies,North,1,1499,1499
+6089,2025-06-17,CUST1387,Ergonomic Chair,Office Supplies,South,1,6999,6999
+6090,2025-06-17,CUST1396,Blender,Home & Kitchen,South,2,1799,3598
+6091,2025-06-17,CUST1219,LED Desk Lamp,Office Supplies,West,6,1199,7194
+6092,2025-06-18,CUST1231,Bluetooth Speaker,Electronics,North,4,1999,7996
+6093,2025-06-18,CUST1101,USB-C Hub,Electronics,South,2,1299,2598
+6094,2025-06-18,CUST1386,Running Shoes,Apparel,East,2,2499,4998
+6095,2025-06-18,CUST1386,Running Shoes,Apparel,West,5,2499,12495
+6096,2025-06-18,CUST1125,USB-C Hub,Electronics,West,3,1299,3897
+6097,2025-06-19,CUST1054,Winter Jacket,Apparel,East,7,3299,23093
+6098,2025-06-19,CUST1254,Electric Kettle,Home & Kitchen,North,2,999,1998
+6099,2025-06-19,CUST1259,Air Fryer,Home & Kitchen,East,1,4499,4499
+6100,2025-06-20,CUST1261,Wireless Earbuds,Electronics,South,7,1499,10493
+6101,2025-06-20,CUST1221,Coffee Maker,Home & Kitchen,South,5,2999,14995
+6102,2025-06-20,CUST1239,Notebook Pack,Office Supplies,South,1,249,249
+6103,2025-06-20,CUST1101,Non-Stick Pan Set,Home & Kitchen,North,7,2299,16093
+6104,2025-06-21,CUST1127,Cotton T-Shirt,Apparel,East,5,599,2995
+6105,2025-06-21,CUST1205,Denim Jacket,Apparel,North,7,1999,13993
+6106,2025-06-22,CUST1036,Bluetooth Speaker,Electronics,North,1,1999,1999
+6107,2025-06-22,CUST1195,Blender,Home & Kitchen,North,8,1799,14392
+6108,2025-06-22,CUST1342,Denim Jacket,Apparel,North,8,1999,15992
+6109,2025-06-22,CUST1301,Desk Organizer,Office Supplies,North,8,799,6392
+6110,2025-06-22,CUST1247,Coffee Maker,Home & Kitchen,North,7,2999,20993
+6111,2025-06-23,CUST1366,Bluetooth Speaker,Electronics,North,2,1999,3998
+6112,2025-06-23,CUST1027,Smart Watch,Electronics,South,4,3499,13996
+6113,2025-06-23,CUST1356,Cotton T-Shirt,Apparel,South,6,599,3594
+6114,2025-06-24,CUST1224,Denim Jacket,Apparel,West,3,1999,5997
+6115,2025-06-24,CUST1278,Bluetooth Speaker,Electronics,North,7,1999,13993
+6116,2025-06-24,CUST1367,Coffee Maker,Home & Kitchen,East,2,2999,5998
+6117,2025-06-24,CUST1343,Laptop Stand,Electronics,North,4,899,3596
+6118,2025-06-24,CUST1181,Bluetooth Speaker,Electronics,North,2,1999,3998
+6119,2025-06-25,CUST1329,Sports Cap,Apparel,West,4,399,1596
+6120,2025-06-25,CUST1247,Sports Cap,Apparel,South,6,399,2394
+6121,2025-06-25,CUST1261,Blender,Home & Kitchen,East,4,1799,7196
+6122,2025-06-25,CUST1257,Sports Cap,Apparel,South,1,399,399
+6123,2025-06-26,CUST1022,LED Desk Lamp,Office Supplies,South,5,1199,5995
+6124,2025-06-26,CUST1399,Running Shoes,Apparel,West,6,2499,14994
+6125,2025-06-26,CUST1278,Ergonomic Chair,Office Supplies,West,5,6999,34995
+6126,2025-06-26,CUST1131,Winter Jacket,Apparel,North,8,3299,26392
+6127,2025-06-26,CUST1183,Denim Jacket,Apparel,West,5,1999,9995
+6128,2025-06-27,CUST1375,Running Shoes,Apparel,East,4,2499,9996
+6129,2025-06-27,CUST1325,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+6130,2025-06-27,CUST1174,Smart Watch,Electronics,North,6,3499,20994
+6131,2025-06-27,CUST1311,Notebook Pack,Office Supplies,West,5,249,1245
+6132,2025-06-27,CUST1241,Blender,Home & Kitchen,East,2,1799,3598
+6133,2025-06-28,CUST1100,Notebook Pack,Office Supplies,East,5,249,1245
+6134,2025-06-28,CUST1173,Notebook Pack,Office Supplies,South,7,249,1743
+6135,2025-06-28,CUST1079,Desk Organizer,Office Supplies,West,6,799,4794
+6136,2025-06-29,CUST1143,Coffee Maker,Home & Kitchen,East,1,2999,2999
+6137,2025-06-29,CUST1088,Blender,Home & Kitchen,North,1,1799,1799
+6138,2025-06-29,CUST1077,Whiteboard,Office Supplies,South,6,1499,8994
+6139,2025-06-30,CUST1261,Smart Watch,Electronics,West,7,3499,24493
+6140,2025-06-30,CUST1199,Running Shoes,Apparel,West,3,2499,7497
+6141,2025-07-01,CUST1389,Smart Watch,Electronics,North,6,3499,20994
+6142,2025-07-01,CUST1319,Denim Jacket,Apparel,North,4,1999,7996
+6143,2025-07-01,CUST1150,Air Fryer,Home & Kitchen,South,2,4499,8998
+6144,2025-07-01,CUST1241,Coffee Maker,Home & Kitchen,South,6,2999,17994
+6145,2025-07-01,CUST1264,Wireless Earbuds,Electronics,East,2,1499,2998
+6146,2025-07-02,CUST1225,Bluetooth Speaker,Electronics,South,5,1999,9995
+6147,2025-07-02,CUST1116,Desk Organizer,Office Supplies,North,2,799,1598
+6148,2025-07-02,CUST1334,Winter Jacket,Apparel,South,7,3299,23093
+6149,2025-07-02,CUST1193,Blender,Home & Kitchen,South,1,1799,1799
+6150,2025-07-02,CUST1397,Cotton T-Shirt,Apparel,West,8,599,4792
+6151,2025-07-03,CUST1236,Wireless Earbuds,Electronics,West,4,1499,5996
+6152,2025-07-03,CUST1280,Electric Kettle,Home & Kitchen,West,7,999,6993
+6153,2025-07-03,CUST1388,Air Fryer,Home & Kitchen,East,8,4499,35992
+6154,2025-07-03,CUST1108,Smart Watch,Electronics,West,1,3499,3499
+6155,2025-07-03,CUST1094,Wireless Earbuds,Electronics,North,6,1499,8994
+6156,2025-07-04,CUST1148,Whiteboard,Office Supplies,West,6,1499,8994
+6157,2025-07-04,CUST1261,Denim Jacket,Apparel,North,8,1999,15992
+6158,2025-07-05,CUST1112,Cotton T-Shirt,Apparel,South,7,599,4193
+6159,2025-07-05,CUST1145,Cotton T-Shirt,Apparel,East,2,599,1198
+6160,2025-07-06,CUST1070,Smart Watch,Electronics,East,6,3499,20994
+6161,2025-07-06,CUST1213,Smart Watch,Electronics,South,1,3499,3499
+6162,2025-07-06,CUST1001,Denim Jacket,Apparel,West,3,1999,5997
+6163,2025-07-06,CUST1184,Electric Kettle,Home & Kitchen,West,7,999,6993
+6164,2025-07-07,CUST1084,Coffee Maker,Home & Kitchen,West,6,2999,17994
+6165,2025-07-07,CUST1112,Wireless Earbuds,Electronics,West,6,1499,8994
+6166,2025-07-07,CUST1279,Notebook Pack,Office Supplies,West,8,249,1992
+6167,2025-07-07,CUST1034,Electric Kettle,Home & Kitchen,South,3,999,2997
+6168,2025-07-08,CUST1359,Sports Cap,Apparel,South,3,399,1197
+6169,2025-07-08,CUST1366,Cotton T-Shirt,Apparel,South,8,599,4792
+6170,2025-07-08,CUST1158,Bluetooth Speaker,Electronics,East,5,1999,9995
+6171,2025-07-09,CUST1290,Non-Stick Pan Set,Home & Kitchen,East,3,2299,6897
+6172,2025-07-09,CUST1281,Winter Jacket,Apparel,West,3,3299,9897
+6173,2025-07-09,CUST1313,Wireless Earbuds,Electronics,North,1,1499,1499
+6174,2025-07-10,CUST1266,Running Shoes,Apparel,South,1,2499,2499
+6175,2025-07-10,CUST1225,USB-C Hub,Electronics,South,2,1299,2598
+6176,2025-07-10,CUST1093,LED Desk Lamp,Office Supplies,South,4,1199,4796
+6177,2025-07-11,CUST1067,Sports Cap,Apparel,North,6,399,2394
+6178,2025-07-11,CUST1011,Running Shoes,Apparel,North,2,2499,4998
+6179,2025-07-11,CUST1343,Bluetooth Speaker,Electronics,East,5,1999,9995
+6180,2025-07-11,CUST1225,Running Shoes,Apparel,South,5,2499,12495
+6181,2025-07-12,CUST1157,Smart Watch,Electronics,South,2,3499,6998
+6182,2025-07-12,CUST1195,LED Desk Lamp,Office Supplies,South,8,1199,9592
+6183,2025-07-13,CUST1143,Ergonomic Chair,Office Supplies,South,5,6999,34995
+6184,2025-07-13,CUST1202,Coffee Maker,Home & Kitchen,East,1,2999,2999
+6185,2025-07-13,CUST1225,Air Fryer,Home & Kitchen,South,6,4499,26994
+6186,2025-07-13,CUST1256,LED Desk Lamp,Office Supplies,East,8,1199,9592
+6187,2025-07-13,CUST1205,USB-C Hub,Electronics,East,4,1299,5196
+6188,2025-07-14,CUST1080,Winter Jacket,Apparel,West,3,3299,9897
+6189,2025-07-14,CUST1259,Ergonomic Chair,Office Supplies,West,4,6999,27996
+6190,2025-07-14,CUST1292,Coffee Maker,Home & Kitchen,East,2,2999,5998
+6191,2025-07-15,CUST1246,Cotton T-Shirt,Apparel,North,5,599,2995
+6192,2025-07-15,CUST1161,LED Desk Lamp,Office Supplies,South,7,1199,8393
+6193,2025-07-15,CUST1070,Smart Watch,Electronics,East,3,3499,10497
+6194,2025-07-15,CUST1347,Blender,Home & Kitchen,North,7,1799,12593
+6195,2025-07-16,CUST1051,Whiteboard,Office Supplies,South,3,1499,4497
+6196,2025-07-16,CUST1162,Ergonomic Chair,Office Supplies,South,4,6999,27996
+6197,2025-07-16,CUST1076,Whiteboard,Office Supplies,East,2,1499,2998
+6198,2025-07-16,CUST1082,Electric Kettle,Home & Kitchen,South,8,999,7992
+6199,2025-07-16,CUST1050,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+6200,2025-07-17,CUST1275,Notebook Pack,Office Supplies,North,7,249,1743
+6201,2025-07-17,CUST1293,Blender,Home & Kitchen,South,3,1799,5397
+6202,2025-07-17,CUST1245,Cotton T-Shirt,Apparel,North,2,599,1198
+6203,2025-07-18,CUST1281,Denim Jacket,Apparel,East,2,1999,3998
+6204,2025-07-18,CUST1101,USB-C Hub,Electronics,North,4,1299,5196
+6205,2025-07-18,CUST1129,Air Fryer,Home & Kitchen,East,2,4499,8998
+6206,2025-07-19,CUST1000,Ergonomic Chair,Office Supplies,East,5,6999,34995
+6207,2025-07-19,CUST1124,Ergonomic Chair,Office Supplies,East,7,6999,48993
+6208,2025-07-19,CUST1058,Bluetooth Speaker,Electronics,North,6,1999,11994
+6209,2025-07-19,CUST1399,Laptop Stand,Electronics,West,1,899,899
+6210,2025-07-20,CUST1160,Blender,Home & Kitchen,North,7,1799,12593
+6211,2025-07-20,CUST1114,LED Desk Lamp,Office Supplies,West,5,1199,5995
+6212,2025-07-20,CUST1346,Notebook Pack,Office Supplies,West,7,249,1743
+6213,2025-07-21,CUST1208,Denim Jacket,Apparel,West,4,1999,7996
+6214,2025-07-21,CUST1236,USB-C Hub,Electronics,South,4,1299,5196
+6215,2025-07-21,CUST1220,Wireless Earbuds,Electronics,East,1,1499,1499
+6216,2025-07-21,CUST1323,Smart Watch,Electronics,West,3,3499,10497
+6217,2025-07-21,CUST1153,Non-Stick Pan Set,Home & Kitchen,South,7,2299,16093
+6218,2025-07-22,CUST1336,Non-Stick Pan Set,Home & Kitchen,North,5,2299,11495
+6219,2025-07-22,CUST1368,Laptop Stand,Electronics,West,6,899,5394
+6220,2025-07-22,CUST1065,Blender,Home & Kitchen,North,1,1799,1799
+6221,2025-07-23,CUST1156,Running Shoes,Apparel,East,3,2499,7497
+6222,2025-07-23,CUST1153,Wireless Earbuds,Electronics,North,1,1499,1499
+6223,2025-07-24,CUST1325,Electric Kettle,Home & Kitchen,West,7,999,6993
+6224,2025-07-24,CUST1153,Wireless Earbuds,Electronics,West,8,1499,11992
+6225,2025-07-24,CUST1222,Whiteboard,Office Supplies,North,4,1499,5996
+6226,2025-07-24,CUST1245,Ergonomic Chair,Office Supplies,East,7,6999,48993
+6227,2025-07-25,CUST1333,Running Shoes,Apparel,North,8,2499,19992
+6228,2025-07-25,CUST1225,Denim Jacket,Apparel,South,7,1999,13993
+6229,2025-07-25,CUST1308,Cotton T-Shirt,Apparel,South,3,599,1797
+6230,2025-07-25,CUST1121,Ergonomic Chair,Office Supplies,East,2,6999,13998
+6231,2025-07-25,CUST1017,Laptop Stand,Electronics,North,8,899,7192
+6232,2025-07-26,CUST1055,Notebook Pack,Office Supplies,North,7,249,1743
+6233,2025-07-26,CUST1192,Sports Cap,Apparel,North,6,399,2394
+6234,2025-07-26,CUST1008,Non-Stick Pan Set,Home & Kitchen,North,1,2299,2299
+6235,2025-07-26,CUST1326,Electric Kettle,Home & Kitchen,South,2,999,1998
+6236,2025-07-27,CUST1070,Electric Kettle,Home & Kitchen,North,5,999,4995
+6237,2025-07-27,CUST1300,Whiteboard,Office Supplies,East,4,1499,5996
+6238,2025-07-28,CUST1278,USB-C Hub,Electronics,North,7,1299,9093
+6239,2025-07-28,CUST1057,Sports Cap,Apparel,North,2,399,798
+6240,2025-07-28,CUST1300,Notebook Pack,Office Supplies,South,5,249,1245
+6241,2025-07-28,CUST1294,Desk Organizer,Office Supplies,South,7,799,5593
+6242,2025-07-29,CUST1153,Winter Jacket,Apparel,East,5,3299,16495
+6243,2025-07-29,CUST1174,Wireless Earbuds,Electronics,West,4,1499,5996
+6244,2025-07-30,CUST1368,Smart Watch,Electronics,East,5,3499,17495
+6245,2025-07-30,CUST1262,Denim Jacket,Apparel,West,5,1999,9995
+6246,2025-07-30,CUST1131,Non-Stick Pan Set,Home & Kitchen,West,4,2299,9196
+6247,2025-07-30,CUST1285,Electric Kettle,Home & Kitchen,South,1,999,999
+6248,2025-07-31,CUST1132,Denim Jacket,Apparel,East,4,1999,7996
+6249,2025-07-31,CUST1365,Whiteboard,Office Supplies,South,2,1499,2998
+6250,2025-08-01,CUST1328,Bluetooth Speaker,Electronics,West,7,1999,13993
+6251,2025-08-01,CUST1200,Bluetooth Speaker,Electronics,West,7,1999,13993
+6252,2025-08-01,CUST1206,Blender,Home & Kitchen,East,7,1799,12593
+6253,2025-08-01,CUST1072,Ergonomic Chair,Office Supplies,West,6,6999,41994
+6254,2025-08-02,CUST1349,Wireless Earbuds,Electronics,South,2,1499,2998
+6255,2025-08-02,CUST1235,Blender,Home & Kitchen,East,8,1799,14392
+6256,2025-08-02,CUST1094,Cotton T-Shirt,Apparel,East,3,599,1797
+6257,2025-08-02,CUST1290,Air Fryer,Home & Kitchen,South,4,4499,17996
+6258,2025-08-02,CUST1268,Desk Organizer,Office Supplies,North,3,799,2397
+6259,2025-08-03,CUST1154,Blender,Home & Kitchen,East,2,1799,3598
+6260,2025-08-03,CUST1006,Denim Jacket,Apparel,West,7,1999,13993
+6261,2025-08-03,CUST1006,Non-Stick Pan Set,Home & Kitchen,West,8,2299,18392
+6262,2025-08-04,CUST1206,Wireless Earbuds,Electronics,South,5,1499,7495
+6263,2025-08-04,CUST1236,Air Fryer,Home & Kitchen,North,7,4499,31493
+6264,2025-08-04,CUST1146,Bluetooth Speaker,Electronics,West,4,1999,7996
+6265,2025-08-04,CUST1063,Smart Watch,Electronics,North,1,3499,3499
+6266,2025-08-04,CUST1204,LED Desk Lamp,Office Supplies,South,3,1199,3597
+6267,2025-08-05,CUST1082,Cotton T-Shirt,Apparel,West,4,599,2396
+6268,2025-08-05,CUST1306,USB-C Hub,Electronics,East,7,1299,9093
+6269,2025-08-05,CUST1024,Blender,Home & Kitchen,East,6,1799,10794
+6270,2025-08-05,CUST1130,Wireless Earbuds,Electronics,East,5,1499,7495
+6271,2025-08-05,CUST1230,Winter Jacket,Apparel,West,8,3299,26392
+6272,2025-08-06,CUST1058,Running Shoes,Apparel,South,4,2499,9996
+6273,2025-08-06,CUST1107,Coffee Maker,Home & Kitchen,South,8,2999,23992
+6274,2025-08-06,CUST1372,Denim Jacket,Apparel,East,8,1999,15992
+6275,2025-08-06,CUST1029,Notebook Pack,Office Supplies,South,3,249,747
+6276,2025-08-06,CUST1231,Notebook Pack,Office Supplies,North,1,249,249
+6277,2025-08-07,CUST1211,Whiteboard,Office Supplies,North,4,1499,5996
+6278,2025-08-07,CUST1121,Air Fryer,Home & Kitchen,West,6,4499,26994
+6279,2025-08-08,CUST1029,Whiteboard,Office Supplies,West,1,1499,1499
+6280,2025-08-08,CUST1103,Running Shoes,Apparel,West,4,2499,9996
+6281,2025-08-08,CUST1048,Running Shoes,Apparel,North,1,2499,2499
+6282,2025-08-08,CUST1191,Whiteboard,Office Supplies,West,2,1499,2998
+6283,2025-08-09,CUST1321,Running Shoes,Apparel,West,5,2499,12495
+6284,2025-08-09,CUST1255,LED Desk Lamp,Office Supplies,North,7,1199,8393
+6285,2025-08-09,CUST1207,Laptop Stand,Electronics,North,2,899,1798
+6286,2025-08-09,CUST1059,Whiteboard,Office Supplies,North,8,1499,11992
+6287,2025-08-09,CUST1340,Running Shoes,Apparel,West,5,2499,12495
+6288,2025-08-10,CUST1295,Ergonomic Chair,Office Supplies,East,8,6999,55992
+6289,2025-08-10,CUST1321,Notebook Pack,Office Supplies,East,1,249,249
+6290,2025-08-11,CUST1290,Sports Cap,Apparel,South,7,399,2793
+6291,2025-08-11,CUST1282,Laptop Stand,Electronics,West,3,899,2697
+6292,2025-08-11,CUST1360,Desk Organizer,Office Supplies,North,5,799,3995
+6293,2025-08-11,CUST1363,Bluetooth Speaker,Electronics,East,1,1999,1999
+6294,2025-08-12,CUST1121,Bluetooth Speaker,Electronics,East,7,1999,13993
+6295,2025-08-12,CUST1314,Electric Kettle,Home & Kitchen,East,3,999,2997
+6296,2025-08-12,CUST1264,Bluetooth Speaker,Electronics,West,7,1999,13993
+6297,2025-08-13,CUST1285,Non-Stick Pan Set,Home & Kitchen,South,5,2299,11495
+6298,2025-08-13,CUST1252,Running Shoes,Apparel,East,1,2499,2499
+6299,2025-08-13,CUST1203,Bluetooth Speaker,Electronics,North,2,1999,3998
+6300,2025-08-13,CUST1079,Cotton T-Shirt,Apparel,North,7,599,4193
+6301,2025-08-14,CUST1297,Sports Cap,Apparel,North,2,399,798
+6302,2025-08-14,CUST1249,LED Desk Lamp,Office Supplies,South,2,1199,2398
+6303,2025-08-14,CUST1117,Coffee Maker,Home & Kitchen,East,1,2999,2999
+6304,2025-08-15,CUST1395,Running Shoes,Apparel,South,8,2499,19992
+6305,2025-08-15,CUST1160,Denim Jacket,Apparel,South,7,1999,13993
+6306,2025-08-16,CUST1309,Desk Organizer,Office Supplies,East,3,799,2397
+6307,2025-08-16,CUST1077,Electric Kettle,Home & Kitchen,East,4,999,3996
+6308,2025-08-16,CUST1398,Wireless Earbuds,Electronics,South,5,1499,7495
+6309,2025-08-17,CUST1379,Cotton T-Shirt,Apparel,North,5,599,2995
+6310,2025-08-17,CUST1226,LED Desk Lamp,Office Supplies,South,2,1199,2398
+6311,2025-08-18,CUST1082,Winter Jacket,Apparel,South,4,3299,13196
+6312,2025-08-18,CUST1341,Wireless Earbuds,Electronics,North,7,1499,10493
+6313,2025-08-19,CUST1339,Coffee Maker,Home & Kitchen,West,1,2999,2999
+6314,2025-08-19,CUST1015,Whiteboard,Office Supplies,North,7,1499,10493
+6315,2025-08-20,CUST1365,Coffee Maker,Home & Kitchen,West,6,2999,17994
+6316,2025-08-20,CUST1358,LED Desk Lamp,Office Supplies,East,3,1199,3597
+6317,2025-08-20,CUST1214,Notebook Pack,Office Supplies,East,5,249,1245
+6318,2025-08-20,CUST1223,Running Shoes,Apparel,South,6,2499,14994
+6319,2025-08-21,CUST1155,Denim Jacket,Apparel,West,7,1999,13993
+6320,2025-08-21,CUST1032,Wireless Earbuds,Electronics,West,8,1499,11992
+6321,2025-08-21,CUST1132,Desk Organizer,Office Supplies,West,7,799,5593
+6322,2025-08-21,CUST1261,Bluetooth Speaker,Electronics,South,7,1999,13993
+6323,2025-08-21,CUST1195,Air Fryer,Home & Kitchen,West,6,4499,26994
+6324,2025-08-22,CUST1200,USB-C Hub,Electronics,North,3,1299,3897
+6325,2025-08-22,CUST1147,Winter Jacket,Apparel,South,6,3299,19794
+6326,2025-08-22,CUST1396,Whiteboard,Office Supplies,East,8,1499,11992
+6327,2025-08-22,CUST1327,Coffee Maker,Home & Kitchen,East,1,2999,2999
+6328,2025-08-22,CUST1274,Notebook Pack,Office Supplies,East,8,249,1992
+6329,2025-08-23,CUST1239,Non-Stick Pan Set,Home & Kitchen,North,7,2299,16093
+6330,2025-08-23,CUST1326,Air Fryer,Home & Kitchen,North,4,4499,17996
+6331,2025-08-23,CUST1212,Winter Jacket,Apparel,South,6,3299,19794
+6332,2025-08-23,CUST1199,Whiteboard,Office Supplies,East,2,1499,2998
+6333,2025-08-24,CUST1298,Smart Watch,Electronics,North,8,3499,27992
+6334,2025-08-24,CUST1323,Desk Organizer,Office Supplies,West,3,799,2397
+6335,2025-08-24,CUST1168,Electric Kettle,Home & Kitchen,West,5,999,4995
+6336,2025-08-25,CUST1019,Winter Jacket,Apparel,West,8,3299,26392
+6337,2025-08-25,CUST1028,Air Fryer,Home & Kitchen,South,6,4499,26994
+6338,2025-08-25,CUST1121,Running Shoes,Apparel,South,8,2499,19992
+6339,2025-08-25,CUST1272,Winter Jacket,Apparel,West,2,3299,6598
+6340,2025-08-25,CUST1341,Wireless Earbuds,Electronics,South,4,1499,5996
+6341,2025-08-26,CUST1185,Ergonomic Chair,Office Supplies,East,2,6999,13998
+6342,2025-08-26,CUST1335,Electric Kettle,Home & Kitchen,East,7,999,6993
+6343,2025-08-27,CUST1249,Wireless Earbuds,Electronics,North,6,1499,8994
+6344,2025-08-27,CUST1190,Laptop Stand,Electronics,East,8,899,7192
+6345,2025-08-27,CUST1239,Blender,Home & Kitchen,South,3,1799,5397
+6346,2025-08-28,CUST1305,Desk Organizer,Office Supplies,South,7,799,5593
+6347,2025-08-28,CUST1185,Bluetooth Speaker,Electronics,East,5,1999,9995
+6348,2025-08-28,CUST1196,Air Fryer,Home & Kitchen,East,4,4499,17996
+6349,2025-08-29,CUST1353,Wireless Earbuds,Electronics,West,7,1499,10493
+6350,2025-08-29,CUST1118,Cotton T-Shirt,Apparel,West,4,599,2396
+6351,2025-08-29,CUST1287,Denim Jacket,Apparel,East,8,1999,15992
+6352,2025-08-29,CUST1005,Winter Jacket,Apparel,North,1,3299,3299
+6353,2025-08-30,CUST1222,Winter Jacket,Apparel,South,4,3299,13196
+6354,2025-08-30,CUST1394,Notebook Pack,Office Supplies,West,4,249,996
+6355,2025-08-30,CUST1355,Winter Jacket,Apparel,North,5,3299,16495
+6356,2025-08-30,CUST1375,Denim Jacket,Apparel,West,4,1999,7996
+6357,2025-08-30,CUST1306,Sports Cap,Apparel,West,3,399,1197
+6358,2025-08-31,CUST1011,Winter Jacket,Apparel,East,2,3299,6598
+6359,2025-08-31,CUST1295,Cotton T-Shirt,Apparel,South,3,599,1797
+6360,2025-08-31,CUST1059,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+6361,2025-09-01,CUST1389,Smart Watch,Electronics,East,7,3499,24493
+6362,2025-09-01,CUST1391,Winter Jacket,Apparel,East,6,3299,19794
+6363,2025-09-01,CUST1169,Running Shoes,Apparel,South,4,2499,9996
+6364,2025-09-02,CUST1175,Non-Stick Pan Set,Home & Kitchen,East,1,2299,2299
+6365,2025-09-02,CUST1262,Cotton T-Shirt,Apparel,North,5,599,2995
+6366,2025-09-02,CUST1059,Coffee Maker,Home & Kitchen,East,6,2999,17994
+6367,2025-09-02,CUST1218,Running Shoes,Apparel,South,5,2499,12495
+6368,2025-09-03,CUST1187,Whiteboard,Office Supplies,East,1,1499,1499
+6369,2025-09-03,CUST1287,Winter Jacket,Apparel,East,3,3299,9897
+6370,2025-09-04,CUST1125,Desk Organizer,Office Supplies,South,5,799,3995
+6371,2025-09-04,CUST1126,Bluetooth Speaker,Electronics,South,1,1999,1999
+6372,2025-09-04,CUST1066,Electric Kettle,Home & Kitchen,South,8,999,7992
+6373,2025-09-04,CUST1340,Winter Jacket,Apparel,East,1,3299,3299
+6374,2025-09-04,CUST1265,Coffee Maker,Home & Kitchen,West,8,2999,23992
+6375,2025-09-05,CUST1043,Smart Watch,Electronics,North,5,3499,17495
+6376,2025-09-05,CUST1076,Running Shoes,Apparel,West,3,2499,7497
+6377,2025-09-05,CUST1192,USB-C Hub,Electronics,South,3,1299,3897
+6378,2025-09-06,CUST1240,Electric Kettle,Home & Kitchen,East,2,999,1998
+6379,2025-09-06,CUST1106,Desk Organizer,Office Supplies,West,6,799,4794
+6380,2025-09-06,CUST1102,Laptop Stand,Electronics,West,4,899,3596
+6381,2025-09-06,CUST1307,Laptop Stand,Electronics,South,2,899,1798
+6382,2025-09-07,CUST1286,Air Fryer,Home & Kitchen,South,6,4499,26994
+6383,2025-09-07,CUST1053,Running Shoes,Apparel,West,1,2499,2499
+6384,2025-09-07,CUST1241,Winter Jacket,Apparel,West,5,3299,16495
+6385,2025-09-07,CUST1096,Cotton T-Shirt,Apparel,North,8,599,4792
+6386,2025-09-08,CUST1346,Bluetooth Speaker,Electronics,East,7,1999,13993
+6387,2025-09-08,CUST1270,Air Fryer,Home & Kitchen,North,1,4499,4499
+6388,2025-09-08,CUST1224,Air Fryer,Home & Kitchen,West,5,4499,22495
+6389,2025-09-09,CUST1270,Laptop Stand,Electronics,East,1,899,899
+6390,2025-09-09,CUST1106,Denim Jacket,Apparel,West,4,1999,7996
+6391,2025-09-09,CUST1325,Coffee Maker,Home & Kitchen,North,5,2999,14995
+6392,2025-09-09,CUST1185,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+6393,2025-09-10,CUST1255,Notebook Pack,Office Supplies,North,1,249,249
+6394,2025-09-10,CUST1394,Ergonomic Chair,Office Supplies,West,8,6999,55992
+6395,2025-09-10,CUST1067,Coffee Maker,Home & Kitchen,West,7,2999,20993
+6396,2025-09-10,CUST1122,Cotton T-Shirt,Apparel,North,2,599,1198
+6397,2025-09-10,CUST1261,Desk Organizer,Office Supplies,North,3,799,2397
+6398,2025-09-11,CUST1168,Air Fryer,Home & Kitchen,North,4,4499,17996
+6399,2025-09-11,CUST1024,Denim Jacket,Apparel,North,7,1999,13993
+6400,2025-09-11,CUST1244,Air Fryer,Home & Kitchen,North,8,4499,35992
+6401,2025-09-12,CUST1073,Desk Organizer,Office Supplies,South,8,799,6392
+6402,2025-09-12,CUST1176,Ergonomic Chair,Office Supplies,North,4,6999,27996
+6403,2025-09-12,CUST1225,Running Shoes,Apparel,South,2,2499,4998
+6404,2025-09-13,CUST1350,Sports Cap,Apparel,South,1,399,399
+6405,2025-09-13,CUST1252,Sports Cap,Apparel,North,7,399,2793
+6406,2025-09-14,CUST1321,Blender,Home & Kitchen,West,7,1799,12593
+6407,2025-09-14,CUST1287,Laptop Stand,Electronics,South,6,899,5394
+6408,2025-09-15,CUST1190,Non-Stick Pan Set,Home & Kitchen,East,5,2299,11495
+6409,2025-09-15,CUST1165,Laptop Stand,Electronics,North,2,899,1798
+6410,2025-09-15,CUST1089,Whiteboard,Office Supplies,West,2,1499,2998
+6411,2025-09-15,CUST1289,Running Shoes,Apparel,South,1,2499,2499
+6412,2025-09-15,CUST1238,Air Fryer,Home & Kitchen,East,6,4499,26994
+6413,2025-09-16,CUST1130,Coffee Maker,Home & Kitchen,West,8,2999,23992
+6414,2025-09-16,CUST1119,Whiteboard,Office Supplies,North,3,1499,4497
+6415,2025-09-17,CUST1074,Smart Watch,Electronics,West,1,3499,3499
+6416,2025-09-17,CUST1370,Ergonomic Chair,Office Supplies,North,8,6999,55992
+6417,2025-09-17,CUST1051,LED Desk Lamp,Office Supplies,South,1,1199,1199
+6418,2025-09-17,CUST1257,Whiteboard,Office Supplies,South,2,1499,2998
+6419,2025-09-18,CUST1293,Desk Organizer,Office Supplies,South,6,799,4794
+6420,2025-09-18,CUST1372,Laptop Stand,Electronics,South,6,899,5394
+6421,2025-09-18,CUST1056,Smart Watch,Electronics,North,5,3499,17495
+6422,2025-09-19,CUST1017,Electric Kettle,Home & Kitchen,East,8,999,7992
+6423,2025-09-19,CUST1087,Smart Watch,Electronics,South,5,3499,17495
+6424,2025-09-19,CUST1130,Electric Kettle,Home & Kitchen,East,5,999,4995
+6425,2025-09-19,CUST1134,Ergonomic Chair,Office Supplies,East,8,6999,55992
+6426,2025-09-19,CUST1300,Electric Kettle,Home & Kitchen,South,4,999,3996
+6427,2025-09-20,CUST1088,Coffee Maker,Home & Kitchen,East,7,2999,20993
+6428,2025-09-20,CUST1202,Winter Jacket,Apparel,West,3,3299,9897
+6429,2025-09-20,CUST1330,Running Shoes,Apparel,West,5,2499,12495
+6430,2025-09-20,CUST1349,Electric Kettle,Home & Kitchen,East,4,999,3996
+6431,2025-09-20,CUST1065,Desk Organizer,Office Supplies,South,6,799,4794
+6432,2025-09-21,CUST1329,Coffee Maker,Home & Kitchen,South,6,2999,17994
+6433,2025-09-21,CUST1095,Running Shoes,Apparel,West,2,2499,4998
+6434,2025-09-21,CUST1055,Running Shoes,Apparel,South,5,2499,12495
+6435,2025-09-21,CUST1149,Desk Organizer,Office Supplies,South,5,799,3995
+6436,2025-09-21,CUST1293,Running Shoes,Apparel,North,1,2499,2499
+6437,2025-09-22,CUST1270,Electric Kettle,Home & Kitchen,East,2,999,1998
+6438,2025-09-22,CUST1250,Ergonomic Chair,Office Supplies,South,6,6999,41994
+6439,2025-09-23,CUST1392,Smart Watch,Electronics,East,2,3499,6998
+6440,2025-09-23,CUST1363,Desk Organizer,Office Supplies,East,2,799,1598
+6441,2025-09-23,CUST1144,Electric Kettle,Home & Kitchen,East,5,999,4995
+6442,2025-09-23,CUST1119,Sports Cap,Apparel,North,1,399,399
+6443,2025-09-23,CUST1179,USB-C Hub,Electronics,West,3,1299,3897
+6444,2025-09-24,CUST1320,Cotton T-Shirt,Apparel,South,3,599,1797
+6445,2025-09-24,CUST1283,Denim Jacket,Apparel,North,3,1999,5997
+6446,2025-09-24,CUST1263,Bluetooth Speaker,Electronics,East,8,1999,15992
+6447,2025-09-24,CUST1297,Electric Kettle,Home & Kitchen,West,8,999,7992
+6448,2025-09-24,CUST1044,Air Fryer,Home & Kitchen,East,1,4499,4499
+6449,2025-09-25,CUST1094,Air Fryer,Home & Kitchen,North,3,4499,13497
+6450,2025-09-25,CUST1259,Cotton T-Shirt,Apparel,North,3,599,1797
+6451,2025-09-25,CUST1163,Ergonomic Chair,Office Supplies,East,3,6999,20997
+6452,2025-09-25,CUST1228,Non-Stick Pan Set,Home & Kitchen,South,7,2299,16093
+6453,2025-09-26,CUST1069,Blender,Home & Kitchen,West,6,1799,10794
+6454,2025-09-26,CUST1044,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+6455,2025-09-26,CUST1290,Notebook Pack,Office Supplies,North,5,249,1245
+6456,2025-09-27,CUST1208,Blender,Home & Kitchen,East,1,1799,1799
+6457,2025-09-27,CUST1361,Wireless Earbuds,Electronics,South,7,1499,10493
+6458,2025-09-28,CUST1383,Running Shoes,Apparel,South,5,2499,12495
+6459,2025-09-28,CUST1175,Smart Watch,Electronics,East,3,3499,10497
+6460,2025-09-28,CUST1173,Whiteboard,Office Supplies,North,5,1499,7495
+6461,2025-09-28,CUST1381,Sports Cap,Apparel,North,6,399,2394
+6462,2025-09-29,CUST1350,Sports Cap,Apparel,West,6,399,2394
+6463,2025-09-29,CUST1070,Winter Jacket,Apparel,East,2,3299,6598
+6464,2025-09-30,CUST1020,Bluetooth Speaker,Electronics,West,1,1999,1999
+6465,2025-09-30,CUST1210,Sports Cap,Apparel,South,2,399,798
+6466,2025-09-30,CUST1348,Coffee Maker,Home & Kitchen,North,3,2999,8997
+6467,2025-09-30,CUST1121,LED Desk Lamp,Office Supplies,North,1,1199,1199
+6468,2025-10-01,CUST1193,Bluetooth Speaker,Electronics,South,3,1999,5997
+6469,2025-10-01,CUST1245,Electric Kettle,Home & Kitchen,West,5,999,4995
+6470,2025-10-01,CUST1155,Bluetooth Speaker,Electronics,East,8,1999,15992
+6471,2025-10-02,CUST1350,Winter Jacket,Apparel,South,8,3299,26392
+6472,2025-10-02,CUST1333,Electric Kettle,Home & Kitchen,East,1,999,999
+6473,2025-10-03,CUST1244,Air Fryer,Home & Kitchen,East,7,4499,31493
+6474,2025-10-03,CUST1332,Sports Cap,Apparel,North,8,399,3192
+6475,2025-10-03,CUST1039,Wireless Earbuds,Electronics,West,2,1499,2998
+6476,2025-10-03,CUST1133,Desk Organizer,Office Supplies,South,8,799,6392
+6477,2025-10-03,CUST1296,Laptop Stand,Electronics,West,5,899,4495
+6478,2025-10-04,CUST1038,Ergonomic Chair,Office Supplies,West,7,6999,48993
+6479,2025-10-04,CUST1364,USB-C Hub,Electronics,East,3,1299,3897
+6480,2025-10-04,CUST1113,Ergonomic Chair,Office Supplies,South,4,6999,27996
+6481,2025-10-04,CUST1205,Blender,Home & Kitchen,North,5,1799,8995
+6482,2025-10-05,CUST1153,Wireless Earbuds,Electronics,West,7,1499,10493
+6483,2025-10-05,CUST1241,Sports Cap,Apparel,South,8,399,3192
+6484,2025-10-05,CUST1020,Desk Organizer,Office Supplies,West,2,799,1598
+6485,2025-10-05,CUST1095,LED Desk Lamp,Office Supplies,East,1,1199,1199
+6486,2025-10-06,CUST1189,Coffee Maker,Home & Kitchen,East,2,2999,5998
+6487,2025-10-06,CUST1178,Running Shoes,Apparel,East,7,2499,17493
+6488,2025-10-06,CUST1367,Smart Watch,Electronics,East,6,3499,20994
+6489,2025-10-06,CUST1011,Denim Jacket,Apparel,South,2,1999,3998
+6490,2025-10-06,CUST1112,LED Desk Lamp,Office Supplies,East,2,1199,2398
+6491,2025-10-07,CUST1273,Denim Jacket,Apparel,West,5,1999,9995
+6492,2025-10-07,CUST1038,Cotton T-Shirt,Apparel,North,5,599,2995
+6493,2025-10-08,CUST1294,USB-C Hub,Electronics,West,5,1299,6495
+6494,2025-10-08,CUST1012,Smart Watch,Electronics,West,5,3499,17495
+6495,2025-10-08,CUST1025,Running Shoes,Apparel,East,1,2499,2499
+6496,2025-10-08,CUST1048,Electric Kettle,Home & Kitchen,West,6,999,5994
+6497,2025-10-09,CUST1073,Cotton T-Shirt,Apparel,North,2,599,1198
+6498,2025-10-09,CUST1091,Whiteboard,Office Supplies,South,5,1499,7495
+6499,2025-10-10,CUST1317,Desk Organizer,Office Supplies,West,4,799,3196
+6500,2025-10-10,CUST1074,Wireless Earbuds,Electronics,North,8,1499,11992
+6501,2025-10-10,CUST1210,Denim Jacket,Apparel,West,5,1999,9995
+6502,2025-10-10,CUST1349,Ergonomic Chair,Office Supplies,North,2,6999,13998
+6503,2025-10-11,CUST1303,Blender,Home & Kitchen,West,3,1799,5397
+6504,2025-10-11,CUST1163,Wireless Earbuds,Electronics,East,1,1499,1499
+6505,2025-10-11,CUST1121,Laptop Stand,Electronics,East,4,899,3596
+6506,2025-10-12,CUST1327,Ergonomic Chair,Office Supplies,North,4,6999,27996
+6507,2025-10-12,CUST1050,Bluetooth Speaker,Electronics,South,8,1999,15992
+6508,2025-10-13,CUST1243,Winter Jacket,Apparel,East,3,3299,9897
+6509,2025-10-13,CUST1165,Whiteboard,Office Supplies,South,7,1499,10493
+6510,2025-10-14,CUST1347,Electric Kettle,Home & Kitchen,North,2,999,1998
+6511,2025-10-14,CUST1053,LED Desk Lamp,Office Supplies,West,2,1199,2398
+6512,2025-10-14,CUST1042,Blender,Home & Kitchen,South,7,1799,12593
+6513,2025-10-14,CUST1351,Whiteboard,Office Supplies,West,3,1499,4497
+6514,2025-10-14,CUST1237,Whiteboard,Office Supplies,South,5,1499,7495
+6515,2025-10-15,CUST1114,Blender,Home & Kitchen,East,4,1799,7196
+6516,2025-10-15,CUST1257,Non-Stick Pan Set,Home & Kitchen,West,8,2299,18392
+6517,2025-10-16,CUST1176,Coffee Maker,Home & Kitchen,South,6,2999,17994
+6518,2025-10-16,CUST1060,Wireless Earbuds,Electronics,East,8,1499,11992
+6519,2025-10-16,CUST1000,Non-Stick Pan Set,Home & Kitchen,West,7,2299,16093
+6520,2025-10-16,CUST1266,USB-C Hub,Electronics,North,7,1299,9093
+6521,2025-10-16,CUST1103,Air Fryer,Home & Kitchen,South,6,4499,26994
+6522,2025-10-17,CUST1332,Denim Jacket,Apparel,East,4,1999,7996
+6523,2025-10-17,CUST1127,Denim Jacket,Apparel,North,6,1999,11994
+6524,2025-10-17,CUST1007,Wireless Earbuds,Electronics,East,2,1499,2998
+6525,2025-10-17,CUST1382,Laptop Stand,Electronics,West,8,899,7192
+6526,2025-10-17,CUST1072,Running Shoes,Apparel,West,1,2499,2499
+6527,2025-10-18,CUST1392,Desk Organizer,Office Supplies,East,8,799,6392
+6528,2025-10-18,CUST1178,Smart Watch,Electronics,East,1,3499,3499
+6529,2025-10-18,CUST1002,Wireless Earbuds,Electronics,West,7,1499,10493
+6530,2025-10-19,CUST1137,Notebook Pack,Office Supplies,North,1,249,249
+6531,2025-10-19,CUST1202,Notebook Pack,Office Supplies,South,4,249,996
+6532,2025-10-20,CUST1352,Sports Cap,Apparel,North,7,399,2793
+6533,2025-10-20,CUST1042,Electric Kettle,Home & Kitchen,North,3,999,2997
+6534,2025-10-21,CUST1174,Coffee Maker,Home & Kitchen,East,7,2999,20993
+6535,2025-10-21,CUST1340,Smart Watch,Electronics,West,3,3499,10497
+6536,2025-10-21,CUST1266,Ergonomic Chair,Office Supplies,East,1,6999,6999
+6537,2025-10-22,CUST1381,Winter Jacket,Apparel,South,8,3299,26392
+6538,2025-10-22,CUST1173,Blender,Home & Kitchen,North,7,1799,12593
+6539,2025-10-22,CUST1039,Non-Stick Pan Set,Home & Kitchen,West,2,2299,4598
+6540,2025-10-23,CUST1248,Smart Watch,Electronics,North,1,3499,3499
+6541,2025-10-23,CUST1105,USB-C Hub,Electronics,North,1,1299,1299
+6542,2025-10-24,CUST1202,Electric Kettle,Home & Kitchen,West,4,999,3996
+6543,2025-10-24,CUST1328,Cotton T-Shirt,Apparel,South,6,599,3594
+6544,2025-10-24,CUST1135,Ergonomic Chair,Office Supplies,West,8,6999,55992
+6545,2025-10-25,CUST1246,Denim Jacket,Apparel,South,5,1999,9995
+6546,2025-10-25,CUST1037,Running Shoes,Apparel,South,2,2499,4998
+6547,2025-10-26,CUST1253,Air Fryer,Home & Kitchen,South,3,4499,13497
+6548,2025-10-26,CUST1187,USB-C Hub,Electronics,East,7,1299,9093
+6549,2025-10-26,CUST1133,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+6550,2025-10-27,CUST1184,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+6551,2025-10-27,CUST1258,Denim Jacket,Apparel,North,5,1999,9995
+6552,2025-10-27,CUST1041,Notebook Pack,Office Supplies,South,8,249,1992
+6553,2025-10-27,CUST1069,Ergonomic Chair,Office Supplies,West,2,6999,13998
+6554,2025-10-28,CUST1094,Wireless Earbuds,Electronics,East,4,1499,5996
+6555,2025-10-28,CUST1336,LED Desk Lamp,Office Supplies,North,1,1199,1199
+6556,2025-10-28,CUST1038,Electric Kettle,Home & Kitchen,East,2,999,1998
+6557,2025-10-28,CUST1059,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+6558,2025-10-28,CUST1133,Desk Organizer,Office Supplies,South,7,799,5593
+6559,2025-10-29,CUST1195,Ergonomic Chair,Office Supplies,East,7,6999,48993
+6560,2025-10-29,CUST1083,Laptop Stand,Electronics,South,3,899,2697
+6561,2025-10-30,CUST1252,Coffee Maker,Home & Kitchen,South,3,2999,8997
+6562,2025-10-30,CUST1075,Coffee Maker,Home & Kitchen,South,7,2999,20993
+6563,2025-10-30,CUST1355,Laptop Stand,Electronics,East,6,899,5394
+6564,2025-10-30,CUST1302,Bluetooth Speaker,Electronics,North,1,1999,1999
+6565,2025-10-31,CUST1053,USB-C Hub,Electronics,North,6,1299,7794
+6566,2025-10-31,CUST1271,Electric Kettle,Home & Kitchen,West,6,999,5994
+6567,2025-11-01,CUST1286,LED Desk Lamp,Office Supplies,West,3,1199,3597
+6568,2025-11-01,CUST1110,Smart Watch,Electronics,South,3,3499,10497
+6569,2025-11-01,CUST1220,Whiteboard,Office Supplies,South,8,1499,11992
+6570,2025-11-01,CUST1218,Air Fryer,Home & Kitchen,West,7,4499,31493
+6571,2025-11-01,CUST1377,Cotton T-Shirt,Apparel,West,5,599,2995
+6572,2025-11-01,CUST1254,Notebook Pack,Office Supplies,West,6,249,1494
+6573,2025-11-02,CUST1152,Ergonomic Chair,Office Supplies,East,2,6999,13998
+6574,2025-11-02,CUST1036,Whiteboard,Office Supplies,North,3,1499,4497
+6575,2025-11-02,CUST1244,Whiteboard,Office Supplies,East,5,1499,7495
+6576,2025-11-03,CUST1234,LED Desk Lamp,Office Supplies,South,1,1199,1199
+6577,2025-11-03,CUST1076,Smart Watch,Electronics,East,6,3499,20994
+6578,2025-11-03,CUST1252,Cotton T-Shirt,Apparel,West,1,599,599
+6579,2025-11-03,CUST1188,Coffee Maker,Home & Kitchen,South,4,2999,11996
+6580,2025-11-03,CUST1066,Desk Organizer,Office Supplies,West,8,799,6392
+6581,2025-11-03,CUST1171,USB-C Hub,Electronics,South,1,1299,1299
+6582,2025-11-04,CUST1213,Smart Watch,Electronics,East,8,3499,27992
+6583,2025-11-04,CUST1103,Winter Jacket,Apparel,East,5,3299,16495
+6584,2025-11-04,CUST1138,Coffee Maker,Home & Kitchen,West,3,2999,8997
+6585,2025-11-04,CUST1107,LED Desk Lamp,Office Supplies,North,8,1199,9592
+6586,2025-11-05,CUST1036,LED Desk Lamp,Office Supplies,East,2,1199,2398
+6587,2025-11-05,CUST1114,Smart Watch,Electronics,West,8,3499,27992
+6588,2025-11-05,CUST1131,Laptop Stand,Electronics,East,3,899,2697
+6589,2025-11-06,CUST1357,Air Fryer,Home & Kitchen,South,4,4499,17996
+6590,2025-11-06,CUST1114,LED Desk Lamp,Office Supplies,South,8,1199,9592
+6591,2025-11-06,CUST1055,Winter Jacket,Apparel,North,7,3299,23093
+6592,2025-11-06,CUST1054,Denim Jacket,Apparel,East,5,1999,9995
+6593,2025-11-06,CUST1122,Smart Watch,Electronics,South,3,3499,10497
+6594,2025-11-06,CUST1004,Ergonomic Chair,Office Supplies,West,3,6999,20997
+6595,2025-11-06,CUST1158,Electric Kettle,Home & Kitchen,East,5,999,4995
+6596,2025-11-07,CUST1117,Winter Jacket,Apparel,North,7,3299,23093
+6597,2025-11-07,CUST1131,Winter Jacket,Apparel,South,2,3299,6598
+6598,2025-11-07,CUST1230,Coffee Maker,Home & Kitchen,South,3,2999,8997
+6599,2025-11-08,CUST1265,Winter Jacket,Apparel,East,7,3299,23093
+6600,2025-11-08,CUST1143,Coffee Maker,Home & Kitchen,South,7,2999,20993
+6601,2025-11-08,CUST1048,USB-C Hub,Electronics,West,2,1299,2598
+6602,2025-11-09,CUST1379,Ergonomic Chair,Office Supplies,South,2,6999,13998
+6603,2025-11-09,CUST1165,Coffee Maker,Home & Kitchen,North,2,2999,5998
+6604,2025-11-09,CUST1050,Laptop Stand,Electronics,East,1,899,899
+6605,2025-11-10,CUST1167,Laptop Stand,Electronics,West,2,899,1798
+6606,2025-11-10,CUST1204,Running Shoes,Apparel,North,2,2499,4998
+6607,2025-11-10,CUST1134,Running Shoes,Apparel,South,1,2499,2499
+6608,2025-11-10,CUST1320,Cotton T-Shirt,Apparel,North,8,599,4792
+6609,2025-11-11,CUST1110,Notebook Pack,Office Supplies,South,3,249,747
+6610,2025-11-11,CUST1319,USB-C Hub,Electronics,South,1,1299,1299
+6611,2025-11-11,CUST1134,Wireless Earbuds,Electronics,South,5,1499,7495
+6612,2025-11-11,CUST1172,Air Fryer,Home & Kitchen,North,4,4499,17996
+6613,2025-11-12,CUST1314,Electric Kettle,Home & Kitchen,South,7,999,6993
+6614,2025-11-12,CUST1113,Wireless Earbuds,Electronics,North,3,1499,4497
+6615,2025-11-12,CUST1147,Wireless Earbuds,Electronics,North,5,1499,7495
+6616,2025-11-13,CUST1016,Desk Organizer,Office Supplies,West,4,799,3196
+6617,2025-11-13,CUST1029,USB-C Hub,Electronics,West,6,1299,7794
+6618,2025-11-13,CUST1308,Whiteboard,Office Supplies,West,7,1499,10493
+6619,2025-11-13,CUST1298,Air Fryer,Home & Kitchen,East,8,4499,35992
+6620,2025-11-13,CUST1259,Bluetooth Speaker,Electronics,North,5,1999,9995
+6621,2025-11-13,CUST1239,Sports Cap,Apparel,West,2,399,798
+6622,2025-11-13,CUST1066,Running Shoes,Apparel,East,1,2499,2499
+6623,2025-11-14,CUST1182,Whiteboard,Office Supplies,South,6,1499,8994
+6624,2025-11-14,CUST1347,Denim Jacket,Apparel,East,6,1999,11994
+6625,2025-11-14,CUST1300,Blender,Home & Kitchen,North,1,1799,1799
+6626,2025-11-14,CUST1315,Smart Watch,Electronics,East,8,3499,27992
+6627,2025-11-15,CUST1186,Denim Jacket,Apparel,West,4,1999,7996
+6628,2025-11-15,CUST1059,Laptop Stand,Electronics,North,4,899,3596
+6629,2025-11-15,CUST1327,Running Shoes,Apparel,East,8,2499,19992
+6630,2025-11-15,CUST1240,LED Desk Lamp,Office Supplies,West,1,1199,1199
+6631,2025-11-15,CUST1237,Cotton T-Shirt,Apparel,North,1,599,599
+6632,2025-11-15,CUST1164,Whiteboard,Office Supplies,North,6,1499,8994
+6633,2025-11-16,CUST1260,USB-C Hub,Electronics,North,8,1299,10392
+6634,2025-11-16,CUST1044,Denim Jacket,Apparel,South,7,1999,13993
+6635,2025-11-16,CUST1305,Smart Watch,Electronics,West,2,3499,6998
+6636,2025-11-16,CUST1231,Wireless Earbuds,Electronics,West,1,1499,1499
+6637,2025-11-17,CUST1347,Smart Watch,Electronics,North,2,3499,6998
+6638,2025-11-17,CUST1137,Coffee Maker,Home & Kitchen,North,8,2999,23992
+6639,2025-11-17,CUST1093,Desk Organizer,Office Supplies,South,6,799,4794
+6640,2025-11-17,CUST1285,Wireless Earbuds,Electronics,North,8,1499,11992
+6641,2025-11-18,CUST1076,Denim Jacket,Apparel,East,8,1999,15992
+6642,2025-11-18,CUST1393,Bluetooth Speaker,Electronics,South,2,1999,3998
+6643,2025-11-18,CUST1184,USB-C Hub,Electronics,West,8,1299,10392
+6644,2025-11-19,CUST1252,Denim Jacket,Apparel,South,6,1999,11994
+6645,2025-11-19,CUST1235,Cotton T-Shirt,Apparel,South,5,599,2995
+6646,2025-11-19,CUST1082,Desk Organizer,Office Supplies,South,3,799,2397
+6647,2025-11-20,CUST1034,Desk Organizer,Office Supplies,West,5,799,3995
+6648,2025-11-20,CUST1395,Notebook Pack,Office Supplies,East,5,249,1245
+6649,2025-11-20,CUST1248,Wireless Earbuds,Electronics,North,3,1499,4497
+6650,2025-11-20,CUST1246,Running Shoes,Apparel,West,4,2499,9996
+6651,2025-11-20,CUST1065,Air Fryer,Home & Kitchen,West,5,4499,22495
+6652,2025-11-20,CUST1252,Running Shoes,Apparel,West,3,2499,7497
+6653,2025-11-21,CUST1020,Smart Watch,Electronics,West,5,3499,17495
+6654,2025-11-21,CUST1250,Smart Watch,Electronics,South,4,3499,13996
+6655,2025-11-21,CUST1333,Winter Jacket,Apparel,North,3,3299,9897
+6656,2025-11-21,CUST1130,Cotton T-Shirt,Apparel,South,1,599,599
+6657,2025-11-21,CUST1284,Desk Organizer,Office Supplies,East,2,799,1598
+6658,2025-11-21,CUST1279,Winter Jacket,Apparel,West,8,3299,26392
+6659,2025-11-21,CUST1037,Wireless Earbuds,Electronics,East,3,1499,4497
+6660,2025-11-22,CUST1343,Desk Organizer,Office Supplies,South,1,799,799
+6661,2025-11-22,CUST1141,Running Shoes,Apparel,East,4,2499,9996
+6662,2025-11-22,CUST1148,Wireless Earbuds,Electronics,East,2,1499,2998
+6663,2025-11-23,CUST1141,Ergonomic Chair,Office Supplies,East,1,6999,6999
+6664,2025-11-23,CUST1199,Air Fryer,Home & Kitchen,South,7,4499,31493
+6665,2025-11-23,CUST1269,Sports Cap,Apparel,East,6,399,2394
+6666,2025-11-24,CUST1252,Air Fryer,Home & Kitchen,North,2,4499,8998
+6667,2025-11-24,CUST1007,Blender,Home & Kitchen,West,4,1799,7196
+6668,2025-11-24,CUST1287,Air Fryer,Home & Kitchen,East,3,4499,13497
+6669,2025-11-24,CUST1181,Blender,Home & Kitchen,South,4,1799,7196
+6670,2025-11-24,CUST1173,LED Desk Lamp,Office Supplies,South,2,1199,2398
+6671,2025-11-24,CUST1148,Winter Jacket,Apparel,South,8,3299,26392
+6672,2025-11-25,CUST1167,Wireless Earbuds,Electronics,West,2,1499,2998
+6673,2025-11-25,CUST1187,Blender,Home & Kitchen,West,2,1799,3598
+6674,2025-11-25,CUST1283,Non-Stick Pan Set,Home & Kitchen,West,5,2299,11495
+6675,2025-11-26,CUST1271,Coffee Maker,Home & Kitchen,South,2,2999,5998
+6676,2025-11-26,CUST1030,Whiteboard,Office Supplies,North,7,1499,10493
+6677,2025-11-26,CUST1133,Air Fryer,Home & Kitchen,South,7,4499,31493
+6678,2025-11-26,CUST1364,Laptop Stand,Electronics,West,7,899,6293
+6679,2025-11-26,CUST1031,Winter Jacket,Apparel,East,4,3299,13196
+6680,2025-11-26,CUST1099,Electric Kettle,Home & Kitchen,East,6,999,5994
+6681,2025-11-26,CUST1092,Smart Watch,Electronics,East,5,3499,17495
+6682,2025-11-27,CUST1143,Blender,Home & Kitchen,North,8,1799,14392
+6683,2025-11-27,CUST1114,Desk Organizer,Office Supplies,East,8,799,6392
+6684,2025-11-27,CUST1215,Sports Cap,Apparel,West,2,399,798
+6685,2025-11-27,CUST1075,Running Shoes,Apparel,West,6,2499,14994
+6686,2025-11-27,CUST1338,Electric Kettle,Home & Kitchen,South,6,999,5994
+6687,2025-11-27,CUST1093,Coffee Maker,Home & Kitchen,South,8,2999,23992
+6688,2025-11-27,CUST1042,Electric Kettle,Home & Kitchen,East,2,999,1998
+6689,2025-11-28,CUST1378,LED Desk Lamp,Office Supplies,West,2,1199,2398
+6690,2025-11-28,CUST1059,Winter Jacket,Apparel,East,2,3299,6598
+6691,2025-11-28,CUST1191,Laptop Stand,Electronics,North,5,899,4495
+6692,2025-11-28,CUST1010,Sports Cap,Apparel,East,4,399,1596
+6693,2025-11-28,CUST1191,Air Fryer,Home & Kitchen,South,8,4499,35992
+6694,2025-11-28,CUST1066,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+6695,2025-11-28,CUST1317,Cotton T-Shirt,Apparel,East,6,599,3594
+6696,2025-11-29,CUST1341,Non-Stick Pan Set,Home & Kitchen,South,8,2299,18392
+6697,2025-11-29,CUST1143,Denim Jacket,Apparel,North,7,1999,13993
+6698,2025-11-29,CUST1021,Sports Cap,Apparel,East,2,399,798
+6699,2025-11-29,CUST1029,Coffee Maker,Home & Kitchen,East,2,2999,5998
+6700,2025-11-29,CUST1192,Non-Stick Pan Set,Home & Kitchen,South,3,2299,6897
+6701,2025-11-29,CUST1118,Denim Jacket,Apparel,North,4,1999,7996
+6702,2025-11-29,CUST1362,Air Fryer,Home & Kitchen,North,8,4499,35992
+6703,2025-11-30,CUST1163,USB-C Hub,Electronics,West,7,1299,9093
+6704,2025-11-30,CUST1197,Laptop Stand,Electronics,North,6,899,5394
+6705,2025-11-30,CUST1395,Smart Watch,Electronics,South,7,3499,24493
+6706,2025-11-30,CUST1276,USB-C Hub,Electronics,South,1,1299,1299
+6707,2025-11-30,CUST1199,Coffee Maker,Home & Kitchen,North,1,2999,2999
+6708,2025-11-30,CUST1287,Coffee Maker,Home & Kitchen,North,7,2999,20993
+6709,2025-12-01,CUST1021,Laptop Stand,Electronics,West,4,899,3596
+6710,2025-12-01,CUST1062,Notebook Pack,Office Supplies,South,7,249,1743
+6711,2025-12-01,CUST1112,USB-C Hub,Electronics,West,1,1299,1299
+6712,2025-12-01,CUST1353,Ergonomic Chair,Office Supplies,West,8,6999,55992
+6713,2025-12-02,CUST1239,LED Desk Lamp,Office Supplies,East,1,1199,1199
+6714,2025-12-02,CUST1133,Desk Organizer,Office Supplies,South,8,799,6392
+6715,2025-12-02,CUST1173,Wireless Earbuds,Electronics,South,1,1499,1499
+6716,2025-12-03,CUST1221,Whiteboard,Office Supplies,East,4,1499,5996
+6717,2025-12-03,CUST1237,Wireless Earbuds,Electronics,South,2,1499,2998
+6718,2025-12-03,CUST1302,Air Fryer,Home & Kitchen,North,4,4499,17996
+6719,2025-12-03,CUST1385,Bluetooth Speaker,Electronics,East,7,1999,13993
+6720,2025-12-03,CUST1375,USB-C Hub,Electronics,East,2,1299,2598
+6721,2025-12-03,CUST1210,Whiteboard,Office Supplies,South,3,1499,4497
+6722,2025-12-03,CUST1278,Laptop Stand,Electronics,North,8,899,7192
+6723,2025-12-04,CUST1269,Running Shoes,Apparel,North,3,2499,7497
+6724,2025-12-04,CUST1245,Winter Jacket,Apparel,South,3,3299,9897
+6725,2025-12-04,CUST1171,Ergonomic Chair,Office Supplies,South,4,6999,27996
+6726,2025-12-04,CUST1254,Whiteboard,Office Supplies,East,7,1499,10493
+6727,2025-12-04,CUST1114,Laptop Stand,Electronics,West,8,899,7192
+6728,2025-12-04,CUST1339,Whiteboard,Office Supplies,East,8,1499,11992
+6729,2025-12-05,CUST1279,Blender,Home & Kitchen,East,5,1799,8995
+6730,2025-12-05,CUST1047,Coffee Maker,Home & Kitchen,North,4,2999,11996
+6731,2025-12-05,CUST1264,Denim Jacket,Apparel,North,3,1999,5997
+6732,2025-12-06,CUST1089,Sports Cap,Apparel,East,5,399,1995
+6733,2025-12-06,CUST1305,Non-Stick Pan Set,Home & Kitchen,South,2,2299,4598
+6734,2025-12-06,CUST1331,USB-C Hub,Electronics,North,2,1299,2598
+6735,2025-12-07,CUST1398,Sports Cap,Apparel,South,3,399,1197
+6736,2025-12-07,CUST1360,Ergonomic Chair,Office Supplies,North,3,6999,20997
+6737,2025-12-07,CUST1019,USB-C Hub,Electronics,West,5,1299,6495
+6738,2025-12-07,CUST1391,LED Desk Lamp,Office Supplies,North,5,1199,5995
+6739,2025-12-07,CUST1135,USB-C Hub,Electronics,West,8,1299,10392
+6740,2025-12-07,CUST1086,USB-C Hub,Electronics,South,8,1299,10392
+6741,2025-12-07,CUST1373,Air Fryer,Home & Kitchen,East,6,4499,26994
+6742,2025-12-08,CUST1017,Coffee Maker,Home & Kitchen,North,1,2999,2999
+6743,2025-12-08,CUST1003,Coffee Maker,Home & Kitchen,East,2,2999,5998
+6744,2025-12-08,CUST1043,Blender,Home & Kitchen,East,8,1799,14392
+6745,2025-12-09,CUST1252,Winter Jacket,Apparel,North,2,3299,6598
+6746,2025-12-09,CUST1120,Non-Stick Pan Set,Home & Kitchen,North,3,2299,6897
+6747,2025-12-09,CUST1063,Coffee Maker,Home & Kitchen,East,4,2999,11996
+6748,2025-12-09,CUST1166,Blender,Home & Kitchen,North,2,1799,3598
+6749,2025-12-10,CUST1146,Running Shoes,Apparel,East,6,2499,14994
+6750,2025-12-10,CUST1071,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+6751,2025-12-10,CUST1323,Running Shoes,Apparel,South,5,2499,12495
+6752,2025-12-10,CUST1244,Smart Watch,Electronics,North,8,3499,27992
+6753,2025-12-10,CUST1132,USB-C Hub,Electronics,South,5,1299,6495
+6754,2025-12-10,CUST1118,Ergonomic Chair,Office Supplies,South,8,6999,55992
+6755,2025-12-11,CUST1283,Smart Watch,Electronics,East,1,3499,3499
+6756,2025-12-11,CUST1240,USB-C Hub,Electronics,West,5,1299,6495
+6757,2025-12-11,CUST1254,Notebook Pack,Office Supplies,South,3,249,747
+6758,2025-12-11,CUST1204,Cotton T-Shirt,Apparel,North,1,599,599
+6759,2025-12-11,CUST1016,Smart Watch,Electronics,South,4,3499,13996
+6760,2025-12-11,CUST1293,Whiteboard,Office Supplies,East,3,1499,4497
+6761,2025-12-12,CUST1133,LED Desk Lamp,Office Supplies,South,8,1199,9592
+6762,2025-12-12,CUST1352,Blender,Home & Kitchen,East,2,1799,3598
+6763,2025-12-12,CUST1227,Electric Kettle,Home & Kitchen,North,5,999,4995
+6764,2025-12-12,CUST1239,Ergonomic Chair,Office Supplies,East,1,6999,6999
+6765,2025-12-12,CUST1232,Smart Watch,Electronics,East,3,3499,10497
+6766,2025-12-12,CUST1065,Smart Watch,Electronics,West,5,3499,17495
+6767,2025-12-12,CUST1340,Desk Organizer,Office Supplies,West,6,799,4794
+6768,2025-12-13,CUST1371,Wireless Earbuds,Electronics,North,5,1499,7495
+6769,2025-12-13,CUST1127,Notebook Pack,Office Supplies,North,4,249,996
+6770,2025-12-13,CUST1371,Sports Cap,Apparel,North,1,399,399
+6771,2025-12-14,CUST1065,Blender,Home & Kitchen,South,6,1799,10794
+6772,2025-12-14,CUST1068,LED Desk Lamp,Office Supplies,South,2,1199,2398
+6773,2025-12-14,CUST1007,Non-Stick Pan Set,Home & Kitchen,North,1,2299,2299
+6774,2025-12-15,CUST1383,Ergonomic Chair,Office Supplies,East,3,6999,20997
+6775,2025-12-15,CUST1315,Cotton T-Shirt,Apparel,North,7,599,4193
+6776,2025-12-15,CUST1336,Cotton T-Shirt,Apparel,East,7,599,4193
+6777,2025-12-16,CUST1147,Bluetooth Speaker,Electronics,North,6,1999,11994
+6778,2025-12-16,CUST1244,Running Shoes,Apparel,North,5,2499,12495
+6779,2025-12-16,CUST1067,Desk Organizer,Office Supplies,West,8,799,6392
+6780,2025-12-16,CUST1094,Cotton T-Shirt,Apparel,East,2,599,1198
+6781,2025-12-16,CUST1360,Bluetooth Speaker,Electronics,South,6,1999,11994
+6782,2025-12-16,CUST1147,USB-C Hub,Electronics,East,5,1299,6495
+6783,2025-12-17,CUST1257,Bluetooth Speaker,Electronics,South,1,1999,1999
+6784,2025-12-17,CUST1063,Winter Jacket,Apparel,South,6,3299,19794
+6785,2025-12-17,CUST1357,Bluetooth Speaker,Electronics,North,2,1999,3998
+6786,2025-12-17,CUST1121,USB-C Hub,Electronics,West,5,1299,6495
+6787,2025-12-17,CUST1241,Laptop Stand,Electronics,North,1,899,899
+6788,2025-12-17,CUST1064,Smart Watch,Electronics,South,1,3499,3499
+6789,2025-12-17,CUST1384,Laptop Stand,Electronics,South,5,899,4495
+6790,2025-12-18,CUST1108,Non-Stick Pan Set,Home & Kitchen,West,7,2299,16093
+6791,2025-12-18,CUST1317,Air Fryer,Home & Kitchen,East,4,4499,17996
+6792,2025-12-18,CUST1142,LED Desk Lamp,Office Supplies,East,4,1199,4796
+6793,2025-12-18,CUST1200,Non-Stick Pan Set,Home & Kitchen,North,3,2299,6897
+6794,2025-12-18,CUST1235,Electric Kettle,Home & Kitchen,North,8,999,7992
+6795,2025-12-18,CUST1022,USB-C Hub,Electronics,North,7,1299,9093
+6796,2025-12-18,CUST1160,Smart Watch,Electronics,West,5,3499,17495
+6797,2025-12-19,CUST1237,Non-Stick Pan Set,Home & Kitchen,East,4,2299,9196
+6798,2025-12-19,CUST1081,Cotton T-Shirt,Apparel,East,5,599,2995
+6799,2025-12-19,CUST1163,LED Desk Lamp,Office Supplies,North,3,1199,3597
+6800,2025-12-19,CUST1224,LED Desk Lamp,Office Supplies,West,6,1199,7194
+6801,2025-12-19,CUST1200,Winter Jacket,Apparel,West,6,3299,19794
+6802,2025-12-19,CUST1003,Blender,Home & Kitchen,South,1,1799,1799
+6803,2025-12-20,CUST1340,Cotton T-Shirt,Apparel,South,8,599,4792
+6804,2025-12-20,CUST1115,Ergonomic Chair,Office Supplies,West,4,6999,27996
+6805,2025-12-20,CUST1141,Running Shoes,Apparel,East,1,2499,2499
+6806,2025-12-20,CUST1127,Blender,Home & Kitchen,East,7,1799,12593
+6807,2025-12-21,CUST1026,Wireless Earbuds,Electronics,South,2,1499,2998
+6808,2025-12-21,CUST1316,Winter Jacket,Apparel,South,2,3299,6598
+6809,2025-12-21,CUST1127,Coffee Maker,Home & Kitchen,South,4,2999,11996
+6810,2025-12-21,CUST1108,Wireless Earbuds,Electronics,North,4,1499,5996
+6811,2025-12-22,CUST1078,Wireless Earbuds,Electronics,East,2,1499,2998
+6812,2025-12-22,CUST1195,Coffee Maker,Home & Kitchen,North,5,2999,14995
+6813,2025-12-22,CUST1172,Wireless Earbuds,Electronics,East,1,1499,1499
+6814,2025-12-22,CUST1259,Wireless Earbuds,Electronics,South,4,1499,5996
+6815,2025-12-23,CUST1079,Denim Jacket,Apparel,North,3,1999,5997
+6816,2025-12-23,CUST1373,USB-C Hub,Electronics,West,5,1299,6495
+6817,2025-12-23,CUST1101,Electric Kettle,Home & Kitchen,North,5,999,4995
+6818,2025-12-23,CUST1355,Laptop Stand,Electronics,East,8,899,7192
+6819,2025-12-23,CUST1265,Bluetooth Speaker,Electronics,East,3,1999,5997
+6820,2025-12-23,CUST1393,LED Desk Lamp,Office Supplies,West,8,1199,9592
+6821,2025-12-23,CUST1211,Bluetooth Speaker,Electronics,West,4,1999,7996
+6822,2025-12-24,CUST1159,Notebook Pack,Office Supplies,South,4,249,996
+6823,2025-12-24,CUST1043,Ergonomic Chair,Office Supplies,South,4,6999,27996
+6824,2025-12-24,CUST1085,Laptop Stand,Electronics,West,8,899,7192
+6825,2025-12-24,CUST1015,Smart Watch,Electronics,North,3,3499,10497
+6826,2025-12-24,CUST1386,Desk Organizer,Office Supplies,South,3,799,2397
+6827,2025-12-24,CUST1097,Electric Kettle,Home & Kitchen,South,2,999,1998
+6828,2025-12-25,CUST1327,Winter Jacket,Apparel,East,7,3299,23093
+6829,2025-12-25,CUST1006,Smart Watch,Electronics,North,6,3499,20994
+6830,2025-12-25,CUST1370,Smart Watch,Electronics,West,2,3499,6998
+6831,2025-12-25,CUST1325,USB-C Hub,Electronics,North,6,1299,7794
+6832,2025-12-25,CUST1112,Coffee Maker,Home & Kitchen,South,7,2999,20993
+6833,2025-12-25,CUST1195,Blender,Home & Kitchen,South,7,1799,12593
+6834,2025-12-26,CUST1011,Laptop Stand,Electronics,North,2,899,1798
+6835,2025-12-26,CUST1153,Coffee Maker,Home & Kitchen,North,6,2999,17994
+6836,2025-12-26,CUST1098,Air Fryer,Home & Kitchen,North,4,4499,17996
+6837,2025-12-27,CUST1365,Wireless Earbuds,Electronics,West,6,1499,8994
+6838,2025-12-27,CUST1040,USB-C Hub,Electronics,South,2,1299,2598
+6839,2025-12-27,CUST1123,Laptop Stand,Electronics,North,6,899,5394
+6840,2025-12-27,CUST1131,Running Shoes,Apparel,West,7,2499,17493
+6841,2025-12-27,CUST1028,Sports Cap,Apparel,West,7,399,2793
+6842,2025-12-27,CUST1054,Laptop Stand,Electronics,South,7,899,6293
+6843,2025-12-27,CUST1195,Winter Jacket,Apparel,North,1,3299,3299
+6844,2025-12-28,CUST1008,Electric Kettle,Home & Kitchen,South,4,999,3996
+6845,2025-12-28,CUST1377,Blender,Home & Kitchen,East,2,1799,3598
+6846,2025-12-28,CUST1179,Wireless Earbuds,Electronics,North,2,1499,2998
+6847,2025-12-28,CUST1096,Notebook Pack,Office Supplies,North,6,249,1494
+6848,2025-12-29,CUST1006,Air Fryer,Home & Kitchen,North,7,4499,31493
+6849,2025-12-29,CUST1110,Ergonomic Chair,Office Supplies,East,5,6999,34995
+6850,2025-12-29,CUST1214,Blender,Home & Kitchen,West,8,1799,14392
+6851,2025-12-29,CUST1291,Bluetooth Speaker,Electronics,North,5,1999,9995
+6852,2025-12-29,CUST1281,Non-Stick Pan Set,Home & Kitchen,East,8,2299,18392
+6853,2025-12-29,CUST1002,Whiteboard,Office Supplies,South,5,1499,7495
+6854,2025-12-30,CUST1134,Laptop Stand,Electronics,East,7,899,6293
+6855,2025-12-30,CUST1214,Electric Kettle,Home & Kitchen,East,3,999,2997
+6856,2025-12-30,CUST1171,Denim Jacket,Apparel,West,7,1999,13993
+6857,2025-12-30,CUST1067,Running Shoes,Apparel,South,8,2499,19992
+6858,2025-12-31,CUST1365,Bluetooth Speaker,Electronics,West,3,1999,5997
+6859,2025-12-31,CUST1310,Desk Organizer,Office Supplies,North,5,799,3995
+6860,2025-12-31,CUST1120,Electric Kettle,Home & Kitchen,South,6,999,5994
+6861,2026-01-01,CUST1170,Laptop Stand,Electronics,West,1,899,899
+6862,2026-01-01,CUST1171,Winter Jacket,Apparel,West,4,3299,13196
+6863,2026-01-02,CUST1251,Coffee Maker,Home & Kitchen,East,6,2999,17994
+6864,2026-01-02,CUST1115,Notebook Pack,Office Supplies,West,1,249,249
+6865,2026-01-02,CUST1325,Notebook Pack,Office Supplies,West,7,249,1743
+6866,2026-01-02,CUST1356,Notebook Pack,Office Supplies,North,6,249,1494
+6867,2026-01-03,CUST1139,Laptop Stand,Electronics,South,8,899,7192
+6868,2026-01-03,CUST1136,Denim Jacket,Apparel,South,6,1999,11994
+6869,2026-01-03,CUST1009,Sports Cap,Apparel,East,4,399,1596
+6870,2026-01-04,CUST1100,Cotton T-Shirt,Apparel,North,4,599,2396
+6871,2026-01-04,CUST1111,Laptop Stand,Electronics,West,3,899,2697
+6872,2026-01-05,CUST1376,Ergonomic Chair,Office Supplies,West,3,6999,20997
+6873,2026-01-05,CUST1033,Smart Watch,Electronics,South,8,3499,27992
+6874,2026-01-06,CUST1356,Non-Stick Pan Set,Home & Kitchen,South,5,2299,11495
+6875,2026-01-06,CUST1304,Blender,Home & Kitchen,West,4,1799,7196
+6876,2026-01-07,CUST1248,Running Shoes,Apparel,North,2,2499,4998
+6877,2026-01-07,CUST1220,Electric Kettle,Home & Kitchen,South,1,999,999
+6878,2026-01-08,CUST1173,Denim Jacket,Apparel,West,6,1999,11994
+6879,2026-01-08,CUST1032,Smart Watch,Electronics,East,1,3499,3499
+6880,2026-01-09,CUST1113,USB-C Hub,Electronics,East,3,1299,3897
+6881,2026-01-09,CUST1231,USB-C Hub,Electronics,East,8,1299,10392
+6882,2026-01-09,CUST1135,Wireless Earbuds,Electronics,North,8,1499,11992
+6883,2026-01-10,CUST1130,Cotton T-Shirt,Apparel,West,8,599,4792
+6884,2026-01-10,CUST1172,Ergonomic Chair,Office Supplies,East,1,6999,6999
+6885,2026-01-10,CUST1103,Desk Organizer,Office Supplies,South,1,799,799
+6886,2026-01-10,CUST1168,Blender,Home & Kitchen,South,8,1799,14392
+6887,2026-01-11,CUST1066,Denim Jacket,Apparel,West,7,1999,13993
+6888,2026-01-11,CUST1269,Winter Jacket,Apparel,South,5,3299,16495
+6889,2026-01-12,CUST1203,USB-C Hub,Electronics,North,8,1299,10392
+6890,2026-01-12,CUST1009,Bluetooth Speaker,Electronics,South,4,1999,7996
+6891,2026-01-13,CUST1001,Coffee Maker,Home & Kitchen,West,8,2999,23992
+6892,2026-01-13,CUST1204,Laptop Stand,Electronics,North,6,899,5394
+6893,2026-01-13,CUST1059,Coffee Maker,Home & Kitchen,West,3,2999,8997
+6894,2026-01-13,CUST1212,Smart Watch,Electronics,East,7,3499,24493
+6895,2026-01-14,CUST1276,Air Fryer,Home & Kitchen,East,1,4499,4499
+6896,2026-01-14,CUST1195,Sports Cap,Apparel,East,5,399,1995
+6897,2026-01-15,CUST1195,Denim Jacket,Apparel,West,5,1999,9995
+6898,2026-01-15,CUST1315,Winter Jacket,Apparel,West,8,3299,26392
+6899,2026-01-16,CUST1374,Denim Jacket,Apparel,North,3,1999,5997
+6900,2026-01-16,CUST1197,Notebook Pack,Office Supplies,East,2,249,498
+6901,2026-01-16,CUST1162,Denim Jacket,Apparel,West,1,1999,1999
+6902,2026-01-17,CUST1089,Blender,Home & Kitchen,South,4,1799,7196
+6903,2026-01-17,CUST1289,Ergonomic Chair,Office Supplies,East,6,6999,41994
+6904,2026-01-18,CUST1213,Blender,Home & Kitchen,North,8,1799,14392
+6905,2026-01-18,CUST1329,Winter Jacket,Apparel,East,1,3299,3299
+6906,2026-01-18,CUST1253,Non-Stick Pan Set,Home & Kitchen,North,3,2299,6897
+6907,2026-01-18,CUST1369,LED Desk Lamp,Office Supplies,West,8,1199,9592
+6908,2026-01-19,CUST1354,Bluetooth Speaker,Electronics,West,4,1999,7996
+6909,2026-01-19,CUST1138,Running Shoes,Apparel,East,7,2499,17493
+6910,2026-01-19,CUST1036,Winter Jacket,Apparel,East,1,3299,3299
+6911,2026-01-19,CUST1202,Sports Cap,Apparel,South,3,399,1197
+6912,2026-01-20,CUST1257,Non-Stick Pan Set,Home & Kitchen,South,8,2299,18392
+6913,2026-01-20,CUST1347,Sports Cap,Apparel,North,1,399,399
+6914,2026-01-20,CUST1158,Wireless Earbuds,Electronics,West,8,1499,11992
+6915,2026-01-20,CUST1118,Coffee Maker,Home & Kitchen,West,6,2999,17994
+6916,2026-01-21,CUST1241,Laptop Stand,Electronics,South,3,899,2697
+6917,2026-01-21,CUST1085,Smart Watch,Electronics,South,3,3499,10497
+6918,2026-01-21,CUST1011,Wireless Earbuds,Electronics,East,2,1499,2998
+6919,2026-01-21,CUST1001,Cotton T-Shirt,Apparel,East,5,599,2995
+6920,2026-01-21,CUST1187,USB-C Hub,Electronics,East,6,1299,7794
+6921,2026-01-22,CUST1101,Desk Organizer,Office Supplies,South,7,799,5593
+6922,2026-01-22,CUST1371,Whiteboard,Office Supplies,East,3,1499,4497
+6923,2026-01-22,CUST1205,Ergonomic Chair,Office Supplies,North,5,6999,34995
+6924,2026-01-23,CUST1373,Cotton T-Shirt,Apparel,South,7,599,4193
+6925,2026-01-23,CUST1269,Air Fryer,Home & Kitchen,East,5,4499,22495
+6926,2026-01-23,CUST1019,Running Shoes,Apparel,South,5,2499,12495
+6927,2026-01-23,CUST1361,Desk Organizer,Office Supplies,North,6,799,4794
+6928,2026-01-23,CUST1046,Smart Watch,Electronics,West,3,3499,10497
+6929,2026-01-24,CUST1160,Non-Stick Pan Set,Home & Kitchen,West,8,2299,18392
+6930,2026-01-24,CUST1299,Whiteboard,Office Supplies,East,4,1499,5996
+6931,2026-01-24,CUST1355,Whiteboard,Office Supplies,North,2,1499,2998
+6932,2026-01-24,CUST1309,Desk Organizer,Office Supplies,West,1,799,799
+6933,2026-01-24,CUST1292,Sports Cap,Apparel,North,4,399,1596
+6934,2026-01-25,CUST1215,Notebook Pack,Office Supplies,West,2,249,498
+6935,2026-01-25,CUST1369,Electric Kettle,Home & Kitchen,South,4,999,3996
+6936,2026-01-25,CUST1250,Whiteboard,Office Supplies,East,8,1499,11992
+6937,2026-01-25,CUST1368,Whiteboard,Office Supplies,South,3,1499,4497
+6938,2026-01-26,CUST1153,Laptop Stand,Electronics,East,4,899,3596
+6939,2026-01-26,CUST1143,Winter Jacket,Apparel,North,4,3299,13196
+6940,2026-01-26,CUST1268,Smart Watch,Electronics,North,2,3499,6998
+6941,2026-01-27,CUST1199,Whiteboard,Office Supplies,West,8,1499,11992
+6942,2026-01-27,CUST1147,Blender,Home & Kitchen,West,6,1799,10794
+6943,2026-01-27,CUST1104,Denim Jacket,Apparel,West,1,1999,1999
+6944,2026-01-28,CUST1391,USB-C Hub,Electronics,East,3,1299,3897
+6945,2026-01-28,CUST1391,Whiteboard,Office Supplies,South,5,1499,7495
+6946,2026-01-28,CUST1374,USB-C Hub,Electronics,West,3,1299,3897
+6947,2026-01-29,CUST1094,Sports Cap,Apparel,East,1,399,399
+6948,2026-01-29,CUST1308,Smart Watch,Electronics,East,6,3499,20994
+6949,2026-01-30,CUST1299,Ergonomic Chair,Office Supplies,North,2,6999,13998
+6950,2026-01-30,CUST1004,LED Desk Lamp,Office Supplies,West,7,1199,8393
+6951,2026-01-30,CUST1209,Desk Organizer,Office Supplies,South,3,799,2397
+6952,2026-01-31,CUST1245,Non-Stick Pan Set,Home & Kitchen,South,4,2299,9196
+6953,2026-01-31,CUST1054,Denim Jacket,Apparel,East,1,1999,1999
+6954,2026-02-01,CUST1270,Cotton T-Shirt,Apparel,East,3,599,1797
+6955,2026-02-01,CUST1190,Desk Organizer,Office Supplies,North,2,799,1598
+6956,2026-02-02,CUST1149,Sports Cap,Apparel,South,1,399,399
+6957,2026-02-02,CUST1370,LED Desk Lamp,Office Supplies,West,2,1199,2398
+6958,2026-02-02,CUST1342,Air Fryer,Home & Kitchen,East,6,4499,26994
+6959,2026-02-02,CUST1353,Smart Watch,Electronics,South,2,3499,6998
+6960,2026-02-03,CUST1044,Whiteboard,Office Supplies,North,6,1499,8994
+6961,2026-02-03,CUST1261,Laptop Stand,Electronics,East,8,899,7192
+6962,2026-02-03,CUST1288,Desk Organizer,Office Supplies,West,6,799,4794
+6963,2026-02-04,CUST1107,Winter Jacket,Apparel,West,2,3299,6598
+6964,2026-02-04,CUST1112,Denim Jacket,Apparel,West,5,1999,9995
+6965,2026-02-04,CUST1059,USB-C Hub,Electronics,South,8,1299,10392
+6966,2026-02-04,CUST1247,Coffee Maker,Home & Kitchen,South,4,2999,11996
+6967,2026-02-05,CUST1234,Cotton T-Shirt,Apparel,West,4,599,2396
+6968,2026-02-05,CUST1399,Whiteboard,Office Supplies,North,7,1499,10493
+6969,2026-02-05,CUST1296,Blender,Home & Kitchen,West,1,1799,1799
+6970,2026-02-05,CUST1369,Electric Kettle,Home & Kitchen,West,8,999,7992
+6971,2026-02-06,CUST1306,Desk Organizer,Office Supplies,East,1,799,799
+6972,2026-02-06,CUST1039,Non-Stick Pan Set,Home & Kitchen,East,2,2299,4598
+6973,2026-02-06,CUST1351,USB-C Hub,Electronics,North,8,1299,10392
+6974,2026-02-06,CUST1312,Whiteboard,Office Supplies,North,6,1499,8994
+6975,2026-02-07,CUST1336,Laptop Stand,Electronics,North,5,899,4495
+6976,2026-02-07,CUST1278,LED Desk Lamp,Office Supplies,North,1,1199,1199
+6977,2026-02-07,CUST1081,Coffee Maker,Home & Kitchen,West,2,2999,5998
+6978,2026-02-08,CUST1038,Bluetooth Speaker,Electronics,North,6,1999,11994
+6979,2026-02-08,CUST1387,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+6980,2026-02-09,CUST1233,Coffee Maker,Home & Kitchen,East,6,2999,17994
+6981,2026-02-09,CUST1270,LED Desk Lamp,Office Supplies,North,5,1199,5995
+6982,2026-02-10,CUST1077,Wireless Earbuds,Electronics,North,7,1499,10493
+6983,2026-02-10,CUST1059,Non-Stick Pan Set,Home & Kitchen,South,6,2299,13794
+6984,2026-02-10,CUST1332,Wireless Earbuds,Electronics,South,8,1499,11992
+6985,2026-02-10,CUST1169,Electric Kettle,Home & Kitchen,North,7,999,6993
+6986,2026-02-11,CUST1025,Ergonomic Chair,Office Supplies,West,5,6999,34995
+6987,2026-02-11,CUST1104,Wireless Earbuds,Electronics,East,3,1499,4497
+6988,2026-02-12,CUST1336,Denim Jacket,Apparel,East,4,1999,7996
+6989,2026-02-12,CUST1380,Laptop Stand,Electronics,North,6,899,5394
+6990,2026-02-12,CUST1215,Cotton T-Shirt,Apparel,South,5,599,2995
+6991,2026-02-13,CUST1304,Running Shoes,Apparel,South,1,2499,2499
+6992,2026-02-13,CUST1060,Cotton T-Shirt,Apparel,West,6,599,3594
+6993,2026-02-14,CUST1372,Laptop Stand,Electronics,North,8,899,7192
+6994,2026-02-14,CUST1099,Laptop Stand,Electronics,South,2,899,1798
+6995,2026-02-14,CUST1278,Notebook Pack,Office Supplies,East,2,249,498
+6996,2026-02-14,CUST1108,Winter Jacket,Apparel,West,7,3299,23093
+6997,2026-02-15,CUST1308,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+6998,2026-02-15,CUST1351,Wireless Earbuds,Electronics,East,1,1499,1499
+6999,2026-02-16,CUST1161,Denim Jacket,Apparel,North,3,1999,5997
+7000,2026-02-16,CUST1208,Smart Watch,Electronics,East,8,3499,27992
+7001,2026-02-16,CUST1370,Notebook Pack,Office Supplies,East,8,249,1992
+7002,2026-02-17,CUST1112,Electric Kettle,Home & Kitchen,North,1,999,999
+7003,2026-02-17,CUST1329,Notebook Pack,Office Supplies,South,6,249,1494
+7004,2026-02-17,CUST1204,Non-Stick Pan Set,Home & Kitchen,North,2,2299,4598
+7005,2026-02-17,CUST1349,LED Desk Lamp,Office Supplies,North,2,1199,2398
+7006,2026-02-18,CUST1386,Smart Watch,Electronics,South,8,3499,27992
+7007,2026-02-18,CUST1341,Bluetooth Speaker,Electronics,South,5,1999,9995
+7008,2026-02-19,CUST1209,Notebook Pack,Office Supplies,East,3,249,747
+7009,2026-02-19,CUST1336,Running Shoes,Apparel,South,8,2499,19992
+7010,2026-02-19,CUST1278,Electric Kettle,Home & Kitchen,West,2,999,1998
+7011,2026-02-19,CUST1223,Running Shoes,Apparel,South,2,2499,4998
+7012,2026-02-19,CUST1101,Electric Kettle,Home & Kitchen,South,7,999,6993
+7013,2026-02-20,CUST1171,Whiteboard,Office Supplies,South,7,1499,10493
+7014,2026-02-20,CUST1268,USB-C Hub,Electronics,West,7,1299,9093
+7015,2026-02-20,CUST1365,Wireless Earbuds,Electronics,West,5,1499,7495
+7016,2026-02-21,CUST1216,Whiteboard,Office Supplies,North,2,1499,2998
+7017,2026-02-21,CUST1162,Desk Organizer,Office Supplies,South,3,799,2397
+7018,2026-02-21,CUST1177,Smart Watch,Electronics,East,4,3499,13996
+7019,2026-02-21,CUST1302,Sports Cap,Apparel,North,3,399,1197
+7020,2026-02-21,CUST1386,Ergonomic Chair,Office Supplies,West,1,6999,6999
+7021,2026-02-22,CUST1284,Winter Jacket,Apparel,South,5,3299,16495
+7022,2026-02-22,CUST1037,Wireless Earbuds,Electronics,East,6,1499,8994
+7023,2026-02-23,CUST1092,Cotton T-Shirt,Apparel,North,8,599,4792
+7024,2026-02-23,CUST1178,Denim Jacket,Apparel,South,1,1999,1999
+7025,2026-02-23,CUST1062,Sports Cap,Apparel,West,2,399,798
+7026,2026-02-23,CUST1386,Desk Organizer,Office Supplies,West,8,799,6392
+7027,2026-02-23,CUST1381,Ergonomic Chair,Office Supplies,South,1,6999,6999
+7028,2026-02-24,CUST1345,Blender,Home & Kitchen,East,2,1799,3598
+7029,2026-02-24,CUST1168,Cotton T-Shirt,Apparel,West,5,599,2995
+7030,2026-02-24,CUST1110,Ergonomic Chair,Office Supplies,South,7,6999,48993
+7031,2026-02-25,CUST1006,Coffee Maker,Home & Kitchen,East,1,2999,2999
+7032,2026-02-25,CUST1242,Whiteboard,Office Supplies,North,6,1499,8994
+7033,2026-02-25,CUST1069,Bluetooth Speaker,Electronics,East,2,1999,3998
+7034,2026-02-26,CUST1041,Desk Organizer,Office Supplies,West,4,799,3196
+7035,2026-02-26,CUST1390,Desk Organizer,Office Supplies,West,7,799,5593
+7036,2026-02-26,CUST1050,Cotton T-Shirt,Apparel,East,5,599,2995
+7037,2026-02-27,CUST1315,Laptop Stand,Electronics,West,7,899,6293
+7038,2026-02-27,CUST1365,Whiteboard,Office Supplies,North,2,1499,2998
+7039,2026-02-28,CUST1073,Cotton T-Shirt,Apparel,South,2,599,1198
+7040,2026-02-28,CUST1006,Notebook Pack,Office Supplies,South,4,249,996
+7041,2026-03-01,CUST1077,Electric Kettle,Home & Kitchen,North,1,999,999
+7042,2026-03-01,CUST1239,Denim Jacket,Apparel,East,7,1999,13993
+7043,2026-03-01,CUST1145,Non-Stick Pan Set,Home & Kitchen,South,6,2299,13794
+7044,2026-03-01,CUST1389,LED Desk Lamp,Office Supplies,South,7,1199,8393
+7045,2026-03-01,CUST1028,Sports Cap,Apparel,South,3,399,1197
+7046,2026-03-01,CUST1118,Sports Cap,Apparel,North,7,399,2793
+7047,2026-03-02,CUST1093,Smart Watch,Electronics,North,3,3499,10497
+7048,2026-03-02,CUST1048,Smart Watch,Electronics,South,4,3499,13996
+7049,2026-03-02,CUST1030,Ergonomic Chair,Office Supplies,East,6,6999,41994
+7050,2026-03-02,CUST1199,Air Fryer,Home & Kitchen,East,8,4499,35992
+7051,2026-03-02,CUST1155,Sports Cap,Apparel,South,3,399,1197
+7052,2026-03-02,CUST1259,Desk Organizer,Office Supplies,West,8,799,6392
+7053,2026-03-03,CUST1152,Winter Jacket,Apparel,North,8,3299,26392
+7054,2026-03-03,CUST1268,Non-Stick Pan Set,Home & Kitchen,East,7,2299,16093
+7055,2026-03-04,CUST1175,Whiteboard,Office Supplies,North,3,1499,4497
+7056,2026-03-04,CUST1226,Winter Jacket,Apparel,West,8,3299,26392
+7057,2026-03-04,CUST1383,Bluetooth Speaker,Electronics,North,7,1999,13993
+7058,2026-03-04,CUST1156,Desk Organizer,Office Supplies,North,7,799,5593
+7059,2026-03-04,CUST1078,Notebook Pack,Office Supplies,North,3,249,747
+7060,2026-03-04,CUST1265,USB-C Hub,Electronics,East,7,1299,9093
+7061,2026-03-05,CUST1225,Winter Jacket,Apparel,South,2,3299,6598
+7062,2026-03-05,CUST1114,Laptop Stand,Electronics,North,1,899,899
+7063,2026-03-05,CUST1380,Running Shoes,Apparel,East,8,2499,19992
+7064,2026-03-05,CUST1293,Running Shoes,Apparel,North,2,2499,4998
+7065,2026-03-05,CUST1034,Sports Cap,Apparel,East,8,399,3192
+7066,2026-03-05,CUST1136,Notebook Pack,Office Supplies,West,2,249,498
+7067,2026-03-06,CUST1222,Denim Jacket,Apparel,East,7,1999,13993
+7068,2026-03-06,CUST1351,Wireless Earbuds,Electronics,South,2,1499,2998
+7069,2026-03-06,CUST1134,Non-Stick Pan Set,Home & Kitchen,East,1,2299,2299
+7070,2026-03-07,CUST1200,Sports Cap,Apparel,West,6,399,2394
+7071,2026-03-07,CUST1171,Denim Jacket,Apparel,West,3,1999,5997
+7072,2026-03-07,CUST1267,LED Desk Lamp,Office Supplies,East,6,1199,7194
+7073,2026-03-07,CUST1138,Non-Stick Pan Set,Home & Kitchen,West,6,2299,13794
+7074,2026-03-08,CUST1282,Desk Organizer,Office Supplies,South,2,799,1598
+7075,2026-03-08,CUST1316,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7076,2026-03-08,CUST1155,Air Fryer,Home & Kitchen,North,7,4499,31493
+7077,2026-03-09,CUST1396,Cotton T-Shirt,Apparel,North,1,599,599
+7078,2026-03-09,CUST1208,Desk Organizer,Office Supplies,North,7,799,5593
+7079,2026-03-09,CUST1105,Running Shoes,Apparel,East,6,2499,14994
+7080,2026-03-10,CUST1242,Ergonomic Chair,Office Supplies,North,7,6999,48993
+7081,2026-03-10,CUST1151,Winter Jacket,Apparel,East,7,3299,23093
+7082,2026-03-10,CUST1065,Notebook Pack,Office Supplies,North,1,249,249
+7083,2026-03-10,CUST1321,Whiteboard,Office Supplies,West,8,1499,11992
+7084,2026-03-10,CUST1366,Running Shoes,Apparel,North,1,2499,2499
+7085,2026-03-10,CUST1164,Notebook Pack,Office Supplies,West,8,249,1992
+7086,2026-03-11,CUST1220,Blender,Home & Kitchen,South,2,1799,3598
+7087,2026-03-11,CUST1148,Running Shoes,Apparel,West,4,2499,9996
+7088,2026-03-12,CUST1381,Smart Watch,Electronics,East,8,3499,27992
+7089,2026-03-12,CUST1237,Air Fryer,Home & Kitchen,North,7,4499,31493
+7090,2026-03-12,CUST1180,Wireless Earbuds,Electronics,North,6,1499,8994
+7091,2026-03-13,CUST1344,LED Desk Lamp,Office Supplies,South,2,1199,2398
+7092,2026-03-13,CUST1090,Notebook Pack,Office Supplies,North,7,249,1743
+7093,2026-03-13,CUST1258,Whiteboard,Office Supplies,South,8,1499,11992
+7094,2026-03-13,CUST1008,Desk Organizer,Office Supplies,South,3,799,2397
+7095,2026-03-13,CUST1268,Electric Kettle,Home & Kitchen,North,5,999,4995
+7096,2026-03-13,CUST1382,USB-C Hub,Electronics,North,6,1299,7794
+7097,2026-03-14,CUST1357,Ergonomic Chair,Office Supplies,North,4,6999,27996
+7098,2026-03-14,CUST1239,Whiteboard,Office Supplies,North,2,1499,2998
+7099,2026-03-14,CUST1367,Blender,Home & Kitchen,East,4,1799,7196
+7100,2026-03-15,CUST1123,Running Shoes,Apparel,West,4,2499,9996
+7101,2026-03-15,CUST1358,Notebook Pack,Office Supplies,South,2,249,498
+7102,2026-03-15,CUST1062,Coffee Maker,Home & Kitchen,North,2,2999,5998
+7103,2026-03-16,CUST1030,Sports Cap,Apparel,West,7,399,2793
+7104,2026-03-16,CUST1232,Blender,Home & Kitchen,North,2,1799,3598
+7105,2026-03-16,CUST1022,Desk Organizer,Office Supplies,West,3,799,2397
+7106,2026-03-17,CUST1331,LED Desk Lamp,Office Supplies,South,8,1199,9592
+7107,2026-03-17,CUST1146,Non-Stick Pan Set,Home & Kitchen,West,5,2299,11495
+7108,2026-03-17,CUST1145,Ergonomic Chair,Office Supplies,South,7,6999,48993
+7109,2026-03-17,CUST1260,Blender,Home & Kitchen,East,7,1799,12593
+7110,2026-03-18,CUST1352,Ergonomic Chair,Office Supplies,East,6,6999,41994
+7111,2026-03-18,CUST1013,Denim Jacket,Apparel,West,8,1999,15992
+7112,2026-03-18,CUST1122,Blender,Home & Kitchen,West,2,1799,3598
+7113,2026-03-18,CUST1161,Whiteboard,Office Supplies,East,3,1499,4497
+7114,2026-03-19,CUST1136,USB-C Hub,Electronics,West,4,1299,5196
+7115,2026-03-19,CUST1264,Electric Kettle,Home & Kitchen,West,8,999,7992
+7116,2026-03-19,CUST1054,Blender,Home & Kitchen,West,5,1799,8995
+7117,2026-03-19,CUST1322,Smart Watch,Electronics,South,6,3499,20994
+7118,2026-03-19,CUST1372,Desk Organizer,Office Supplies,West,7,799,5593
+7119,2026-03-19,CUST1186,Coffee Maker,Home & Kitchen,East,8,2999,23992
+7120,2026-03-20,CUST1268,Laptop Stand,Electronics,West,8,899,7192
+7121,2026-03-20,CUST1283,Air Fryer,Home & Kitchen,North,3,4499,13497
+7122,2026-03-20,CUST1162,Laptop Stand,Electronics,West,4,899,3596
+7123,2026-03-20,CUST1271,Whiteboard,Office Supplies,East,7,1499,10493
+7124,2026-03-21,CUST1383,Non-Stick Pan Set,Home & Kitchen,North,6,2299,13794
+7125,2026-03-21,CUST1297,Sports Cap,Apparel,West,4,399,1596
+7126,2026-03-21,CUST1371,Whiteboard,Office Supplies,North,4,1499,5996
+7127,2026-03-21,CUST1143,Blender,Home & Kitchen,East,1,1799,1799
+7128,2026-03-22,CUST1158,Electric Kettle,Home & Kitchen,South,5,999,4995
+7129,2026-03-22,CUST1210,Electric Kettle,Home & Kitchen,South,2,999,1998
+7130,2026-03-23,CUST1045,Blender,Home & Kitchen,West,5,1799,8995
+7131,2026-03-23,CUST1074,Sports Cap,Apparel,South,7,399,2793
+7132,2026-03-23,CUST1393,Blender,Home & Kitchen,South,4,1799,7196
+7133,2026-03-24,CUST1256,USB-C Hub,Electronics,South,8,1299,10392
+7134,2026-03-24,CUST1314,Coffee Maker,Home & Kitchen,South,7,2999,20993
+7135,2026-03-24,CUST1366,USB-C Hub,Electronics,South,6,1299,7794
+7136,2026-03-25,CUST1251,Bluetooth Speaker,Electronics,East,4,1999,7996
+7137,2026-03-25,CUST1226,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7138,2026-03-25,CUST1374,Denim Jacket,Apparel,North,1,1999,1999
+7139,2026-03-25,CUST1208,LED Desk Lamp,Office Supplies,South,7,1199,8393
+7140,2026-03-25,CUST1247,Winter Jacket,Apparel,West,4,3299,13196
+7141,2026-03-25,CUST1165,Air Fryer,Home & Kitchen,North,6,4499,26994
+7142,2026-03-26,CUST1277,Desk Organizer,Office Supplies,West,4,799,3196
+7143,2026-03-26,CUST1354,Air Fryer,Home & Kitchen,West,5,4499,22495
+7144,2026-03-26,CUST1026,Ergonomic Chair,Office Supplies,South,4,6999,27996
+7145,2026-03-26,CUST1116,Non-Stick Pan Set,Home & Kitchen,East,1,2299,2299
+7146,2026-03-27,CUST1071,Whiteboard,Office Supplies,North,3,1499,4497
+7147,2026-03-27,CUST1232,Coffee Maker,Home & Kitchen,West,1,2999,2999
+7148,2026-03-27,CUST1163,Electric Kettle,Home & Kitchen,South,8,999,7992
+7149,2026-03-28,CUST1188,USB-C Hub,Electronics,North,5,1299,6495
+7150,2026-03-28,CUST1390,Ergonomic Chair,Office Supplies,North,7,6999,48993
+7151,2026-03-28,CUST1078,Ergonomic Chair,Office Supplies,North,6,6999,41994
+7152,2026-03-28,CUST1286,Coffee Maker,Home & Kitchen,South,8,2999,23992
+7153,2026-03-29,CUST1215,Bluetooth Speaker,Electronics,West,7,1999,13993
+7154,2026-03-29,CUST1134,Running Shoes,Apparel,South,4,2499,9996
+7155,2026-03-29,CUST1325,Cotton T-Shirt,Apparel,North,3,599,1797
+7156,2026-03-30,CUST1125,Blender,Home & Kitchen,East,1,1799,1799
+7157,2026-03-30,CUST1132,Bluetooth Speaker,Electronics,West,5,1999,9995
+7158,2026-03-30,CUST1171,Air Fryer,Home & Kitchen,West,7,4499,31493
+7159,2026-03-30,CUST1354,Non-Stick Pan Set,Home & Kitchen,East,2,2299,4598
+7160,2026-03-30,CUST1138,USB-C Hub,Electronics,West,8,1299,10392
+7161,2026-03-30,CUST1180,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+7162,2026-03-31,CUST1277,Smart Watch,Electronics,North,1,3499,3499
+7163,2026-03-31,CUST1075,Laptop Stand,Electronics,West,8,899,7192
+7164,2026-03-31,CUST1059,Cotton T-Shirt,Apparel,West,2,599,1198
+7165,2026-03-31,CUST1222,Desk Organizer,Office Supplies,East,3,799,2397
+7166,2026-03-31,CUST1298,Notebook Pack,Office Supplies,West,6,249,1494
+7167,2026-03-31,CUST1316,Running Shoes,Apparel,West,7,2499,17493
+7168,2026-04-01,CUST1349,Laptop Stand,Electronics,South,3,899,2697
+7169,2026-04-01,CUST1266,Denim Jacket,Apparel,East,4,1999,7996
+7170,2026-04-01,CUST1076,Notebook Pack,Office Supplies,West,4,249,996
+7171,2026-04-02,CUST1176,Coffee Maker,Home & Kitchen,North,6,2999,17994
+7172,2026-04-02,CUST1183,LED Desk Lamp,Office Supplies,West,5,1199,5995
+7173,2026-04-02,CUST1130,Cotton T-Shirt,Apparel,West,8,599,4792
+7174,2026-04-02,CUST1226,Running Shoes,Apparel,South,1,2499,2499
+7175,2026-04-02,CUST1304,Running Shoes,Apparel,North,6,2499,14994
+7176,2026-04-02,CUST1023,Wireless Earbuds,Electronics,North,6,1499,8994
+7177,2026-04-03,CUST1243,Bluetooth Speaker,Electronics,West,2,1999,3998
+7178,2026-04-03,CUST1003,Winter Jacket,Apparel,North,1,3299,3299
+7179,2026-04-03,CUST1179,LED Desk Lamp,Office Supplies,East,4,1199,4796
+7180,2026-04-03,CUST1395,Smart Watch,Electronics,South,4,3499,13996
+7181,2026-04-04,CUST1221,LED Desk Lamp,Office Supplies,East,6,1199,7194
+7182,2026-04-04,CUST1190,Desk Organizer,Office Supplies,South,5,799,3995
+7183,2026-04-04,CUST1037,Cotton T-Shirt,Apparel,South,7,599,4193
+7184,2026-04-04,CUST1275,Cotton T-Shirt,Apparel,North,2,599,1198
+7185,2026-04-04,CUST1143,Desk Organizer,Office Supplies,North,8,799,6392
+7186,2026-04-04,CUST1146,Cotton T-Shirt,Apparel,East,2,599,1198
+7187,2026-04-05,CUST1360,Air Fryer,Home & Kitchen,East,4,4499,17996
+7188,2026-04-05,CUST1188,Desk Organizer,Office Supplies,South,1,799,799
+7189,2026-04-05,CUST1093,USB-C Hub,Electronics,North,7,1299,9093
+7190,2026-04-05,CUST1166,Bluetooth Speaker,Electronics,West,1,1999,1999
+7191,2026-04-06,CUST1083,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+7192,2026-04-06,CUST1278,Desk Organizer,Office Supplies,North,4,799,3196
+7193,2026-04-06,CUST1349,Notebook Pack,Office Supplies,South,4,249,996
+7194,2026-04-06,CUST1171,Winter Jacket,Apparel,South,6,3299,19794
+7195,2026-04-06,CUST1395,Laptop Stand,Electronics,North,4,899,3596
+7196,2026-04-06,CUST1074,Cotton T-Shirt,Apparel,West,7,599,4193
+7197,2026-04-07,CUST1345,Cotton T-Shirt,Apparel,West,4,599,2396
+7198,2026-04-07,CUST1180,Notebook Pack,Office Supplies,West,6,249,1494
+7199,2026-04-07,CUST1036,Electric Kettle,Home & Kitchen,North,1,999,999
+7200,2026-04-07,CUST1142,Blender,Home & Kitchen,East,5,1799,8995
+7201,2026-04-08,CUST1396,Sports Cap,Apparel,West,8,399,3192
+7202,2026-04-08,CUST1337,Notebook Pack,Office Supplies,West,6,249,1494
+7203,2026-04-09,CUST1045,Coffee Maker,Home & Kitchen,South,2,2999,5998
+7204,2026-04-09,CUST1279,Running Shoes,Apparel,North,7,2499,17493
+7205,2026-04-10,CUST1148,Bluetooth Speaker,Electronics,West,1,1999,1999
+7206,2026-04-10,CUST1280,Desk Organizer,Office Supplies,North,5,799,3995
+7207,2026-04-11,CUST1186,Desk Organizer,Office Supplies,South,1,799,799
+7208,2026-04-11,CUST1340,Notebook Pack,Office Supplies,East,7,249,1743
+7209,2026-04-11,CUST1221,Laptop Stand,Electronics,East,6,899,5394
+7210,2026-04-12,CUST1115,Desk Organizer,Office Supplies,North,4,799,3196
+7211,2026-04-12,CUST1318,Running Shoes,Apparel,East,3,2499,7497
+7212,2026-04-12,CUST1137,Air Fryer,Home & Kitchen,South,6,4499,26994
+7213,2026-04-13,CUST1084,LED Desk Lamp,Office Supplies,North,1,1199,1199
+7214,2026-04-13,CUST1257,Electric Kettle,Home & Kitchen,North,1,999,999
+7215,2026-04-13,CUST1211,Cotton T-Shirt,Apparel,North,6,599,3594
+7216,2026-04-13,CUST1173,Whiteboard,Office Supplies,South,2,1499,2998
+7217,2026-04-13,CUST1299,Winter Jacket,Apparel,North,8,3299,26392
+7218,2026-04-13,CUST1339,Winter Jacket,Apparel,West,4,3299,13196
+7219,2026-04-14,CUST1283,Winter Jacket,Apparel,South,5,3299,16495
+7220,2026-04-14,CUST1218,Denim Jacket,Apparel,West,3,1999,5997
+7221,2026-04-14,CUST1246,Ergonomic Chair,Office Supplies,East,2,6999,13998
+7222,2026-04-14,CUST1029,Bluetooth Speaker,Electronics,South,1,1999,1999
+7223,2026-04-15,CUST1010,Notebook Pack,Office Supplies,West,2,249,498
+7224,2026-04-15,CUST1259,Bluetooth Speaker,Electronics,North,6,1999,11994
+7225,2026-04-15,CUST1067,Desk Organizer,Office Supplies,East,7,799,5593
+7226,2026-04-16,CUST1114,Smart Watch,Electronics,East,7,3499,24493
+7227,2026-04-16,CUST1134,Laptop Stand,Electronics,South,7,899,6293
+7228,2026-04-16,CUST1104,Air Fryer,Home & Kitchen,North,7,4499,31493
+7229,2026-04-16,CUST1146,Air Fryer,Home & Kitchen,West,7,4499,31493
+7230,2026-04-17,CUST1084,Running Shoes,Apparel,North,7,2499,17493
+7231,2026-04-17,CUST1114,Denim Jacket,Apparel,North,1,1999,1999
+7232,2026-04-17,CUST1297,Blender,Home & Kitchen,South,7,1799,12593
+7233,2026-04-17,CUST1081,Blender,Home & Kitchen,North,6,1799,10794
+7234,2026-04-17,CUST1354,Cotton T-Shirt,Apparel,West,3,599,1797
+7235,2026-04-17,CUST1368,Wireless Earbuds,Electronics,South,2,1499,2998
+7236,2026-04-18,CUST1164,LED Desk Lamp,Office Supplies,South,7,1199,8393
+7237,2026-04-18,CUST1259,Winter Jacket,Apparel,West,7,3299,23093
+7238,2026-04-18,CUST1261,Smart Watch,Electronics,East,6,3499,20994
+7239,2026-04-18,CUST1397,Coffee Maker,Home & Kitchen,East,4,2999,11996
+7240,2026-04-19,CUST1258,Smart Watch,Electronics,East,3,3499,10497
+7241,2026-04-19,CUST1186,Whiteboard,Office Supplies,South,4,1499,5996
+7242,2026-04-20,CUST1123,Blender,Home & Kitchen,East,3,1799,5397
+7243,2026-04-20,CUST1092,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+7244,2026-04-20,CUST1032,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+7245,2026-04-20,CUST1260,LED Desk Lamp,Office Supplies,North,4,1199,4796
+7246,2026-04-20,CUST1141,LED Desk Lamp,Office Supplies,West,3,1199,3597
+7247,2026-04-21,CUST1379,Air Fryer,Home & Kitchen,North,7,4499,31493
+7248,2026-04-21,CUST1243,Winter Jacket,Apparel,South,6,3299,19794
+7249,2026-04-21,CUST1231,Air Fryer,Home & Kitchen,South,2,4499,8998
+7250,2026-04-21,CUST1123,Smart Watch,Electronics,East,7,3499,24493
+7251,2026-04-21,CUST1152,Desk Organizer,Office Supplies,East,7,799,5593
+7252,2026-04-22,CUST1232,Smart Watch,Electronics,East,8,3499,27992
+7253,2026-04-22,CUST1070,LED Desk Lamp,Office Supplies,East,5,1199,5995
+7254,2026-04-22,CUST1202,Smart Watch,Electronics,West,4,3499,13996
+7255,2026-04-23,CUST1023,Winter Jacket,Apparel,East,6,3299,19794
+7256,2026-04-23,CUST1078,Notebook Pack,Office Supplies,West,1,249,249
+7257,2026-04-24,CUST1380,Smart Watch,Electronics,North,6,3499,20994
+7258,2026-04-24,CUST1127,LED Desk Lamp,Office Supplies,South,3,1199,3597
+7259,2026-04-24,CUST1057,Desk Organizer,Office Supplies,South,2,799,1598
+7260,2026-04-24,CUST1078,Running Shoes,Apparel,West,2,2499,4998
+7261,2026-04-24,CUST1324,Non-Stick Pan Set,Home & Kitchen,South,8,2299,18392
+7262,2026-04-24,CUST1333,Non-Stick Pan Set,Home & Kitchen,West,7,2299,16093
+7263,2026-04-25,CUST1353,Ergonomic Chair,Office Supplies,East,3,6999,20997
+7264,2026-04-25,CUST1310,Denim Jacket,Apparel,North,7,1999,13993
+7265,2026-04-25,CUST1197,Desk Organizer,Office Supplies,West,7,799,5593
+7266,2026-04-26,CUST1113,Winter Jacket,Apparel,West,4,3299,13196
+7267,2026-04-26,CUST1112,Non-Stick Pan Set,Home & Kitchen,West,2,2299,4598
+7268,2026-04-26,CUST1282,Notebook Pack,Office Supplies,South,6,249,1494
+7269,2026-04-26,CUST1168,Running Shoes,Apparel,West,7,2499,17493
+7270,2026-04-26,CUST1318,Laptop Stand,Electronics,South,6,899,5394
+7271,2026-04-26,CUST1225,Electric Kettle,Home & Kitchen,West,6,999,5994
+7272,2026-04-27,CUST1248,Cotton T-Shirt,Apparel,West,7,599,4193
+7273,2026-04-27,CUST1059,LED Desk Lamp,Office Supplies,West,1,1199,1199
+7274,2026-04-27,CUST1290,Whiteboard,Office Supplies,East,3,1499,4497
+7275,2026-04-27,CUST1244,USB-C Hub,Electronics,West,7,1299,9093
+7276,2026-04-27,CUST1368,Coffee Maker,Home & Kitchen,North,7,2999,20993
+7277,2026-04-27,CUST1175,Winter Jacket,Apparel,West,4,3299,13196
+7278,2026-04-28,CUST1142,Smart Watch,Electronics,North,7,3499,24493
+7279,2026-04-28,CUST1067,Whiteboard,Office Supplies,North,5,1499,7495
+7280,2026-04-28,CUST1176,Winter Jacket,Apparel,East,2,3299,6598
+7281,2026-04-29,CUST1201,Wireless Earbuds,Electronics,South,5,1499,7495
+7282,2026-04-29,CUST1050,USB-C Hub,Electronics,North,5,1299,6495
+7283,2026-04-29,CUST1070,Non-Stick Pan Set,Home & Kitchen,South,2,2299,4598
+7284,2026-04-29,CUST1266,Notebook Pack,Office Supplies,West,6,249,1494
+7285,2026-04-29,CUST1179,Blender,Home & Kitchen,East,5,1799,8995
+7286,2026-04-30,CUST1323,Cotton T-Shirt,Apparel,West,1,599,599
+7287,2026-04-30,CUST1168,Electric Kettle,Home & Kitchen,West,3,999,2997
+7288,2026-04-30,CUST1327,Wireless Earbuds,Electronics,West,3,1499,4497
+7289,2026-05-01,CUST1172,Smart Watch,Electronics,East,1,3499,3499
+7290,2026-05-01,CUST1255,Air Fryer,Home & Kitchen,North,8,4499,35992
+7291,2026-05-02,CUST1025,Whiteboard,Office Supplies,South,4,1499,5996
+7292,2026-05-02,CUST1119,Notebook Pack,Office Supplies,East,5,249,1245
+7293,2026-05-03,CUST1310,Cotton T-Shirt,Apparel,West,8,599,4792
+7294,2026-05-03,CUST1338,Desk Organizer,Office Supplies,North,2,799,1598
+7295,2026-05-03,CUST1021,Winter Jacket,Apparel,South,3,3299,9897
+7296,2026-05-04,CUST1125,Bluetooth Speaker,Electronics,North,2,1999,3998
+7297,2026-05-04,CUST1336,Sports Cap,Apparel,East,5,399,1995
+7298,2026-05-04,CUST1170,Sports Cap,Apparel,East,4,399,1596
+7299,2026-05-04,CUST1107,Notebook Pack,Office Supplies,North,7,249,1743
+7300,2026-05-04,CUST1002,Denim Jacket,Apparel,West,5,1999,9995
+7301,2026-05-05,CUST1233,USB-C Hub,Electronics,North,7,1299,9093
+7302,2026-05-05,CUST1260,Sports Cap,Apparel,East,7,399,2793
+7303,2026-05-05,CUST1165,USB-C Hub,Electronics,West,3,1299,3897
+7304,2026-05-06,CUST1158,Running Shoes,Apparel,West,4,2499,9996
+7305,2026-05-06,CUST1044,Notebook Pack,Office Supplies,North,4,249,996
+7306,2026-05-06,CUST1018,Laptop Stand,Electronics,North,4,899,3596
+7307,2026-05-06,CUST1309,Winter Jacket,Apparel,West,3,3299,9897
+7308,2026-05-06,CUST1360,USB-C Hub,Electronics,East,3,1299,3897
+7309,2026-05-06,CUST1260,Non-Stick Pan Set,Home & Kitchen,South,1,2299,2299
+7310,2026-05-07,CUST1136,Wireless Earbuds,Electronics,North,6,1499,8994
+7311,2026-05-07,CUST1239,Air Fryer,Home & Kitchen,East,2,4499,8998
+7312,2026-05-08,CUST1305,Bluetooth Speaker,Electronics,West,7,1999,13993
+7313,2026-05-08,CUST1293,Blender,Home & Kitchen,South,7,1799,12593
+7314,2026-05-08,CUST1239,Running Shoes,Apparel,South,4,2499,9996
+7315,2026-05-08,CUST1037,Blender,Home & Kitchen,East,2,1799,3598
+7316,2026-05-08,CUST1075,Blender,Home & Kitchen,North,3,1799,5397
+7317,2026-05-08,CUST1066,Cotton T-Shirt,Apparel,East,7,599,4193
+7318,2026-05-09,CUST1120,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7319,2026-05-09,CUST1110,LED Desk Lamp,Office Supplies,South,7,1199,8393
+7320,2026-05-09,CUST1109,Blender,Home & Kitchen,East,5,1799,8995
+7321,2026-05-10,CUST1150,USB-C Hub,Electronics,East,8,1299,10392
+7322,2026-05-10,CUST1328,Air Fryer,Home & Kitchen,North,1,4499,4499
+7323,2026-05-10,CUST1295,Coffee Maker,Home & Kitchen,South,8,2999,23992
+7324,2026-05-11,CUST1352,Smart Watch,Electronics,East,2,3499,6998
+7325,2026-05-11,CUST1262,Smart Watch,Electronics,South,3,3499,10497
+7326,2026-05-11,CUST1273,Winter Jacket,Apparel,West,5,3299,16495
+7327,2026-05-12,CUST1307,Coffee Maker,Home & Kitchen,West,2,2999,5998
+7328,2026-05-12,CUST1322,Winter Jacket,Apparel,West,5,3299,16495
+7329,2026-05-12,CUST1250,Sports Cap,Apparel,South,1,399,399
+7330,2026-05-12,CUST1121,Laptop Stand,Electronics,West,7,899,6293
+7331,2026-05-12,CUST1008,Ergonomic Chair,Office Supplies,South,4,6999,27996
+7332,2026-05-12,CUST1129,Ergonomic Chair,Office Supplies,West,1,6999,6999
+7333,2026-05-13,CUST1224,Blender,Home & Kitchen,South,5,1799,8995
+7334,2026-05-13,CUST1111,Notebook Pack,Office Supplies,East,7,249,1743
+7335,2026-05-13,CUST1325,Ergonomic Chair,Office Supplies,North,3,6999,20997
+7336,2026-05-13,CUST1055,Winter Jacket,Apparel,East,6,3299,19794
+7337,2026-05-13,CUST1043,Sports Cap,Apparel,South,1,399,399
+7338,2026-05-14,CUST1308,LED Desk Lamp,Office Supplies,South,8,1199,9592
+7339,2026-05-14,CUST1004,Wireless Earbuds,Electronics,South,5,1499,7495
+7340,2026-05-14,CUST1142,Ergonomic Chair,Office Supplies,East,2,6999,13998
+7341,2026-05-14,CUST1345,Coffee Maker,Home & Kitchen,South,3,2999,8997
+7342,2026-05-14,CUST1170,Ergonomic Chair,Office Supplies,North,2,6999,13998
+7343,2026-05-14,CUST1360,Running Shoes,Apparel,North,3,2499,7497
+7344,2026-05-15,CUST1267,Denim Jacket,Apparel,West,6,1999,11994
+7345,2026-05-15,CUST1230,Wireless Earbuds,Electronics,North,5,1499,7495
+7346,2026-05-15,CUST1057,Ergonomic Chair,Office Supplies,South,8,6999,55992
+7347,2026-05-15,CUST1343,Coffee Maker,Home & Kitchen,East,6,2999,17994
+7348,2026-05-15,CUST1276,Air Fryer,Home & Kitchen,North,8,4499,35992
+7349,2026-05-15,CUST1316,Winter Jacket,Apparel,South,3,3299,9897
+7350,2026-05-16,CUST1313,Wireless Earbuds,Electronics,East,1,1499,1499
+7351,2026-05-16,CUST1046,Wireless Earbuds,Electronics,North,7,1499,10493
+7352,2026-05-17,CUST1190,Non-Stick Pan Set,Home & Kitchen,South,5,2299,11495
+7353,2026-05-17,CUST1329,Air Fryer,Home & Kitchen,South,4,4499,17996
+7354,2026-05-18,CUST1210,Desk Organizer,Office Supplies,North,6,799,4794
+7355,2026-05-18,CUST1220,Electric Kettle,Home & Kitchen,West,3,999,2997
+7356,2026-05-18,CUST1284,LED Desk Lamp,Office Supplies,North,7,1199,8393
+7357,2026-05-18,CUST1019,Laptop Stand,Electronics,West,4,899,3596
+7358,2026-05-18,CUST1113,Winter Jacket,Apparel,North,3,3299,9897
+7359,2026-05-18,CUST1371,USB-C Hub,Electronics,South,4,1299,5196
+7360,2026-05-19,CUST1200,Blender,Home & Kitchen,West,6,1799,10794
+7361,2026-05-19,CUST1336,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7362,2026-05-19,CUST1053,Denim Jacket,Apparel,East,1,1999,1999
+7363,2026-05-19,CUST1132,Electric Kettle,Home & Kitchen,East,6,999,5994
+7364,2026-05-19,CUST1031,Smart Watch,Electronics,East,4,3499,13996
+7365,2026-05-19,CUST1100,Non-Stick Pan Set,Home & Kitchen,West,6,2299,13794
+7366,2026-05-20,CUST1119,Electric Kettle,Home & Kitchen,East,7,999,6993
+7367,2026-05-20,CUST1168,Bluetooth Speaker,Electronics,East,1,1999,1999
+7368,2026-05-20,CUST1380,Electric Kettle,Home & Kitchen,East,1,999,999
+7369,2026-05-20,CUST1014,Whiteboard,Office Supplies,South,1,1499,1499
+7370,2026-05-20,CUST1332,Denim Jacket,Apparel,North,7,1999,13993
+7371,2026-05-21,CUST1088,Blender,Home & Kitchen,North,3,1799,5397
+7372,2026-05-21,CUST1142,Denim Jacket,Apparel,East,6,1999,11994
+7373,2026-05-22,CUST1071,LED Desk Lamp,Office Supplies,East,3,1199,3597
+7374,2026-05-22,CUST1131,Running Shoes,Apparel,South,1,2499,2499
+7375,2026-05-22,CUST1268,Sports Cap,Apparel,East,1,399,399
+7376,2026-05-23,CUST1211,Winter Jacket,Apparel,North,7,3299,23093
+7377,2026-05-23,CUST1051,Ergonomic Chair,Office Supplies,West,1,6999,6999
+7378,2026-05-23,CUST1170,USB-C Hub,Electronics,South,1,1299,1299
+7379,2026-05-23,CUST1252,Bluetooth Speaker,Electronics,West,1,1999,1999
+7380,2026-05-23,CUST1298,Air Fryer,Home & Kitchen,South,3,4499,13497
+7381,2026-05-24,CUST1098,USB-C Hub,Electronics,South,6,1299,7794
+7382,2026-05-24,CUST1036,Ergonomic Chair,Office Supplies,East,6,6999,41994
+7383,2026-05-24,CUST1370,Blender,Home & Kitchen,North,3,1799,5397
+7384,2026-05-24,CUST1071,Winter Jacket,Apparel,North,3,3299,9897
+7385,2026-05-24,CUST1119,Electric Kettle,Home & Kitchen,North,8,999,7992
+7386,2026-05-24,CUST1345,Smart Watch,Electronics,East,6,3499,20994
+7387,2026-05-25,CUST1350,Whiteboard,Office Supplies,East,1,1499,1499
+7388,2026-05-25,CUST1024,Electric Kettle,Home & Kitchen,West,2,999,1998
+7389,2026-05-25,CUST1348,Air Fryer,Home & Kitchen,North,2,4499,8998
+7390,2026-05-26,CUST1308,Blender,Home & Kitchen,South,2,1799,3598
+7391,2026-05-26,CUST1291,USB-C Hub,Electronics,West,5,1299,6495
+7392,2026-05-26,CUST1324,Desk Organizer,Office Supplies,East,5,799,3995
+7393,2026-05-26,CUST1101,Electric Kettle,Home & Kitchen,North,8,999,7992
+7394,2026-05-26,CUST1104,Smart Watch,Electronics,South,1,3499,3499
+7395,2026-05-27,CUST1386,USB-C Hub,Electronics,East,2,1299,2598
+7396,2026-05-27,CUST1105,Wireless Earbuds,Electronics,North,6,1499,8994
+7397,2026-05-27,CUST1271,Running Shoes,Apparel,South,2,2499,4998
+7398,2026-05-27,CUST1158,Running Shoes,Apparel,South,2,2499,4998
+7399,2026-05-27,CUST1114,Air Fryer,Home & Kitchen,South,6,4499,26994
+7400,2026-05-27,CUST1166,Running Shoes,Apparel,West,8,2499,19992
+7401,2026-05-28,CUST1070,Laptop Stand,Electronics,South,6,899,5394
+7402,2026-05-28,CUST1153,Smart Watch,Electronics,East,8,3499,27992
+7403,2026-05-28,CUST1317,LED Desk Lamp,Office Supplies,East,4,1199,4796
+7404,2026-05-28,CUST1225,Winter Jacket,Apparel,South,3,3299,9897
+7405,2026-05-28,CUST1284,Air Fryer,Home & Kitchen,West,5,4499,22495
+7406,2026-05-29,CUST1115,LED Desk Lamp,Office Supplies,South,2,1199,2398
+7407,2026-05-29,CUST1075,LED Desk Lamp,Office Supplies,West,1,1199,1199
+7408,2026-05-29,CUST1103,Whiteboard,Office Supplies,West,5,1499,7495
+7409,2026-05-29,CUST1131,Notebook Pack,Office Supplies,East,4,249,996
+7410,2026-05-29,CUST1062,Denim Jacket,Apparel,East,2,1999,3998
+7411,2026-05-29,CUST1312,Air Fryer,Home & Kitchen,North,3,4499,13497
+7412,2026-05-30,CUST1230,Smart Watch,Electronics,South,1,3499,3499
+7413,2026-05-30,CUST1129,Air Fryer,Home & Kitchen,East,3,4499,13497
+7414,2026-05-30,CUST1011,Desk Organizer,Office Supplies,South,5,799,3995
+7415,2026-05-31,CUST1207,Electric Kettle,Home & Kitchen,North,6,999,5994
+7416,2026-05-31,CUST1294,Wireless Earbuds,Electronics,North,3,1499,4497
+7417,2026-05-31,CUST1185,Ergonomic Chair,Office Supplies,North,5,6999,34995
+7418,2026-05-31,CUST1366,Coffee Maker,Home & Kitchen,South,5,2999,14995
+7419,2026-05-31,CUST1273,Denim Jacket,Apparel,East,5,1999,9995
+7420,2026-06-01,CUST1067,Denim Jacket,Apparel,West,3,1999,5997
+7421,2026-06-01,CUST1084,Whiteboard,Office Supplies,East,2,1499,2998
+7422,2026-06-01,CUST1100,USB-C Hub,Electronics,North,2,1299,2598
+7423,2026-06-01,CUST1085,Whiteboard,Office Supplies,East,7,1499,10493
+7424,2026-06-01,CUST1063,Whiteboard,Office Supplies,North,1,1499,1499
+7425,2026-06-02,CUST1155,Bluetooth Speaker,Electronics,West,1,1999,1999
+7426,2026-06-02,CUST1047,Whiteboard,Office Supplies,West,3,1499,4497
+7427,2026-06-02,CUST1364,Laptop Stand,Electronics,West,5,899,4495
+7428,2026-06-02,CUST1363,Electric Kettle,Home & Kitchen,North,7,999,6993
+7429,2026-06-02,CUST1152,Air Fryer,Home & Kitchen,East,8,4499,35992
+7430,2026-06-03,CUST1211,Laptop Stand,Electronics,South,4,899,3596
+7431,2026-06-03,CUST1088,Coffee Maker,Home & Kitchen,South,5,2999,14995
+7432,2026-06-03,CUST1282,Winter Jacket,Apparel,West,7,3299,23093
+7433,2026-06-03,CUST1162,Notebook Pack,Office Supplies,East,2,249,498
+7434,2026-06-03,CUST1347,Laptop Stand,Electronics,West,8,899,7192
+7435,2026-06-04,CUST1030,LED Desk Lamp,Office Supplies,North,6,1199,7194
+7436,2026-06-04,CUST1231,Cotton T-Shirt,Apparel,South,5,599,2995
+7437,2026-06-04,CUST1293,Ergonomic Chair,Office Supplies,South,1,6999,6999
+7438,2026-06-04,CUST1212,Laptop Stand,Electronics,East,6,899,5394
+7439,2026-06-04,CUST1036,Winter Jacket,Apparel,West,8,3299,26392
+7440,2026-06-04,CUST1008,Bluetooth Speaker,Electronics,South,1,1999,1999
+7441,2026-06-05,CUST1070,Laptop Stand,Electronics,North,6,899,5394
+7442,2026-06-05,CUST1025,Smart Watch,Electronics,West,2,3499,6998
+7443,2026-06-05,CUST1104,Electric Kettle,Home & Kitchen,East,3,999,2997
+7444,2026-06-05,CUST1127,Desk Organizer,Office Supplies,South,4,799,3196
+7445,2026-06-05,CUST1121,Coffee Maker,Home & Kitchen,South,3,2999,8997
+7446,2026-06-05,CUST1213,Coffee Maker,Home & Kitchen,South,1,2999,2999
+7447,2026-06-06,CUST1245,Ergonomic Chair,Office Supplies,South,5,6999,34995
+7448,2026-06-06,CUST1086,Whiteboard,Office Supplies,South,6,1499,8994
+7449,2026-06-06,CUST1243,Smart Watch,Electronics,North,1,3499,3499
+7450,2026-06-07,CUST1245,Running Shoes,Apparel,East,4,2499,9996
+7451,2026-06-07,CUST1303,Winter Jacket,Apparel,West,6,3299,19794
+7452,2026-06-07,CUST1092,Smart Watch,Electronics,South,3,3499,10497
+7453,2026-06-08,CUST1052,Desk Organizer,Office Supplies,West,3,799,2397
+7454,2026-06-08,CUST1354,Air Fryer,Home & Kitchen,West,8,4499,35992
+7455,2026-06-08,CUST1108,Winter Jacket,Apparel,East,5,3299,16495
+7456,2026-06-09,CUST1363,Blender,Home & Kitchen,East,5,1799,8995
+7457,2026-06-09,CUST1092,Running Shoes,Apparel,South,5,2499,12495
+7458,2026-06-10,CUST1127,Air Fryer,Home & Kitchen,West,3,4499,13497
+7459,2026-06-10,CUST1017,Coffee Maker,Home & Kitchen,South,8,2999,23992
+7460,2026-06-10,CUST1215,Winter Jacket,Apparel,North,5,3299,16495
+7461,2026-06-10,CUST1011,Air Fryer,Home & Kitchen,West,4,4499,17996
+7462,2026-06-10,CUST1140,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7463,2026-06-10,CUST1246,Denim Jacket,Apparel,East,8,1999,15992
+7464,2026-06-11,CUST1386,LED Desk Lamp,Office Supplies,East,4,1199,4796
+7465,2026-06-11,CUST1374,Electric Kettle,Home & Kitchen,West,4,999,3996
+7466,2026-06-11,CUST1191,Coffee Maker,Home & Kitchen,East,5,2999,14995
+7467,2026-06-12,CUST1258,Whiteboard,Office Supplies,West,7,1499,10493
+7468,2026-06-12,CUST1198,Cotton T-Shirt,Apparel,South,8,599,4792
+7469,2026-06-12,CUST1140,Desk Organizer,Office Supplies,South,1,799,799
+7470,2026-06-12,CUST1302,Running Shoes,Apparel,South,5,2499,12495
+7471,2026-06-12,CUST1193,Denim Jacket,Apparel,North,7,1999,13993
+7472,2026-06-12,CUST1138,Laptop Stand,Electronics,West,6,899,5394
+7473,2026-06-13,CUST1365,Non-Stick Pan Set,Home & Kitchen,West,4,2299,9196
+7474,2026-06-13,CUST1231,Cotton T-Shirt,Apparel,North,3,599,1797
+7475,2026-06-13,CUST1074,Cotton T-Shirt,Apparel,North,4,599,2396
+7476,2026-06-13,CUST1302,Laptop Stand,Electronics,West,3,899,2697
+7477,2026-06-13,CUST1018,Ergonomic Chair,Office Supplies,East,3,6999,20997
+7478,2026-06-14,CUST1052,Desk Organizer,Office Supplies,East,6,799,4794
+7479,2026-06-14,CUST1325,Smart Watch,Electronics,East,4,3499,13996
+7480,2026-06-14,CUST1094,Wireless Earbuds,Electronics,North,7,1499,10493
+7481,2026-06-14,CUST1342,Cotton T-Shirt,Apparel,West,8,599,4792
+7482,2026-06-14,CUST1319,LED Desk Lamp,Office Supplies,South,5,1199,5995
+7483,2026-06-15,CUST1277,Bluetooth Speaker,Electronics,North,6,1999,11994
+7484,2026-06-15,CUST1012,Blender,Home & Kitchen,East,5,1799,8995
+7485,2026-06-15,CUST1101,Air Fryer,Home & Kitchen,East,2,4499,8998
+7486,2026-06-16,CUST1172,Running Shoes,Apparel,East,4,2499,9996
+7487,2026-06-16,CUST1304,LED Desk Lamp,Office Supplies,West,6,1199,7194
+7488,2026-06-17,CUST1046,Cotton T-Shirt,Apparel,North,8,599,4792
+7489,2026-06-17,CUST1226,USB-C Hub,Electronics,North,4,1299,5196
+7490,2026-06-17,CUST1105,Coffee Maker,Home & Kitchen,North,2,2999,5998
+7491,2026-06-18,CUST1091,Smart Watch,Electronics,South,4,3499,13996
+7492,2026-06-18,CUST1035,Bluetooth Speaker,Electronics,West,3,1999,5997
+7493,2026-06-18,CUST1263,Ergonomic Chair,Office Supplies,West,3,6999,20997
+7494,2026-06-19,CUST1195,Bluetooth Speaker,Electronics,West,5,1999,9995
+7495,2026-06-19,CUST1036,Smart Watch,Electronics,East,8,3499,27992
+7496,2026-06-19,CUST1229,Coffee Maker,Home & Kitchen,East,4,2999,11996
+7497,2026-06-19,CUST1176,Running Shoes,Apparel,North,4,2499,9996
+7498,2026-06-19,CUST1267,Smart Watch,Electronics,South,4,3499,13996
+7499,2026-06-20,CUST1330,Blender,Home & Kitchen,North,1,1799,1799
+7500,2026-06-20,CUST1159,Ergonomic Chair,Office Supplies,South,3,6999,20997
+7501,2026-06-21,CUST1358,Desk Organizer,Office Supplies,South,6,799,4794
+7502,2026-06-21,CUST1259,Coffee Maker,Home & Kitchen,South,2,2999,5998
+7503,2026-06-22,CUST1123,Air Fryer,Home & Kitchen,North,6,4499,26994
+7504,2026-06-22,CUST1336,Winter Jacket,Apparel,West,4,3299,13196
+7505,2026-06-23,CUST1210,Electric Kettle,Home & Kitchen,East,7,999,6993
+7506,2026-06-23,CUST1198,Denim Jacket,Apparel,North,5,1999,9995
+7507,2026-06-23,CUST1000,Running Shoes,Apparel,West,7,2499,17493
+7508,2026-06-23,CUST1195,Coffee Maker,Home & Kitchen,West,3,2999,8997
+7509,2026-06-23,CUST1213,Whiteboard,Office Supplies,East,1,1499,1499
+7510,2026-06-23,CUST1147,LED Desk Lamp,Office Supplies,West,8,1199,9592
+7511,2026-06-24,CUST1254,Electric Kettle,Home & Kitchen,South,8,999,7992
+7512,2026-06-24,CUST1324,USB-C Hub,Electronics,West,8,1299,10392
+7513,2026-06-24,CUST1082,Bluetooth Speaker,Electronics,South,8,1999,15992
+7514,2026-06-24,CUST1027,Desk Organizer,Office Supplies,North,6,799,4794
+7515,2026-06-24,CUST1065,Smart Watch,Electronics,North,3,3499,10497
+7516,2026-06-25,CUST1363,Electric Kettle,Home & Kitchen,East,2,999,1998
+7517,2026-06-25,CUST1326,Laptop Stand,Electronics,East,7,899,6293
+7518,2026-06-25,CUST1386,Coffee Maker,Home & Kitchen,West,5,2999,14995
+7519,2026-06-26,CUST1346,Bluetooth Speaker,Electronics,East,3,1999,5997
+7520,2026-06-26,CUST1324,Notebook Pack,Office Supplies,North,1,249,249
+7521,2026-06-26,CUST1230,USB-C Hub,Electronics,South,7,1299,9093
+7522,2026-06-26,CUST1139,USB-C Hub,Electronics,East,8,1299,10392
+7523,2026-06-26,CUST1301,Notebook Pack,Office Supplies,South,7,249,1743
+7524,2026-06-26,CUST1314,Sports Cap,Apparel,North,3,399,1197
+7525,2026-06-27,CUST1165,Notebook Pack,Office Supplies,South,8,249,1992
+7526,2026-06-27,CUST1161,Blender,Home & Kitchen,West,7,1799,12593
+7527,2026-06-27,CUST1080,Cotton T-Shirt,Apparel,West,5,599,2995
+7528,2026-06-28,CUST1186,Bluetooth Speaker,Electronics,North,8,1999,15992
+7529,2026-06-28,CUST1051,Running Shoes,Apparel,North,7,2499,17493
+7530,2026-06-28,CUST1393,Electric Kettle,Home & Kitchen,South,5,999,4995
+7531,2026-06-28,CUST1134,LED Desk Lamp,Office Supplies,North,3,1199,3597
+7532,2026-06-28,CUST1017,Desk Organizer,Office Supplies,East,2,799,1598
+7533,2026-06-28,CUST1353,Coffee Maker,Home & Kitchen,West,7,2999,20993
+7534,2026-06-29,CUST1267,Air Fryer,Home & Kitchen,South,6,4499,26994
+7535,2026-06-29,CUST1064,Denim Jacket,Apparel,East,6,1999,11994
+7536,2026-06-29,CUST1235,Winter Jacket,Apparel,West,4,3299,13196
+7537,2026-06-29,CUST1242,Cotton T-Shirt,Apparel,South,1,599,599
+7538,2026-06-29,CUST1017,Desk Organizer,Office Supplies,East,8,799,6392
+7539,2026-06-30,CUST1112,Whiteboard,Office Supplies,South,3,1499,4497
+7540,2026-06-30,CUST1390,Blender,Home & Kitchen,West,5,1799,8995
+7541,2026-06-30,CUST1002,Smart Watch,Electronics,North,8,3499,27992
+7542,2026-07-01,CUST1262,Denim Jacket,Apparel,South,7,1999,13993
+7543,2026-07-01,CUST1238,Denim Jacket,Apparel,South,2,1999,3998
+7544,2026-07-01,CUST1006,Whiteboard,Office Supplies,South,7,1499,10493
+7545,2026-07-02,CUST1372,Coffee Maker,Home & Kitchen,East,4,2999,11996
+7546,2026-07-02,CUST1017,Non-Stick Pan Set,Home & Kitchen,East,6,2299,13794
+7547,2026-07-03,CUST1315,Bluetooth Speaker,Electronics,West,6,1999,11994
+7548,2026-07-03,CUST1309,Wireless Earbuds,Electronics,West,6,1499,8994
+7549,2026-07-04,CUST1088,Electric Kettle,Home & Kitchen,East,7,999,6993
+7550,2026-07-04,CUST1116,LED Desk Lamp,Office Supplies,West,8,1199,9592
+7551,2026-07-04,CUST1386,Desk Organizer,Office Supplies,North,1,799,799
+7552,2026-07-04,CUST1238,Electric Kettle,Home & Kitchen,East,5,999,4995
+7553,2026-07-04,CUST1229,Wireless Earbuds,Electronics,West,6,1499,8994
+7554,2026-07-04,CUST1363,Notebook Pack,Office Supplies,South,6,249,1494
+7555,2026-07-05,CUST1259,Air Fryer,Home & Kitchen,South,6,4499,26994
+7556,2026-07-05,CUST1323,Non-Stick Pan Set,Home & Kitchen,North,5,2299,11495
+7557,2026-07-05,CUST1392,Sports Cap,Apparel,West,1,399,399
+7558,2026-07-05,CUST1307,Winter Jacket,Apparel,South,4,3299,13196
+7559,2026-07-05,CUST1373,Electric Kettle,Home & Kitchen,East,2,999,1998
+7560,2026-07-05,CUST1224,Ergonomic Chair,Office Supplies,South,6,6999,41994
+7561,2026-07-06,CUST1165,Electric Kettle,Home & Kitchen,East,5,999,4995
+7562,2026-07-06,CUST1054,Wireless Earbuds,Electronics,East,2,1499,2998
+7563,2026-07-06,CUST1161,Ergonomic Chair,Office Supplies,East,2,6999,13998
+7564,2026-07-06,CUST1133,Notebook Pack,Office Supplies,East,1,249,249
+7565,2026-07-06,CUST1247,Air Fryer,Home & Kitchen,North,2,4499,8998
+7566,2026-07-07,CUST1010,Bluetooth Speaker,Electronics,West,7,1999,13993
+7567,2026-07-07,CUST1372,Desk Organizer,Office Supplies,West,5,799,3995
+7568,2026-07-07,CUST1210,Ergonomic Chair,Office Supplies,North,4,6999,27996
+7569,2026-07-08,CUST1040,LED Desk Lamp,Office Supplies,South,5,1199,5995
+7570,2026-07-08,CUST1322,Running Shoes,Apparel,South,3,2499,7497
+7571,2026-07-08,CUST1065,Wireless Earbuds,Electronics,South,4,1499,5996
+7572,2026-07-09,CUST1018,Running Shoes,Apparel,North,1,2499,2499
+7573,2026-07-09,CUST1324,Non-Stick Pan Set,Home & Kitchen,North,6,2299,13794
+7574,2026-07-09,CUST1004,Whiteboard,Office Supplies,East,3,1499,4497
+7575,2026-07-09,CUST1264,USB-C Hub,Electronics,West,2,1299,2598
+7576,2026-07-09,CUST1065,USB-C Hub,Electronics,West,5,1299,6495
+7577,2026-07-10,CUST1383,Electric Kettle,Home & Kitchen,West,6,999,5994
+7578,2026-07-10,CUST1095,Bluetooth Speaker,Electronics,East,2,1999,3998
+7579,2026-07-10,CUST1357,Wireless Earbuds,Electronics,North,2,1499,2998
+7580,2026-07-10,CUST1286,Coffee Maker,Home & Kitchen,West,4,2999,11996
+7581,2026-07-10,CUST1268,Sports Cap,Apparel,South,5,399,1995
+7582,2026-07-10,CUST1047,Laptop Stand,Electronics,East,8,899,7192
+7583,2026-07-11,CUST1014,Laptop Stand,Electronics,West,4,899,3596
+7584,2026-07-11,CUST1299,Denim Jacket,Apparel,West,1,1999,1999
+7585,2026-07-11,CUST1152,Desk Organizer,Office Supplies,North,5,799,3995
+7586,2026-07-11,CUST1113,Sports Cap,Apparel,North,8,399,3192
+7587,2026-07-11,CUST1387,Smart Watch,Electronics,East,3,3499,10497
+7588,2026-07-11,CUST1033,LED Desk Lamp,Office Supplies,East,7,1199,8393
+7589,2026-07-12,CUST1039,LED Desk Lamp,Office Supplies,West,7,1199,8393
+7590,2026-07-12,CUST1091,Notebook Pack,Office Supplies,East,7,249,1743
+7591,2026-07-12,CUST1228,Denim Jacket,Apparel,North,8,1999,15992
+7592,2026-07-13,CUST1099,Cotton T-Shirt,Apparel,South,2,599,1198
+7593,2026-07-13,CUST1326,Sports Cap,Apparel,East,7,399,2793
+7594,2026-07-13,CUST1322,Smart Watch,Electronics,North,4,3499,13996
+7595,2026-07-13,CUST1264,Blender,Home & Kitchen,North,3,1799,5397
+7596,2026-07-13,CUST1232,Winter Jacket,Apparel,North,8,3299,26392
+7597,2026-07-13,CUST1385,Sports Cap,Apparel,North,2,399,798
+7598,2026-07-14,CUST1116,Denim Jacket,Apparel,South,8,1999,15992
+7599,2026-07-14,CUST1186,Blender,Home & Kitchen,West,4,1799,7196
+7600,2026-07-14,CUST1222,Cotton T-Shirt,Apparel,South,3,599,1797
+7601,2026-07-14,CUST1261,Denim Jacket,Apparel,North,1,1999,1999
+7602,2026-07-14,CUST1365,Running Shoes,Apparel,East,3,2499,7497
+7603,2026-07-14,CUST1237,Winter Jacket,Apparel,West,1,3299,3299
+7604,2026-07-15,CUST1068,Coffee Maker,Home & Kitchen,East,3,2999,8997
+7605,2026-07-15,CUST1342,Cotton T-Shirt,Apparel,East,4,599,2396
+7606,2026-07-15,CUST1023,Wireless Earbuds,Electronics,East,6,1499,8994
+7607,2026-07-16,CUST1166,Electric Kettle,Home & Kitchen,South,4,999,3996
+7608,2026-07-16,CUST1102,Notebook Pack,Office Supplies,South,5,249,1245
+7609,2026-07-17,CUST1288,Coffee Maker,Home & Kitchen,South,3,2999,8997
+7610,2026-07-17,CUST1360,Sports Cap,Apparel,East,7,399,2793
+7611,2026-07-18,CUST1059,Laptop Stand,Electronics,North,6,899,5394
+7612,2026-07-18,CUST1380,Ergonomic Chair,Office Supplies,South,8,6999,55992
+7613,2026-07-19,CUST1323,Whiteboard,Office Supplies,West,4,1499,5996
+7614,2026-07-19,CUST1128,Cotton T-Shirt,Apparel,East,1,599,599
+7615,2026-07-19,CUST1136,Bluetooth Speaker,Electronics,West,2,1999,3998
+7616,2026-07-19,CUST1104,USB-C Hub,Electronics,South,6,1299,7794
+7617,2026-07-19,CUST1233,Coffee Maker,Home & Kitchen,North,1,2999,2999
+7618,2026-07-19,CUST1305,Air Fryer,Home & Kitchen,South,2,4499,8998
+7619,2026-07-20,CUST1262,Denim Jacket,Apparel,East,1,1999,1999
+7620,2026-07-20,CUST1046,Running Shoes,Apparel,West,3,2499,7497
+7621,2026-07-20,CUST1078,Bluetooth Speaker,Electronics,East,6,1999,11994
+7622,2026-07-21,CUST1037,Sports Cap,Apparel,West,7,399,2793
+7623,2026-07-21,CUST1212,Desk Organizer,Office Supplies,East,2,799,1598
+7624,2026-07-21,CUST1321,Denim Jacket,Apparel,West,2,1999,3998
+7625,2026-07-21,CUST1253,Desk Organizer,Office Supplies,North,8,799,6392
+7626,2026-07-21,CUST1275,Smart Watch,Electronics,West,6,3499,20994
+7627,2026-07-22,CUST1024,Sports Cap,Apparel,North,3,399,1197
+7628,2026-07-22,CUST1381,Denim Jacket,Apparel,South,3,1999,5997
+7629,2026-07-22,CUST1099,Bluetooth Speaker,Electronics,South,6,1999,11994
+7630,2026-07-22,CUST1082,Notebook Pack,Office Supplies,East,2,249,498
+7631,2026-07-22,CUST1255,Running Shoes,Apparel,East,8,2499,19992
+7632,2026-07-22,CUST1297,Laptop Stand,Electronics,West,6,899,5394
+7633,2026-07-23,CUST1336,Wireless Earbuds,Electronics,North,4,1499,5996
+7634,2026-07-23,CUST1236,Coffee Maker,Home & Kitchen,South,1,2999,2999
+7635,2026-07-23,CUST1178,Ergonomic Chair,Office Supplies,West,2,6999,13998
+7636,2026-07-23,CUST1263,Cotton T-Shirt,Apparel,West,3,599,1797
+7637,2026-07-23,CUST1101,Air Fryer,Home & Kitchen,West,2,4499,8998
+7638,2026-07-23,CUST1210,Running Shoes,Apparel,East,2,2499,4998
+7639,2026-07-24,CUST1077,Electric Kettle,Home & Kitchen,West,1,999,999
+7640,2026-07-24,CUST1236,Ergonomic Chair,Office Supplies,West,1,6999,6999
+7641,2026-07-24,CUST1067,Air Fryer,Home & Kitchen,North,8,4499,35992
+7642,2026-07-24,CUST1378,Ergonomic Chair,Office Supplies,North,5,6999,34995
+7643,2026-07-24,CUST1085,Air Fryer,Home & Kitchen,West,3,4499,13497
+7644,2026-07-24,CUST1075,Non-Stick Pan Set,Home & Kitchen,West,1,2299,2299
+7645,2026-07-25,CUST1254,Smart Watch,Electronics,South,5,3499,17495
+7646,2026-07-25,CUST1206,Desk Organizer,Office Supplies,North,8,799,6392
+7647,2026-07-25,CUST1286,Blender,Home & Kitchen,West,6,1799,10794
+7648,2026-07-25,CUST1369,Denim Jacket,Apparel,North,3,1999,5997
+7649,2026-07-25,CUST1276,Bluetooth Speaker,Electronics,North,2,1999,3998
+7650,2026-07-25,CUST1112,Wireless Earbuds,Electronics,East,6,1499,8994
+7651,2026-07-26,CUST1077,Desk Organizer,Office Supplies,South,8,799,6392
+7652,2026-07-26,CUST1397,Coffee Maker,Home & Kitchen,West,5,2999,14995
+7653,2026-07-26,CUST1365,Electric Kettle,Home & Kitchen,East,6,999,5994
+7654,2026-07-26,CUST1078,Winter Jacket,Apparel,South,6,3299,19794
+7655,2026-07-26,CUST1316,Bluetooth Speaker,Electronics,West,1,1999,1999
+7656,2026-07-27,CUST1077,Blender,Home & Kitchen,West,5,1799,8995
+7657,2026-07-27,CUST1165,Whiteboard,Office Supplies,South,3,1499,4497
+7658,2026-07-27,CUST1011,Sports Cap,Apparel,East,5,399,1995
+7659,2026-07-27,CUST1327,Sports Cap,Apparel,West,2,399,798
+7660,2026-07-27,CUST1279,USB-C Hub,Electronics,West,4,1299,5196
+7661,2026-07-27,CUST1340,Desk Organizer,Office Supplies,West,5,799,3995
+7662,2026-07-28,CUST1168,USB-C Hub,Electronics,South,5,1299,6495
+7663,2026-07-28,CUST1364,Notebook Pack,Office Supplies,South,2,249,498
+7664,2026-07-28,CUST1107,Smart Watch,Electronics,North,3,3499,10497
+7665,2026-07-28,CUST1240,Electric Kettle,Home & Kitchen,East,6,999,5994
+7666,2026-07-28,CUST1041,Desk Organizer,Office Supplies,South,7,799,5593
+7667,2026-07-28,CUST1095,Air Fryer,Home & Kitchen,North,5,4499,22495
+7668,2026-07-29,CUST1099,Cotton T-Shirt,Apparel,West,3,599,1797
+7669,2026-07-29,CUST1137,LED Desk Lamp,Office Supplies,West,1,1199,1199
+7670,2026-07-29,CUST1016,Winter Jacket,Apparel,West,7,3299,23093
+7671,2026-07-30,CUST1332,Denim Jacket,Apparel,North,5,1999,9995
+7672,2026-07-30,CUST1384,Winter Jacket,Apparel,North,5,3299,16495
+7673,2026-07-30,CUST1286,Blender,Home & Kitchen,North,8,1799,14392
+7674,2026-07-30,CUST1392,Cotton T-Shirt,Apparel,West,7,599,4193
+7675,2026-07-30,CUST1279,Sports Cap,Apparel,South,4,399,1596
+7676,2026-07-30,CUST1302,Notebook Pack,Office Supplies,North,8,249,1992
+7677,2026-07-31,CUST1219,Smart Watch,Electronics,East,8,3499,27992
+7678,2026-07-31,CUST1039,Wireless Earbuds,Electronics,North,4,1499,5996
+7679,2026-07-31,CUST1185,Electric Kettle,Home & Kitchen,North,3,999,2997
+7680,2026-08-01,CUST1042,Coffee Maker,Home & Kitchen,West,2,2999,5998
+7681,2026-08-01,CUST1237,USB-C Hub,Electronics,East,6,1299,7794
+7682,2026-08-01,CUST1033,Sports Cap,Apparel,North,4,399,1596
+7683,2026-08-01,CUST1096,USB-C Hub,Electronics,West,7,1299,9093
+7684,2026-08-01,CUST1082,Sports Cap,Apparel,East,5,399,1995
+7685,2026-08-01,CUST1360,Bluetooth Speaker,Electronics,South,4,1999,7996
+7686,2026-08-02,CUST1027,Bluetooth Speaker,Electronics,North,3,1999,5997
+7687,2026-08-02,CUST1330,Wireless Earbuds,Electronics,South,1,1499,1499
+7688,2026-08-02,CUST1298,USB-C Hub,Electronics,North,1,1299,1299
+7689,2026-08-03,CUST1024,Ergonomic Chair,Office Supplies,North,7,6999,48993
+7690,2026-08-03,CUST1089,Smart Watch,Electronics,South,2,3499,6998
+7691,2026-08-04,CUST1066,Denim Jacket,Apparel,North,4,1999,7996
+7692,2026-08-04,CUST1338,Winter Jacket,Apparel,South,1,3299,3299
+7693,2026-08-05,CUST1204,LED Desk Lamp,Office Supplies,West,2,1199,2398
+7694,2026-08-05,CUST1377,Sports Cap,Apparel,East,4,399,1596
+7695,2026-08-06,CUST1194,LED Desk Lamp,Office Supplies,West,3,1199,3597
+7696,2026-08-06,CUST1242,Laptop Stand,Electronics,West,3,899,2697
+7697,2026-08-07,CUST1088,Wireless Earbuds,Electronics,South,2,1499,2998
+7698,2026-08-07,CUST1054,Sports Cap,Apparel,East,1,399,399
+7699,2026-08-07,CUST1095,Electric Kettle,Home & Kitchen,South,7,999,6993
+7700,2026-08-08,CUST1298,Denim Jacket,Apparel,South,2,1999,3998
+7701,2026-08-08,CUST1295,Notebook Pack,Office Supplies,North,7,249,1743
+7702,2026-08-08,CUST1107,LED Desk Lamp,Office Supplies,South,1,1199,1199
+7703,2026-08-09,CUST1190,LED Desk Lamp,Office Supplies,West,1,1199,1199
+7704,2026-08-09,CUST1103,Non-Stick Pan Set,Home & Kitchen,North,4,2299,9196
+7705,2026-08-09,CUST1226,Ergonomic Chair,Office Supplies,West,3,6999,20997
+7706,2026-08-09,CUST1036,Blender,Home & Kitchen,East,6,1799,10794
+7707,2026-08-09,CUST1241,Sports Cap,Apparel,North,4,399,1596
+7708,2026-08-09,CUST1339,Notebook Pack,Office Supplies,West,3,249,747
+7709,2026-08-10,CUST1092,Notebook Pack,Office Supplies,East,4,249,996
+7710,2026-08-10,CUST1031,Desk Organizer,Office Supplies,West,3,799,2397
+7711,2026-08-10,CUST1195,Laptop Stand,Electronics,East,7,899,6293
+7712,2026-08-11,CUST1238,LED Desk Lamp,Office Supplies,South,8,1199,9592
+7713,2026-08-11,CUST1115,Desk Organizer,Office Supplies,South,3,799,2397
+7714,2026-08-11,CUST1268,Cotton T-Shirt,Apparel,East,7,599,4193
+7715,2026-08-11,CUST1067,Desk Organizer,Office Supplies,South,7,799,5593
+7716,2026-08-11,CUST1229,Air Fryer,Home & Kitchen,West,8,4499,35992
+7717,2026-08-12,CUST1156,Whiteboard,Office Supplies,South,2,1499,2998
+7718,2026-08-12,CUST1269,Electric Kettle,Home & Kitchen,West,6,999,5994
+7719,2026-08-12,CUST1219,Wireless Earbuds,Electronics,North,1,1499,1499
+7720,2026-08-12,CUST1137,Whiteboard,Office Supplies,West,4,1499,5996
+7721,2026-08-12,CUST1058,Electric Kettle,Home & Kitchen,West,4,999,3996
+7722,2026-08-13,CUST1156,Denim Jacket,Apparel,West,8,1999,15992
+7723,2026-08-13,CUST1151,Coffee Maker,Home & Kitchen,East,4,2999,11996
+7724,2026-08-14,CUST1335,Winter Jacket,Apparel,South,5,3299,16495
+7725,2026-08-14,CUST1196,Electric Kettle,Home & Kitchen,East,5,999,4995
+7726,2026-08-15,CUST1137,USB-C Hub,Electronics,East,1,1299,1299
+7727,2026-08-15,CUST1130,Non-Stick Pan Set,Home & Kitchen,North,8,2299,18392
+7728,2026-08-15,CUST1096,Laptop Stand,Electronics,East,7,899,6293
